@@ -216,3 +216,15 @@ http://cosmosiptv.com:89/live/chris123/chris123/47842
 http://cosmosiptv.com:89/live/chris123/chris123/47843
 #EXTINF:-1,IT | Food Network
 http://cosmosiptv.com:89/live/chris123/chris123/47844
+#EXTINF:-1,Rai 1
+http://93.46.122.186:9981/stream/channelid/945910611?profile=pass
+#EXTINF:-1,Rai 4
+http://93.46.122.186:9981/stream/channelid/2014327117?profile=pass
+#EXTINF:-1,Rai Movie
+http://93.46.122.186:9981/stream/channelid/407672882?profile=pass
+#EXTINF:-1,Rai Premium
+http://93.46.122.186:9981/stream/channelid/1429320203?profile=pass
+#EXTINF:-1,Rai Gulp
+http://93.46.122.186:9981/stream/channelid/632971828?profile=pass
+#EXTINF:-1,Rai YoYo
+http://93.46.122.186:9981/stream/channelid/541797439?profile=pass
