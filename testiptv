@@ -206,10 +206,6 @@ http://tvku.live:8888/Arifardianayah/Arif/1204
 http://tvku.live:8888/Arifardianayah/Arif/907
 #EXTINF:-1,Toonmax
 http://tvku.live:8888/Arifardianayah/Arif/1116
-#EXTINF:-1,Nickelodeon ID
-http://tvku.live:8888/Arifardianayah/Arif/962
-#EXTINF:-1,Nick Jr ID
-http://tvku.live:8888/Arifardianayah/Arif/522
 #EXTINF:-1,Dream Works HD
 http://tvku.live:8888/Arifardianayah/Arif/936
 #EXTINF:-1,Disney Channel
@@ -304,8 +300,6 @@ http://tvku.live:8888/Arifardianayah/Arif/874
 http://tvku.live:8888/Arifardianayah/Arif/2156
 #EXTINF:-1,LifeTime FHD
 http://tvku.live:8888/Arifardianayah/Arif/866
-#EXTINF:-1,Warner TV ID HD
-http://tvku.live:8888/Arifardianayah/Arif/1533
 #EXTINF:-1,Star Chinese Movies HD
 http://tvku.live:8888/Arifardianayah/Arif/780
 #EXTINF:-1,Blue Ant Extreme FHD
@@ -380,8 +374,6 @@ http://tvku.live:8888/Arifardianayah/Arif/921
 http://tvku.live:8888/Arifardianayah/Arif/1157
 #EXTINF:-1,MTV LIVE FHD
 http://tvku.live:8888/Arifardianayah/Arif/9110
-#EXTINF:-1,TLC English
-http://tvku.live:8888/Arifardianayah/Arif/351
 #EXTINF:-1,Golf Channel FHD
 http://tvku.live:8888/Arifardianayah/Arif/561
 #EXTINF:-1,BeIN Sport 1 ID
@@ -452,8 +444,6 @@ http://tvku.live:8888/Arifardianayah/Arif/784
 http://tvku.live:8888/Arifardianayah/Arif/299
 #EXTINF:-1,NBA TV HD
 http://tvku.live:8888/Arifardianayah/Arif/3099
-#EXTINF:-1,PL: Eleven Sports 4 HD
-http://tvku.live:8888/Arifardianayah/Arif/2743
 #EXTINF:-1,ZA: SuperSport MáXimo
 http://tvku.live:8888/Arifardianayah/Arif/2901
 #EXTINF:-1,ZA: Supersport Blitz
@@ -484,18 +474,6 @@ http://tvku.live:8888/Arifardianayah/Arif/3464
 http://tvku.live:8888/Arifardianayah/Arif/3465
 #EXTINF:-1,UK Sport Backup: Sky Sports Action FHD
 http://tvku.live:8888/Arifardianayah/Arif/3468
-#EXTINF:-1,VN: SERIE A 1
-http://tvku.live:8888/Arifardianayah/Arif/2777
-#EXTINF:-1,VN: SERIE A 3
-http://tvku.live:8888/Arifardianayah/Arif/2779
-#EXTINF:-1,VN: SERIE A 5
-http://tvku.live:8888/Arifardianayah/Arif/2780
-#EXTINF:-1,VN: SERIE A 4
-http://tvku.live:8888/Arifardianayah/Arif/2784
-#EXTINF:-1,VN: SERIE A 9
-http://tvku.live:8888/Arifardianayah/Arif/2785
-#EXTINF:-1,VN: SERIE A 10
-http://tvku.live:8888/Arifardianayah/Arif/2786
 #EXTINF:-1,PT: Eleven Sports 1 HD
 http://tvku.live:8888/Arifardianayah/Arif/2978
 #EXTINF:-1,PT: Eleven Sports 3 HD
@@ -506,26 +484,12 @@ http://tvku.live:8888/Arifardianayah/Arif/2975
 http://tvku.live:8888/Arifardianayah/Arif/2974
 #EXTINF:-1,PT: Eleven Sports 6 HD
 http://tvku.live:8888/Arifardianayah/Arif/2973
-#EXTINF:-1,MY: Fox Action Movies
-http://tvku.live:8888/Arifardianayah/Arif/2351
-#EXTINF:-1,MY: Now International
-http://tvku.live:8888/Arifardianayah/Arif/2361
 #EXTINF:-1,MY: Paramount Channel
 http://tvku.live:8888/Arifardianayah/Arif/2363
-#EXTINF:-1,MY: Fox Life
-http://tvku.live:8888/Arifardianayah/Arif/2366
-#EXTINF:-1,MY: Fox
-http://tvku.live:8888/Arifardianayah/Arif/2367
-#EXTINF:-1,MY: BBC Earth
-http://tvku.live:8888/Arifardianayah/Arif/2379
 #EXTINF:-1,Astro AEC HD
 http://tvku.live:8888/Arifardianayah/Arif/4257
 #EXTINF:-1,MY AFC HD
 http://tvku.live:8888/Arifardianayah/Arif/4258
-#EXTINF:-1,MY Animal Planet HD
-http://tvku.live:8888/Arifardianayah/Arif/4259
-#EXTINF:-1,Astro AOD 351
-http://tvku.live:8888/Arifardianayah/Arif/4262
 #EXTINF:-1,Astro AOD 353
 http://tvku.live:8888/Arifardianayah/Arif/4264
 #EXTINF:-1,Astro AOD 361
@@ -538,8 +502,6 @@ http://tvku.live:8888/Arifardianayah/Arif/4267
 http://tvku.live:8888/Arifardianayah/Arif/4268
 #EXTINF:-1,Astro Awani
 http://tvku.live:8888/Arifardianayah/Arif/4269
-#EXTINF:-1,MY AXN HD
-http://tvku.live:8888/Arifardianayah/Arif/4270
 #EXTINF:-1,MY beIN SPORTS
 http://tvku.live:8888/Arifardianayah/Arif/4274
 #EXTINF:-1,MY BNC
@@ -548,30 +510,18 @@ http://tvku.live:8888/Arifardianayah/Arif/4276
 http://tvku.live:8888/Arifardianayah/Arif/4277
 #EXTINF:-1,MY CCM
 http://tvku.live:8888/Arifardianayah/Arif/4279
-#EXTINF:-1,MY CELESTIAL HD
-http://tvku.live:8888/Arifardianayah/Arif/4281
 #EXTINF:-1,Astro Ceria
 http://tvku.live:8888/Arifardianayah/Arif/4282
 #EXTINF:-1,MY CINEMAX HD
 http://tvku.live:8888/Arifardianayah/Arif/4286
-#EXTINF:-1,MY CLASSIC MOVIES
-http://tvku.live:8888/Arifardianayah/Arif/4287
-#EXTINF:-1,MY CNBC
-http://tvku.live:8888/Arifardianayah/Arif/4288
 #EXTINF:-1,MY CNN HD
 http://tvku.live:8888/Arifardianayah/Arif/4289
-#EXTINF:-1,MY COLORS HD
-http://tvku.live:8888/Arifardianayah/Arif/4290
 #EXTINF:-1,MY CTI ASIA
 http://tvku.live:8888/Arifardianayah/Arif/4291
 #EXTINF:-1,MY Discovery Science HD
 http://tvku.live:8888/Arifardianayah/Arif/4292
-#EXTINF:-1,MY Discovery Asia
-http://tvku.live:8888/Arifardianayah/Arif/4293
 #EXTINF:-1,MY Disney Channel
 http://tvku.live:8888/Arifardianayah/Arif/4295
-#EXTINF:-1,MY Disney Junior
-http://tvku.live:8888/Arifardianayah/Arif/4296
 #EXTINF:-1,MY eGG Network
 http://tvku.live:8888/Arifardianayah/Arif/4301
 #EXTINF:-1,MY EUROSPORT HD
@@ -586,18 +536,12 @@ http://tvku.live:8888/Arifardianayah/Arif/4306
 http://tvku.live:8888/Arifardianayah/Arif/4307
 #EXTINF:-1,MY HBO HD
 http://tvku.live:8888/Arifardianayah/Arif/4308
-#EXTINF:-1,MY HGTV HD
-http://tvku.live:8888/Arifardianayah/Arif/4310
 #EXTINF:-1,MY HISTORY HD
 http://tvku.live:8888/Arifardianayah/Arif/4311
-#EXTINF:-1,MY HITS HD
-http://tvku.live:8888/Arifardianayah/Arif/4312
 #EXTINF:-1,Astro HUA HEE DAI HD
 http://tvku.live:8888/Arifardianayah/Arif/4313
 #EXTINF:-1,MY JAYA TV
 http://tvku.live:8888/Arifardianayah/Arif/4315
-#EXTINF:-1,MY KBS WORLD HD
-http://tvku.live:8888/Arifardianayah/Arif/4317
 #EXTINF:-1,MY KIX HD
 http://tvku.live:8888/Arifardianayah/Arif/4318
 #EXTINF:-1,MY KPLUS HD
@@ -608,22 +552,8 @@ http://tvku.live:8888/Arifardianayah/Arif/4320
 http://tvku.live:8888/Arifardianayah/Arif/4324
 #EXTINF:-1,MY ONE HD
 http://tvku.live:8888/Arifardianayah/Arif/4325
-#EXTINF:-1,Astro Prima HD
-http://tvku.live:8888/Arifardianayah/Arif/4326
 #EXTINF:-1,Astro QUAN JIA HD
 http://tvku.live:8888/Arifardianayah/Arif/4327
-#EXTINF:-1,Astro Ria HD
-http://tvku.live:8888/Arifardianayah/Arif/4329
-#EXTINF:-1,MY SUN TV HD
-http://tvku.live:8888/Arifardianayah/Arif/4334
-#EXTINF:-1,MY TLC HD
-http://tvku.live:8888/Arifardianayah/Arif/4335
-#EXTINF:-1,MY TVB CLASSIC
-http://tvku.live:8888/Arifardianayah/Arif/4339
-#EXTINF:-1,MY TVB XING HE
-http://tvku.live:8888/Arifardianayah/Arif/4342
-#EXTINF:-1,MY TVBS ASIA
-http://tvku.live:8888/Arifardianayah/Arif/4343
 #EXTINF:-1,Astro TVIQ
 http://tvku.live:8888/Arifardianayah/Arif/4344
 #EXTINF:-1,Astro WAH LAI TOI HD
@@ -642,60 +572,20 @@ http://tvku.live:8888/Arifardianayah/Arif/4361
 http://tvku.live:8888/Arifardianayah/Arif/4362
 #EXTINF:-1,MY FOX SPORTS 2 HD
 http://tvku.live:8888/Arifardianayah/Arif/4366
-#EXTINF:-1,MY FOX SPORTS 3 HD
-http://tvku.live:8888/Arifardianayah/Arif/4367
-#EXTINF:-1,MY MTV
-http://tvku.live:8888/Arifardianayah/Arif/4370
-#EXTINF:-1,MY WARNER TV
-http://tvku.live:8888/Arifardianayah/Arif/4376
-#EXTINF:-1,MY Fox Life HD
-http://tvku.live:8888/Arifardianayah/Arif/4379
-#EXTINF:-1,MY Fox Movies HD
-http://tvku.live:8888/Arifardianayah/Arif/4390
-#EXTINF:-1,MY Fox Movies Family HD
-http://tvku.live:8888/Arifardianayah/Arif/4392
-#EXTINF:-1,MY FOX HD
-http://tvku.live:8888/Arifardianayah/Arif/4393
-#EXTINF:-1,VN: KIX HD
-http://tvku.live:8888/Arifardianayah/Arif/2800
-#EXTINF:-1,VN: FOX LIFE HD
-http://tvku.live:8888/Arifardianayah/Arif/2801
-#EXTINF:-1,VN: BBC NEWS
-http://tvku.live:8888/Arifardianayah/Arif/2809
-#EXTINF:-1,VN: BBC LIFESTYLE
-http://tvku.live:8888/Arifardianayah/Arif/2810
-#EXTINF:-1,VN: BABY FIRST HD
-http://tvku.live:8888/Arifardianayah/Arif/2811
 #EXTINF:-1,IN: Star Vijay
 http://tvku.live:8888/Arifardianayah/Arif/2545
-#EXTINF:-1,IN: SUN Life
-http://tvku.live:8888/Arifardianayah/Arif/2556
 #EXTINF:-1,CN: CCTV 1
 http://tvku.live:8888/Arifardianayah/Arif/2909
-#EXTINF:-1,CN: CCTV 2
-http://tvku.live:8888/Arifardianayah/Arif/2910
 #EXTINF:-1,CN: CCTV 4
 http://tvku.live:8888/Arifardianayah/Arif/2912
 #EXTINF:-1,CN: CCTV 5
 http://tvku.live:8888/Arifardianayah/Arif/2913
-#EXTINF:-1,CN: CCTV 5+
-http://tvku.live:8888/Arifardianayah/Arif/2914
-#EXTINF:-1,CN: CCTV 6
-http://tvku.live:8888/Arifardianayah/Arif/2915
-#EXTINF:-1,CN: CCTV 8
-http://tvku.live:8888/Arifardianayah/Arif/2917
 #EXTINF:-1,CN: CCTV 9
 http://tvku.live:8888/Arifardianayah/Arif/2918
-#EXTINF:-1,CN: CCTV 10
-http://tvku.live:8888/Arifardianayah/Arif/2919
-#EXTINF:-1,CN: CCTV 12
-http://tvku.live:8888/Arifardianayah/Arif/2921
 #EXTINF:-1,CN: CCTV 15
 http://tvku.live:8888/Arifardianayah/Arif/2924
 #EXTINF:-1,TV3
 http://tvku.live:8888/Arifardianayah/Arif/2264
-#EXTINF:-1,TV8
-http://tvku.live:8888/Arifardianayah/Arif/2333
 #EXTINF:-1,PH: Asia News
 http://tvku.live:8888/Arifardianayah/Arif/3418
 #EXTINF:-1,PH: Asian Food Channel
@@ -704,8 +594,6 @@ http://tvku.live:8888/Arifardianayah/Arif/3419
 http://tvku.live:8888/Arifardianayah/Arif/3423
 #EXTINF:-1,PH: Euronews
 http://tvku.live:8888/Arifardianayah/Arif/3434
-#EXTINF:-1,PH: History
-http://tvku.live:8888/Arifardianayah/Arif/3439
 #EXTINF:-1,PH: Living Asia
 http://tvku.live:8888/Arifardianayah/Arif/3443
 #EXTINF:-1,PH: NatGeo
@@ -714,42 +602,16 @@ http://tvku.live:8888/Arifardianayah/Arif/3444
 http://tvku.live:8888/Arifardianayah/Arif/3447
 #EXTINF:-1,PH: StingrayClassica
 http://tvku.live:8888/Arifardianayah/Arif/3448
-#EXTINF:-1,PH:Travel
-http://tvku.live:8888/Arifardianayah/Arif/3450
-#EXTINF:-1,AR: MBC Drama HD
-http://tvku.live:8888/Arifardianayah/Arif/2565
-#EXTINF:-1,AR: Nile Cinema
-http://tvku.live:8888/Arifardianayah/Arif/2584
-#EXTINF:-1,AR: Nile Drama
-http://tvku.live:8888/Arifardianayah/Arif/2581
 #EXTINF:-1,AR: Nile Family
 http://tvku.live:8888/Arifardianayah/Arif/2576
-#EXTINF:-1,AR: NILE NEWS
-http://tvku.live:8888/Arifardianayah/Arif/2579
 #EXTINF:-1,Usee Photo
 http://tvku.live:8888/Arifardianayah/Arif/9039
-#EXTINF:-1,Usee Prime
-http://tvku.live:8888/Arifardianayah/Arif/9040
 #EXTINF:-1,Id Ku
 http://tvku.live:8888/Arifardianayah/Arif/9041
-#EXTINF:-1,True Premier Football HD 1
-http://tvku.live:8888/Arifardianayah/Arif/11191
-#EXTINF:-1,True Premier Football HD 3
-http://tvku.live:8888/Arifardianayah/Arif/11193
-#EXTINF:-1,FMN
-http://tvku.live:8888/Arifardianayah/Arif/11489
 #EXTINF:-1,Sony Ten 1 HD
 http://tvku.live:8888/Arifardianayah/Arif/12132
-#EXTINF:-1,Sony Ten 2 HD
-http://tvku.live:8888/Arifardianayah/Arif/12133
 #EXTINF:-1,Sony Ten 3 HD
 http://tvku.live:8888/Arifardianayah/Arif/12134
-#EXTINF:-1,Sony Espn HD
-http://tvku.live:8888/Arifardianayah/Arif/12135
-#EXTINF:-1,Piala Indonesia
-http://tvku.live:8888/Arifardianayah/Arif/2150
-#EXTINF:-1,AFF Futsal Championship 2019
-http://tvku.live:8888/Arifardianayah/Arif/3104
 #EXTINF:-1,Sinema Indonesia
 http://tvku.live:8888/Arifardianayah/Arif/3476
 #EXTINF:-1,Channel 5
@@ -766,20 +628,10 @@ http://tvku.live:8888/Arifardianayah/Arif/2865
 http://tvku.live:8888/Arifardianayah/Arif/2855
 #EXTINF:-1,VIP TH: Truesport HD 2
 http://tvku.live:8888/Arifardianayah/Arif/2856
-#EXTINF:-1,VIP TH: True Tennis HD
-http://tvku.live:8888/Arifardianayah/Arif/2854
-#EXTINF:-1,VIP TH: Truesport 2
-http://tvku.live:8888/Arifardianayah/Arif/2857
 #EXTINF:-1,TVRI
 http://tvku.live:8888/Arifardianayah/Arif/36
 #EXTINF:-1,Duck TV UK
 http://tvku.live:8888/Arifardianayah/Arif/14944
-#EXTINF:-1,Joker (2019) 4K
-http://tvku.live:8888/movie/Arifardianayah/Arif/14247.mkv
-#EXTINF:-1,Terminator: Dark Fate (2019) 4K
-http://tvku.live:8888/movie/Arifardianayah/Arif/14246.mkv
-#EXTINF:-1,Avengers: Endgame (2019) 4K
-http://tvku.live:8888/movie/Arifardianayah/Arif/11758.mkv
 #EXTINF:-1,Spider-Man: Far from Home (2019) 4K
 http://tvku.live:8888/movie/Arifardianayah/Arif/11955.mkv
 #EXTINF:-1,Ad Astra (2019) 4K
@@ -802,64 +654,34 @@ http://tvku.live:8888/movie/Arifardianayah/Arif/2984.mkv
 http://tvku.live:8888/movie/Arifardianayah/Arif/2985.mkv
 #EXTINF:-1,A Day
 http://tvku.live:8888/movie/Arifardianayah/Arif/3568.mkv
-#EXTINF:-1,A Dog's Journey
-http://tvku.live:8888/movie/Arifardianayah/Arif/2986.mkv
-#EXTINF:-1,A Fantastic Woman
-http://tvku.live:8888/movie/Arifardianayah/Arif/2987.mkv
-#EXTINF:-1,A Fistful of Lead
-http://tvku.live:8888/movie/Arifardianayah/Arif/2988.mkv
 #EXTINF:-1,Acts of Vengeance
 http://tvku.live:8888/movie/Arifardianayah/Arif/3570.mkv
-#EXTINF:-1,Ad Astra (CAM)
-http://tvku.live:8888/movie/Arifardianayah/Arif/3944.mp4
 #EXTINF:-1,Alita: Battle Angel
 http://tvku.live:8888/movie/Arifardianayah/Arif/2989.mkv
 #EXTINF:-1,American Assassin
 http://tvku.live:8888/movie/Arifardianayah/Arif/2991.mkv
 #EXTINF:-1,American Dreamer
 http://tvku.live:8888/movie/Arifardianayah/Arif/3571.mkv
-#EXTINF:-1,American Mary
-http://tvku.live:8888/movie/Arifardianayah/Arif/3572.mkv
 #EXTINF:-1,Amy
 http://tvku.live:8888/movie/Arifardianayah/Arif/2993.mkv
 #EXTINF:-1,An Interview with God
 http://tvku.live:8888/movie/Arifardianayah/Arif/2994.mkv
-#EXTINF:-1,Anna and the Apocalypse
-http://tvku.live:8888/movie/Arifardianayah/Arif/2996.mkv
 #EXTINF:-1,Annabelle: Creation
 http://tvku.live:8888/movie/Arifardianayah/Arif/2998.mkv
-#EXTINF:-1,Apollo 11
-http://tvku.live:8888/movie/Arifardianayah/Arif/2999.mkv
-#EXTINF:-1,Avengement
-http://tvku.live:8888/movie/Arifardianayah/Arif/3575.mkv
-#EXTINF:-1,Avengers: Age of Ultron
-http://tvku.live:8888/movie/Arifardianayah/Arif/3000.mkv
 #EXTINF:-1,Avengers: Endgame
 http://tvku.live:8888/movie/Arifardianayah/Arif/3654.mp4
 #EXTINF:-1,Avengers: Infinity War
 http://tvku.live:8888/movie/Arifardianayah/Arif/3001.mkv
 #EXTINF:-1,Baby Driver
 http://tvku.live:8888/movie/Arifardianayah/Arif/3003.mkv
-#EXTINF:-1,Back Roads
-http://tvku.live:8888/movie/Arifardianayah/Arif/3004.mkv
 #EXTINF:-1,Bad Cat
 http://tvku.live:8888/movie/Arifardianayah/Arif/3005.mkv
 #EXTINF:-1,Batman
 http://tvku.live:8888/movie/Arifardianayah/Arif/3007.mkv
-#EXTINF:-1,Batman Forever
-http://tvku.live:8888/movie/Arifardianayah/Arif/3008.mkv
-#EXTINF:-1,Batman Ninja
-http://tvku.live:8888/movie/Arifardianayah/Arif/3012.mkv
 #EXTINF:-1,Batman: Gotham by Gaslight
 http://tvku.live:8888/movie/Arifardianayah/Arif/3009.mkv
-#EXTINF:-1,Batman: The Dark Knight Returns (Deluxe Edition)
-http://tvku.live:8888/movie/Arifardianayah/Arif/3014.mkv
 #EXTINF:-1,Be with You
 http://tvku.live:8888/movie/Arifardianayah/Arif/3018.mkv
-#EXTINF:-1,Beasts of the Southern Wild
-http://tvku.live:8888/movie/Arifardianayah/Arif/3655.mkv
-#EXTINF:-1,Beauty and the Beast
-http://tvku.live:8888/movie/Arifardianayah/Arif/3019.mkv
 #EXTINF:-1,Begin Again
 http://tvku.live:8888/movie/Arifardianayah/Arif/3020.mkv
 #EXTINF:-1,Bel Canto
@@ -867,107 +689,53 @@ http://tvku.live:8888/movie/Arifardianayah/Arif/3656.mkv
 #EXTINF:-1,Birds of Passage
 http://tvku.live:8888/movie/Arifardianayah/Arif/3022.mkv
 #EXTINF:-1,Bisikan Iblis
-http://tvku.live:8888/movie/Arifardianayah/Arif/3890.mp4
-#EXTINF:-1,Bisikan Iblis
 http://tvku.live:8888/movie/Arifardianayah/Arif/3904.mp4
 #EXTINF:-1,Blue Spring
 http://tvku.live:8888/movie/Arifardianayah/Arif/3659.mkv
 #EXTINF:-1,Bohemian Rhapsody
 http://tvku.live:8888/movie/Arifardianayah/Arif/3023.mkv
-#EXTINF:-1,Boy Erased
-http://tvku.live:8888/movie/Arifardianayah/Arif/3025.mkv
-#EXTINF:-1,Boyne Falls
-http://tvku.live:8888/movie/Arifardianayah/Arif/3026.mkv
-#EXTINF:-1,Breaker
-http://tvku.live:8888/movie/Arifardianayah/Arif/3563.mkv
 #EXTINF:-1,Bukan Pocong Biasa
 http://tvku.live:8888/movie/Arifardianayah/Arif/3868.mp4
 #EXTINF:-1,Bukti
 http://tvku.live:8888/movie/Arifardianayah/Arif/3913.mp4
 #EXTINF:-1,Burn Your Maps
 http://tvku.live:8888/movie/Arifardianayah/Arif/3661.mkv
-#EXTINF:-1,Camp Rock
-http://tvku.live:8888/movie/Arifardianayah/Arif/3662.mkv
 #EXTINF:-1,Can You Keep a Secret?
 http://tvku.live:8888/movie/Arifardianayah/Arif/3033.mkv
-#EXTINF:-1,Captain America: Civil War
-http://tvku.live:8888/movie/Arifardianayah/Arif/3034.mkv
-#EXTINF:-1,Captain America: The Winter Soldier
-http://tvku.live:8888/movie/Arifardianayah/Arif/3035.mkv
-#EXTINF:-1,Captain Marvel
-http://tvku.live:8888/movie/Arifardianayah/Arif/3899.mp4
 #EXTINF:-1,Cars 3
 http://tvku.live:8888/movie/Arifardianayah/Arif/3037.mkv
 #EXTINF:-1,Chase
 http://tvku.live:8888/movie/Arifardianayah/Arif/3038.mkv
-#EXTINF:-1,Chasing the Dragon
-http://tvku.live:8888/movie/Arifardianayah/Arif/3039.mkv
-#EXTINF:-1,Check the Store Next Door
-http://tvku.live:8888/movie/Arifardianayah/Arif/3922.mp4
-#EXTINF:-1,Cinta Brontosaurus
-http://tvku.live:8888/movie/Arifardianayah/Arif/3040.mp4
 #EXTINF:-1,Danur
 http://tvku.live:8888/movie/Arifardianayah/Arif/3917.mp4
-#EXTINF:-1,Danur 2: Maddah
-http://tvku.live:8888/movie/Arifardianayah/Arif/3909.mp4
 #EXTINF:-1,Darkness Visible
 http://tvku.live:8888/movie/Arifardianayah/Arif/3666.mkv
-#EXTINF:-1,Dawn of the Planet of the Apes
-http://tvku.live:8888/movie/Arifardianayah/Arif/3667.mkv
 #EXTINF:-1,Dear Nathan: Hello Salma
 http://tvku.live:8888/movie/Arifardianayah/Arif/3856.mp4
 #EXTINF:-1,Den of Thieves
 http://tvku.live:8888/movie/Arifardianayah/Arif/3049.mkv
-#EXTINF:-1,Detective Chinatown 2
-http://tvku.live:8888/movie/Arifardianayah/Arif/3051.mkv
-#EXTINF:-1,Dilan 1991
-http://tvku.live:8888/movie/Arifardianayah/Arif/3880.mp4
 #EXTINF:-1,Disobedience
 http://tvku.live:8888/movie/Arifardianayah/Arif/3052.mkv
 #EXTINF:-1,Doctor Strange
 http://tvku.live:8888/movie/Arifardianayah/Arif/3670.mkv
-#EXTINF:-1,Donovan Reid
-http://tvku.live:8888/movie/Arifardianayah/Arif/3671.mkv
-#EXTINF:-1,DreadOut
-http://tvku.live:8888/movie/Arifardianayah/Arif/3872.mp4
 #EXTINF:-1,Dumbo
 http://tvku.live:8888/movie/Arifardianayah/Arif/3056.mkv
-#EXTINF:-1,Fisherman’s Friends
-http://tvku.live:8888/movie/Arifardianayah/Arif/3675.mkv
-#EXTINF:-1,Fullmetal Alchemist
-http://tvku.live:8888/movie/Arifardianayah/Arif/3067.mkv
-#EXTINF:-1,Fyre
-http://tvku.live:8888/movie/Arifardianayah/Arif/3676.mkv
-#EXTINF:-1,Gantian Dong
-http://tvku.live:8888/movie/Arifardianayah/Arif/3857.mp4
 #EXTINF:-1,Gasing Tengkorak
 http://tvku.live:8888/movie/Arifardianayah/Arif/3892.mp4
 #EXTINF:-1,Generasi Kocak: 90-an vs Komika
 http://tvku.live:8888/movie/Arifardianayah/Arif/3919.mp4
-#EXTINF:-1,Get Out
-http://tvku.live:8888/movie/Arifardianayah/Arif/3073.mkv
 #EXTINF:-1,Ghost Island 3
 http://tvku.live:8888/movie/Arifardianayah/Arif/3948.mp4
-#EXTINF:-1,Ghost Writer
-http://tvku.live:8888/movie/Arifardianayah/Arif/3907.mp4
 #EXTINF:-1,Godzilla: King of the Monsters
 http://tvku.live:8888/movie/Arifardianayah/Arif/3075.mkv
 #EXTINF:-1,Gravity
 http://tvku.live:8888/movie/Arifardianayah/Arif/3076.mkv
 #EXTINF:-1,Hantu Anak Rumah Prapanca
 http://tvku.live:8888/movie/Arifardianayah/Arif/3879.mp4
-#EXTINF:-1,Hateship Loveship
-http://tvku.live:8888/movie/Arifardianayah/Arif/3077.mkv
-#EXTINF:-1,Heavy Metal
-http://tvku.live:8888/movie/Arifardianayah/Arif/3079.mkv
-#EXTINF:-1,Herstory
-http://tvku.live:8888/movie/Arifardianayah/Arif/3678.mkv
 #EXTINF:-1,Hostile
 http://tvku.live:8888/movie/Arifardianayah/Arif/3095.mkv
 #EXTINF:-1,I Spit on Your Grave III: Vengeance is Mine 3D
 http://tvku.live:8888/movie/Arifardianayah/Arif/3096.mkv
-#EXTINF:-1,In the Shadow of the Moon
-http://tvku.live:8888/movie/Arifardianayah/Arif/3100.mkv
 #EXTINF:-1,Insidious: The Last Key
 http://tvku.live:8888/movie/Arifardianayah/Arif/3101.mkv
 #EXTINF:-1,Insurgent
@@ -978,116 +746,52 @@ http://tvku.live:8888/movie/Arifardianayah/Arif/3681.mkv
 http://tvku.live:8888/movie/Arifardianayah/Arif/3107.mkv
 #EXTINF:-1,John Wick: Chapter 3 - Parabellum
 http://tvku.live:8888/movie/Arifardianayah/Arif/3108.mkv
-#EXTINF:-1,Jomblo Ngenes
-http://tvku.live:8888/movie/Arifardianayah/Arif/3912.mp4
 #EXTINF:-1,Journey to Space
 http://tvku.live:8888/movie/Arifardianayah/Arif/3111.mkv
 #EXTINF:-1,Jurassic World: Fallen Kingdom
 http://tvku.live:8888/movie/Arifardianayah/Arif/3113.mkv
 #EXTINF:-1,K: Missing Kings
 http://tvku.live:8888/movie/Arifardianayah/Arif/3684.mkv
-#EXTINF:-1,Kambing Jantan: The Movie
-http://tvku.live:8888/movie/Arifardianayah/Arif/3886.mp4
-#EXTINF:-1,King of Thieves
-http://tvku.live:8888/movie/Arifardianayah/Arif/3114.mkv
 #EXTINF:-1,Light of My Life
 http://tvku.live:8888/movie/Arifardianayah/Arif/3689.mkv
 #EXTINF:-1,Love for Sale
 http://tvku.live:8888/movie/Arifardianayah/Arif/3887.mp4
-#EXTINF:-1,Love letter
-http://tvku.live:8888/movie/Arifardianayah/Arif/3888.mp4
-#EXTINF:-1,Ma
-http://tvku.live:8888/movie/Arifardianayah/Arif/3118.mkv
 #EXTINF:-1,Man of Steel
 http://tvku.live:8888/movie/Arifardianayah/Arif/3121.mkv
-#EXTINF:-1,Manikarnika: The Queen of Jhansi
-http://tvku.live:8888/movie/Arifardianayah/Arif/3694.mkv
 #EXTINF:-1,MatiAnak
 http://tvku.live:8888/movie/Arifardianayah/Arif/3873.mp4
-#EXTINF:-1,Maze Runner: The Scorch Trials
-http://tvku.live:8888/movie/Arifardianayah/Arif/3122.mkv
 #EXTINF:-1,Milly & Mamet
 http://tvku.live:8888/movie/Arifardianayah/Arif/3885.mp4
-#EXTINF:-1,Mixed Doubles
-http://tvku.live:8888/movie/Arifardianayah/Arif/3692.mkv
-#EXTINF:-1,Mortal Kombat: Annihilation
-http://tvku.live:8888/movie/Arifardianayah/Arif/3124.mkv
-#EXTINF:-1,Mulan 2 The Final War
-http://tvku.live:8888/movie/Arifardianayah/Arif/3126.mkv
-#EXTINF:-1,Mulan II: The Final War
-http://tvku.live:8888/movie/Arifardianayah/Arif/3704.mkv
-#EXTINF:-1,My Stupid Boyfriend
-http://tvku.live:8888/movie/Arifardianayah/Arif/3876.mp4
-#EXTINF:-1,Nameless Gangster
-http://tvku.live:8888/movie/Arifardianayah/Arif/3707.mkv
-#EXTINF:-1,Ninja
-http://tvku.live:8888/movie/Arifardianayah/Arif/3709.mkv
 #EXTINF:-1,Once Upon a Time in China
 http://tvku.live:8888/movie/Arifardianayah/Arif/3712.mkv
-#EXTINF:-1,Pacific Rim
-http://tvku.live:8888/movie/Arifardianayah/Arif/3127.mkv
-#EXTINF:-1,Patlabor: The Movie
-http://tvku.live:8888/movie/Arifardianayah/Arif/3202.mkv
-#EXTINF:-1,Pintar Pintar Bodoh
-http://tvku.live:8888/movie/Arifardianayah/Arif/3861.mp4
 #EXTINF:-1,Pitch Perfect 2
 http://tvku.live:8888/movie/Arifardianayah/Arif/3204.mkv
-#EXTINF:-1,Pod
-http://tvku.live:8888/movie/Arifardianayah/Arif/3205.mkv
 #EXTINF:-1,Pokémon the Movie: The Power of Us
 http://tvku.live:8888/movie/Arifardianayah/Arif/3903.mp4
 #EXTINF:-1,Pretty Broken
 http://tvku.live:8888/movie/Arifardianayah/Arif/3210.mkv
-#EXTINF:-1,Principal: Am I a Heroine Who Is In Love?
-http://tvku.live:8888/movie/Arifardianayah/Arif/3225.mkv
-#EXTINF:-1,Ratatouille
-http://tvku.live:8888/movie/Arifardianayah/Arif/3244.mkv
 #EXTINF:-1,Redcon-1
 http://tvku.live:8888/movie/Arifardianayah/Arif/3250.mkv
-#EXTINF:-1,Resident Evil: Afterlife
-http://tvku.live:8888/movie/Arifardianayah/Arif/3252.mkv
 #EXTINF:-1,Revenge Girl
 http://tvku.live:8888/movie/Arifardianayah/Arif/3253.mkv
-#EXTINF:-1,Rise of the Guardians
-http://tvku.live:8888/movie/Arifardianayah/Arif/3254.mkv
-#EXTINF:-1,Robin Williams: Come Inside My Mind
-http://tvku.live:8888/movie/Arifardianayah/Arif/3255.mkv
 #EXTINF:-1,Rock of Ages
 http://tvku.live:8888/movie/Arifardianayah/Arif/3256.mkv
-#EXTINF:-1,Rocker Balik Kampung
-http://tvku.live:8888/movie/Arifardianayah/Arif/3882.mp4
-#EXTINF:-1,Romulus and Remus: The Story of Two Sons of a Wolf
-http://tvku.live:8888/movie/Arifardianayah/Arif/3259.mp4
 #EXTINF:-1,Scarborough
 http://tvku.live:8888/movie/Arifardianayah/Arif/3266.mkv
 #EXTINF:-1,Seeding of a Ghost
 http://tvku.live:8888/movie/Arifardianayah/Arif/3727.mkv
 #EXTINF:-1,Seeding of a Ghost
 http://tvku.live:8888/movie/Arifardianayah/Arif/3267.mkv
-#EXTINF:-1,Seven Psychopaths
-http://tvku.live:8888/movie/Arifardianayah/Arif/3273.mkv
-#EXTINF:-1,Shanghai Knights
-http://tvku.live:8888/movie/Arifardianayah/Arif/3729.mkv
 #EXTINF:-1,Shanghai Knights
 http://tvku.live:8888/movie/Arifardianayah/Arif/3275.mkv
-#EXTINF:-1,Sister Act
-http://tvku.live:8888/movie/Arifardianayah/Arif/3277.mkv
 #EXTINF:-1,Sister Act 2: Back in the Habit
 http://tvku.live:8888/movie/Arifardianayah/Arif/3278.mkv
-#EXTINF:-1,Skyscraper
-http://tvku.live:8888/movie/Arifardianayah/Arif/3279.mkv
-#EXTINF:-1,Song One
-http://tvku.live:8888/movie/Arifardianayah/Arif/3295.mkv
 #EXTINF:-1,Starship Troopers: Traitor of Mars
 http://tvku.live:8888/movie/Arifardianayah/Arif/3296.mkv
 #EXTINF:-1,Stip & Pensil
 http://tvku.live:8888/movie/Arifardianayah/Arif/3914.mp4
 #EXTINF:-1,Storks
 http://tvku.live:8888/movie/Arifardianayah/Arif/3303.mkv
-#EXTINF:-1,Stuber
-http://tvku.live:8888/movie/Arifardianayah/Arif/3733.mkv
-#EXTINF:-1,Taken 3
-http://tvku.live:8888/movie/Arifardianayah/Arif/3308.mkv
 #EXTINF:-1,Teen Spirit
 http://tvku.live:8888/movie/Arifardianayah/Arif/3737.mkv
 #EXTINF:-1,TEKKEN: Blood Vengeance
@@ -1096,144 +800,52 @@ http://tvku.live:8888/movie/Arifardianayah/Arif/3310.mkv
 http://tvku.live:8888/movie/Arifardianayah/Arif/3744.mkv
 #EXTINF:-1,The Babymakers
 http://tvku.live:8888/movie/Arifardianayah/Arif/3314.mkv
-#EXTINF:-1,The Cleaning Lady
-http://tvku.live:8888/movie/Arifardianayah/Arif/3746.mkv
-#EXTINF:-1,The Death of Dick Long
-http://tvku.live:8888/movie/Arifardianayah/Arif/3748.mkv
-#EXTINF:-1,The Fast and the Furious: Tokyo Drift
-http://tvku.live:8888/movie/Arifardianayah/Arif/3321.mkv
 #EXTINF:-1,The Fate of the Furious
 http://tvku.live:8888/movie/Arifardianayah/Arif/3322.mkv
-#EXTINF:-1,The First King: Birth of an Empire
-http://tvku.live:8888/movie/Arifardianayah/Arif/3723.mkv
-#EXTINF:-1,The Furies
-http://tvku.live:8888/movie/Arifardianayah/Arif/3749.mkv
 #EXTINF:-1,The Hunger Games
 http://tvku.live:8888/movie/Arifardianayah/Arif/3327.mkv
-#EXTINF:-1,The Hunger Games: Mockingjay Part 2
-http://tvku.live:8888/movie/Arifardianayah/Arif/3328.mkv
-#EXTINF:-1,The Huntress: Rune of the Dead
-http://tvku.live:8888/movie/Arifardianayah/Arif/3741.mkv
-#EXTINF:-1,The Incredible Hulk
-http://tvku.live:8888/movie/Arifardianayah/Arif/3329.mkv
-#EXTINF:-1,The Isle
-http://tvku.live:8888/movie/Arifardianayah/Arif/3330.mkv
 #EXTINF:-1,The Last Witch Hunter
 http://tvku.live:8888/movie/Arifardianayah/Arif/3488.mkv
-#EXTINF:-1,The Lego Batman Movie
-http://tvku.live:8888/movie/Arifardianayah/Arif/3490.mkv
-#EXTINF:-1,The Lion King 3: Hakuna Matata
-http://tvku.live:8888/movie/Arifardianayah/Arif/3483.mkv
 #EXTINF:-1,The Mask
 http://tvku.live:8888/movie/Arifardianayah/Arif/3484.mkv
-#EXTINF:-1,The Mummy Returns
-http://tvku.live:8888/movie/Arifardianayah/Arif/3497.mkv
-#EXTINF:-1,The Possession Diaries
-http://tvku.live:8888/movie/Arifardianayah/Arif/3715.mkv
 #EXTINF:-1,The Pursuit of Happyness
 http://tvku.live:8888/movie/Arifardianayah/Arif/3485.mkv
-#EXTINF:-1,The Social Network
-http://tvku.live:8888/movie/Arifardianayah/Arif/3500.mkv
-#EXTINF:-1,The True Don Quixote
-http://tvku.live:8888/movie/Arifardianayah/Arif/3502.mkv
 #EXTINF:-1,The Wicker Man
 http://tvku.live:8888/movie/Arifardianayah/Arif/3503.mkv
 #EXTINF:-1,Them That Follow
 http://tvku.live:8888/movie/Arifardianayah/Arif/3850.mkv
-#EXTINF:-1,Thor: Ragnarok
-http://tvku.live:8888/movie/Arifardianayah/Arif/3846.mkv
-#EXTINF:-1,Tomorrow I Will Date With Yesterday's You
-http://tvku.live:8888/movie/Arifardianayah/Arif/3897.mp4
 #EXTINF:-1,What's Up with Love? 2
 http://tvku.live:8888/movie/Arifardianayah/Arif/3923.mp4
 #EXTINF:-1,fallin in love
 http://tvku.live:8888/movie/Arifardianayah/Arif/3949.mp4
-#EXTINF:-1,Charming
-http://tvku.live:8888/movie/Arifardianayah/Arif/3954.mp4
-#EXTINF:-1,Perempuan-Perempuan Liar
-http://tvku.live:8888/movie/Arifardianayah/Arif/3965.mp4
-#EXTINF:-1,Death Note
-http://tvku.live:8888/movie/Arifardianayah/Arif/3969.mp4
-#EXTINF:-1,Ghost Island 2
-http://tvku.live:8888/movie/Arifardianayah/Arif/3975.mp4
 #EXTINF:-1,Pocong vs Kuntilanak
 http://tvku.live:8888/movie/Arifardianayah/Arif/3978.mp4
-#EXTINF:-1,Setannya kok beneran?
-http://tvku.live:8888/movie/Arifardianayah/Arif/3979.mp4
-#EXTINF:-1,Selendang Rocker
-http://tvku.live:8888/movie/Arifardianayah/Arif/3980.mp4
-#EXTINF:-1,Fiction.
-http://tvku.live:8888/movie/Arifardianayah/Arif/3982.mp4
 #EXTINF:-1,Spider-Man: Into the Spider-Verse
 http://tvku.live:8888/movie/Arifardianayah/Arif/3984.mkv
-#EXTINF:-1,One Piece Film: GOLD
-http://tvku.live:8888/movie/Arifardianayah/Arif/3986.mp4
-#EXTINF:-1,One Piece Film: Z
-http://tvku.live:8888/movie/Arifardianayah/Arif/3987.mp4
-#EXTINF:-1,Boruto: Naruto the Movie
-http://tvku.live:8888/movie/Arifardianayah/Arif/3990.mp4
 #EXTINF:-1,Doraemon: Nobita's Chronicle of the Moon Exploration
 http://tvku.live:8888/movie/Arifardianayah/Arif/3993.mp4
-#EXTINF:-1,Crows Zero
-http://tvku.live:8888/movie/Arifardianayah/Arif/3996.mp4
-#EXTINF:-1,Trumpet of the Cliff
-http://tvku.live:8888/movie/Arifardianayah/Arif/4000.mp4
-#EXTINF:-1,The Nice Guys
-http://tvku.live:8888/movie/Arifardianayah/Arif/4003.mp4
-#EXTINF:-1,The Boss
-http://tvku.live:8888/movie/Arifardianayah/Arif/4006.mp4
-#EXTINF:-1,Mythica: The Godslayer
-http://tvku.live:8888/movie/Arifardianayah/Arif/4007.mp4
-#EXTINF:-1,Late Summer
-http://tvku.live:8888/movie/Arifardianayah/Arif/4010.mp4
-#EXTINF:-1,Bad Moms
-http://tvku.live:8888/movie/Arifardianayah/Arif/4015.mp4
-#EXTINF:-1,Tiger House
-http://tvku.live:8888/movie/Arifardianayah/Arif/4025.mp4
 #EXTINF:-1,Already Tomorrow in Hong Kong
 http://tvku.live:8888/movie/Arifardianayah/Arif/4030.mp4
-#EXTINF:-1,Ant-Man
-http://tvku.live:8888/movie/Arifardianayah/Arif/4032.mp4
-#EXTINF:-1,Love's Christmas Journey
-http://tvku.live:8888/movie/Arifardianayah/Arif/4034.mp4
-#EXTINF:-1,Faster
-http://tvku.live:8888/movie/Arifardianayah/Arif/4040.mp4
-#EXTINF:-1,The Legend of Sundel Bolong
-http://tvku.live:8888/movie/Arifardianayah/Arif/4044.mp4
 #EXTINF:-1,Terowongan Casablanca
 http://tvku.live:8888/movie/Arifardianayah/Arif/4045.mp4
 #EXTINF:-1,Ghost Island
 http://tvku.live:8888/movie/Arifardianayah/Arif/4049.mp4
-#EXTINF:-1,I Miss You
-http://tvku.live:8888/movie/Arifardianayah/Arif/4058.mp4
 #EXTINF:-1,Apa Artinya Cinta?
 http://tvku.live:8888/movie/Arifardianayah/Arif/4064.mp4
-#EXTINF:-1,Perjanjian Dengan Iblis
-http://tvku.live:8888/movie/Arifardianayah/Arif/4072.mp4
 #EXTINF:-1,Calon Bini
 http://tvku.live:8888/movie/Arifardianayah/Arif/4074.mp4
-#EXTINF:-1,revan
-http://tvku.live:8888/movie/Arifardianayah/Arif/4075.mp4
 #EXTINF:-1,Reuni Z
 http://tvku.live:8888/movie/Arifardianayah/Arif/4076.mp4
-#EXTINF:-1,Mamma Mia! Here We Go Again
-http://tvku.live:8888/movie/Arifardianayah/Arif/4079.mp4
 #EXTINF:-1,Kuntilanak
 http://tvku.live:8888/movie/Arifardianayah/Arif/4080.mp4
 #EXTINF:-1,Heaven & Hell
 http://tvku.live:8888/movie/Arifardianayah/Arif/4082.mp4
 #EXTINF:-1,Sajen
 http://tvku.live:8888/movie/Arifardianayah/Arif/4084.mp4
-#EXTINF:-1,Them That Follow
-http://tvku.live:8888/movie/Arifardianayah/Arif/4091.mp4
-#EXTINF:-1,The Mummy: Rebirth
-http://tvku.live:8888/movie/Arifardianayah/Arif/4092.mp4
 #EXTINF:-1,Satan's Slaves
 http://tvku.live:8888/movie/Arifardianayah/Arif/4093.mp4
 #EXTINF:-1,School-Live!
 http://tvku.live:8888/movie/Arifardianayah/Arif/4094.mp4
-#EXTINF:-1,Misteri Dilaila
-http://tvku.live:8888/movie/Arifardianayah/Arif/4095.mp4
 #EXTINF:-1,5 cm
 http://tvku.live:8888/movie/Arifardianayah/Arif/4099.mp4
 #EXTINF:-1,My Sassy Girl
@@ -1242,68 +854,30 @@ http://tvku.live:8888/movie/Arifardianayah/Arif/4104.mp4
 http://tvku.live:8888/movie/Arifardianayah/Arif/4105.mp4
 #EXTINF:-1,Kaizoku Sentai Gokaiger vs. Space Sheriff Gavan: The Movie
 http://tvku.live:8888/movie/Arifardianayah/Arif/4106.mp4
-#EXTINF:-1,EXPO
-http://tvku.live:8888/movie/Arifardianayah/Arif/4107.mp4
 #EXTINF:-1,Pentagram
 http://tvku.live:8888/movie/Arifardianayah/Arif/4108.mp4
-#EXTINF:-1,Dora and the Lost City of Gold - 2019
-http://tvku.live:8888/movie/Arifardianayah/Arif/4109.mkv
-#EXTINF:-1,Panic Attack
-http://tvku.live:8888/movie/Arifardianayah/Arif/4111.mp4
 #EXTINF:-1,luka chuppi
 http://tvku.live:8888/movie/Arifardianayah/Arif/4112.mp4
-#EXTINF:-1,Laddaland
-http://tvku.live:8888/movie/Arifardianayah/Arif/4114.mp4
 #EXTINF:-1,Hardcore Henry
 http://tvku.live:8888/movie/Arifardianayah/Arif/4118.mp4
 #EXTINF:-1,cannibal
 http://tvku.live:8888/movie/Arifardianayah/Arif/4120.mp4
-#EXTINF:-1,Wrong Cops
-http://tvku.live:8888/movie/Arifardianayah/Arif/4121.mp4
-#EXTINF:-1,Blackmail
-http://tvku.live:8888/movie/Arifardianayah/Arif/4126.mp4
 #EXTINF:-1,August: Osage County
 http://tvku.live:8888/movie/Arifardianayah/Arif/4129.mp4
 #EXTINF:-1,Blood Punch
 http://tvku.live:8888/movie/Arifardianayah/Arif/4135.mp4
-#EXTINF:-1,Bruce Almighty
-http://tvku.live:8888/movie/Arifardianayah/Arif/4139.mp4
 #EXTINF:-1,Aliens in the Attic
 http://tvku.live:8888/movie/Arifardianayah/Arif/4141.mp4
-#EXTINF:-1,The Immortal Wars: Resurgence
-http://tvku.live:8888/movie/Arifardianayah/Arif/4149.mp4
 #EXTINF:-1,Cold Pursuit
 http://tvku.live:8888/movie/Arifardianayah/Arif/4152.mp4
-#EXTINF:-1,Itu Bisa Diatur
-http://tvku.live:8888/movie/Arifardianayah/Arif/4161.mp4
-#EXTINF:-1,Mission: Impossible III
-http://tvku.live:8888/movie/Arifardianayah/Arif/4165.mp4
-#EXTINF:-1,Ah Beng: Mission Impossible
-http://tvku.live:8888/movie/Arifardianayah/Arif/4166.mp4
-#EXTINF:-1,Mission: Impossible
-http://tvku.live:8888/movie/Arifardianayah/Arif/4168.mp4
 #EXTINF:-1,Kesempatan Dalam Kesempitan
 http://tvku.live:8888/movie/Arifardianayah/Arif/4175.mp4
 #EXTINF:-1,Salah Masuk
 http://tvku.live:8888/movie/Arifardianayah/Arif/4178.mp4
-#EXTINF:-1,Ge...er (Gede Rasa)
-http://tvku.live:8888/movie/Arifardianayah/Arif/4180.mp4
-#EXTINF:-1,Pengakuan Seorang Pelacur
-http://tvku.live:8888/movie/Arifardianayah/Arif/4187.mp4
-#EXTINF:-1,Koboy Kampus
-http://tvku.live:8888/movie/Arifardianayah/Arif/4193.mp4
 #EXTINF:-1,The Silence
 http://tvku.live:8888/movie/Arifardianayah/Arif/4194.mp4
-#EXTINF:-1,Doa Yang Mengancam
-http://tvku.live:8888/movie/Arifardianayah/Arif/4192.mp4
-#EXTINF:-1,Ngebut Kawin
-http://tvku.live:8888/movie/Arifardianayah/Arif/4202.mp4
-#EXTINF:-1,Roman Picisan
-http://tvku.live:8888/movie/Arifardianayah/Arif/4203.mp4
 #EXTINF:-1,Best Friend
 http://tvku.live:8888/movie/Arifardianayah/Arif/4206.mp4
-#EXTINF:-1,Queen of the South Sea Spell
-http://tvku.live:8888/movie/Arifardianayah/Arif/4207.mp4
 #EXTINF:-1,About Time
 http://tvku.live:8888/movie/Arifardianayah/Arif/4209.mp4
 #EXTINF:-1,Perjuangan dan Do'a
@@ -1312,28 +886,10 @@ http://tvku.live:8888/movie/Arifardianayah/Arif/4218.mp4
 http://tvku.live:8888/movie/Arifardianayah/Arif/4219.mp4
 #EXTINF:-1,Suster N
 http://tvku.live:8888/movie/Arifardianayah/Arif/4223.mp4
-#EXTINF:-1,Wind Chaser
-http://tvku.live:8888/movie/Arifardianayah/Arif/4228.mp4
-#EXTINF:-1,Architecture 101
-http://tvku.live:8888/movie/Arifardianayah/Arif/4232.mp4
-#EXTINF:-1,Spellbound
-http://tvku.live:8888/movie/Arifardianayah/Arif/4230.mp4
-#EXTINF:-1,22 Jump Street
-http://tvku.live:8888/movie/Arifardianayah/Arif/4238.mp4
-#EXTINF:-1,WWE Royal Rumble 2019
-http://tvku.live:8888/movie/Arifardianayah/Arif/4240.mp4
 #EXTINF:-1,Ip Man 3
 http://tvku.live:8888/movie/Arifardianayah/Arif/4244.mp4
 #EXTINF:-1,Girl Dorm
 http://tvku.live:8888/movie/Arifardianayah/Arif/4249.mp4
-#EXTINF:-1,Joker
-http://tvku.live:8888/movie/Arifardianayah/Arif/4250.mp4
-#EXTINF:-1,Extra Ordinary
-http://tvku.live:8888/movie/Arifardianayah/Arif/4252.mp4
-#EXTINF:-1,Ip Man 2
-http://tvku.live:8888/movie/Arifardianayah/Arif/4255.mp4
-#EXTINF:-1,Armored
-http://tvku.live:8888/movie/Arifardianayah/Arif/4396.mp4
 #EXTINF:-1,Terminator 3: Rise of the Machines
 http://tvku.live:8888/movie/Arifardianayah/Arif/4397.mp4
 #EXTINF:-1,14 Cameras
@@ -1344,34 +900,20 @@ http://tvku.live:8888/movie/Arifardianayah/Arif/4400.mp4
 http://tvku.live:8888/movie/Arifardianayah/Arif/4401.mp4
 #EXTINF:-1,Teefa in Trouble
 http://tvku.live:8888/movie/Arifardianayah/Arif/4404.mp4
-#EXTINF:-1,Terminator Salvation
-http://tvku.live:8888/movie/Arifardianayah/Arif/4406.mp4
 #EXTINF:-1,Crush and Blush
 http://tvku.live:8888/movie/Arifardianayah/Arif/4408.mp4
-#EXTINF:-1,The Terminator
-http://tvku.live:8888/movie/Arifardianayah/Arif/4409.mp4
 #EXTINF:-1,Terminator Genisys
 http://tvku.live:8888/movie/Arifardianayah/Arif/4413.mp4
 #EXTINF:-1,5ive Girls
 http://tvku.live:8888/movie/Arifardianayah/Arif/4415.mp4
 #EXTINF:-1,sei
 http://tvku.live:8888/movie/Arifardianayah/Arif/4418.mp4
-#EXTINF:-1,The Preparation
-http://tvku.live:8888/movie/Arifardianayah/Arif/4420.mp4
-#EXTINF:-1,Ana & Bruno
-http://tvku.live:8888/movie/Arifardianayah/Arif/4429.mp4
-#EXTINF:-1,Let It Snow
-http://tvku.live:8888/movie/Arifardianayah/Arif/4431.mp4
-#EXTINF:-1,American Pie
-http://tvku.live:8888/movie/Arifardianayah/Arif/4433.mp4
 #EXTINF:-1,American Pie Presents: Band Camp
 http://tvku.live:8888/movie/Arifardianayah/Arif/4435.mp4
 #EXTINF:-1,Idled
 http://tvku.live:8888/movie/Arifardianayah/Arif/4441.mp4
 #EXTINF:-1,Little Women
 http://tvku.live:8888/movie/Arifardianayah/Arif/4442.mp4
-#EXTINF:-1,My Best Summer
-http://tvku.live:8888/movie/Arifardianayah/Arif/4443.mp4
 #EXTINF:-1,Last Sunrise
 http://tvku.live:8888/movie/Arifardianayah/Arif/4446.mp4
 #EXTINF:-1,White Snake
@@ -1380,68 +922,22 @@ http://tvku.live:8888/movie/Arifardianayah/Arif/4449.mp4
 http://tvku.live:8888/movie/Arifardianayah/Arif/4451.mp4
 #EXTINF:-1,Full Speed
 http://tvku.live:8888/movie/Arifardianayah/Arif/4460.mp4
-#EXTINF:-1,Christmas Harmony
-http://tvku.live:8888/movie/Arifardianayah/Arif/4461.mp4
-#EXTINF:-1,Goosebumps 2: Haunted Halloween
-http://tvku.live:8888/movie/Arifardianayah/Arif/4466.mp4
 #EXTINF:-1,Dark Shadows
 http://tvku.live:8888/movie/Arifardianayah/Arif/4470.mp4
-#EXTINF:-1,Zombieland
-http://tvku.live:8888/movie/Arifardianayah/Arif/4472.mp4
-#EXTINF:-1,Drag Me to Hell
-http://tvku.live:8888/movie/Arifardianayah/Arif/4473.mp4
-#EXTINF:-1,Ghostbusters II
-http://tvku.live:8888/movie/Arifardianayah/Arif/4474.mp4
-#EXTINF:-1,Dirty Dancing
-http://tvku.live:8888/movie/Arifardianayah/Arif/4479.mp4
 #EXTINF:-1,Forrest Gump
 http://tvku.live:8888/movie/Arifardianayah/Arif/4481.mp4
-#EXTINF:-1,Donnie Darko
-http://tvku.live:8888/movie/Arifardianayah/Arif/4484.mp4
-#EXTINF:-1,Schindler's List
-http://tvku.live:8888/movie/Arifardianayah/Arif/4489.mp4
-#EXTINF:-1,Fantastic Four
-http://tvku.live:8888/movie/Arifardianayah/Arif/4495.mp4
-#EXTINF:-1,Fantastic Four
-http://tvku.live:8888/movie/Arifardianayah/Arif/4496.mp4
 #EXTINF:-1,return God of Gambler
 http://tvku.live:8888/movie/Arifardianayah/Arif/4500.mp4
-#EXTINF:-1,My Punch-Drunk Boxer
-http://tvku.live:8888/movie/Arifardianayah/Arif/4508.mp4
-#EXTINF:-1,Hindi Medium
-http://tvku.live:8888/movie/Arifardianayah/Arif/4509.mp4
-#EXTINF:-1,7 Khoon Maaf
-http://tvku.live:8888/movie/Arifardianayah/Arif/4510.mp4
-#EXTINF:-1,Back to School
-http://tvku.live:8888/movie/Arifardianayah/Arif/4516.mp4
 #EXTINF:-1,Itsy Bitsy
 http://tvku.live:8888/movie/Arifardianayah/Arif/4518.mp4
 #EXTINF:-1,Yajamana
 http://tvku.live:8888/movie/Arifardianayah/Arif/4519.mp4
-#EXTINF:-1,X-Men: The Last Stand
-http://tvku.live:8888/movie/Arifardianayah/Arif/4840.mp4
-#EXTINF:-1,The Furies
-http://tvku.live:8888/movie/Arifardianayah/Arif/7699.mp4
-#EXTINF:-1,The Knight Before Christmas
-http://tvku.live:8888/movie/Arifardianayah/Arif/7698.mp4
-#EXTINF:-1,Rambo: Last Blood
-http://tvku.live:8888/movie/Arifardianayah/Arif/7702.mp4
 #EXTINF:-1,It Chapter Two
 http://tvku.live:8888/movie/Arifardianayah/Arif/7704.mp4
-#EXTINF:-1,Fast & Furious Presents: Hobbs & Shaw
-http://tvku.live:8888/movie/Arifardianayah/Arif/7924.mp4
-#EXTINF:-1,The Secret Life of Pets 2
-http://tvku.live:8888/movie/Arifardianayah/Arif/8771.mp4
 #EXTINF:-1,Sing
 http://tvku.live:8888/movie/Arifardianayah/Arif/8772.mp4
-#EXTINF:-1,Fantastic Beasts: The Crimes of Grindelwald
-http://tvku.live:8888/movie/Arifardianayah/Arif/8785.mp4
 #EXTINF:-1,The SpongeBob SquarePants Movie
 http://tvku.live:8888/movie/Arifardianayah/Arif/8786.mp4
-#EXTINF:-1,The Lego Movie
-http://tvku.live:8888/movie/Arifardianayah/Arif/8789.mkv
-#EXTINF:-1,Minions
-http://tvku.live:8888/movie/Arifardianayah/Arif/8798.mp4
 #EXTINF:-1,Doctor Strange
 http://tvku.live:8888/movie/Arifardianayah/Arif/8801.mkv
 #EXTINF:-1,Comic 8 - 2014
@@ -1454,542 +950,150 @@ http://tvku.live:8888/movie/Arifardianayah/Arif/8805.mp4
 http://tvku.live:8888/movie/Arifardianayah/Arif/8815.mp4
 #EXTINF:-1,Harry Potter and the Order of the Phoenix
 http://tvku.live:8888/movie/Arifardianayah/Arif/8817.mp4
-#EXTINF:-1,Death Note
-http://tvku.live:8888/movie/Arifardianayah/Arif/8818.mkv
-#EXTINF:-1,The Gods Must Be Crazy
-http://tvku.live:8888/movie/Arifardianayah/Arif/8940.mkv
-#EXTINF:-1,xXx: Return of Xander Cage
-http://tvku.live:8888/movie/Arifardianayah/Arif/8943.mkv
 #EXTINF:-1,The Pursuit of Happyness
 http://tvku.live:8888/movie/Arifardianayah/Arif/8949.mp4
-#EXTINF:-1,The Expendables 2
-http://tvku.live:8888/movie/Arifardianayah/Arif/8952.mkv
-#EXTINF:-1,The Expendables 3
-http://tvku.live:8888/movie/Arifardianayah/Arif/8953.mkv
-#EXTINF:-1,The Blind Side
-http://tvku.live:8888/movie/Arifardianayah/Arif/8954.mkv
-#EXTINF:-1,Neighbors
-http://tvku.live:8888/movie/Arifardianayah/Arif/8960.mp4
-#EXTINF:-1,Men in Black 3
-http://tvku.live:8888/movie/Arifardianayah/Arif/8968.mkv
 #EXTINF:-1,Men in Black II
 http://tvku.live:8888/movie/Arifardianayah/Arif/8969.mkv
 #EXTINF:-1,Kick-Ass
 http://tvku.live:8888/movie/Arifardianayah/Arif/8970.mkv
-#EXTINF:-1,Kick-Ass 2
-http://tvku.live:8888/movie/Arifardianayah/Arif/8971.mkv
-#EXTINF:-1,Inside Out
-http://tvku.live:8888/movie/Arifardianayah/Arif/8973.mkv
 #EXTINF:-1,Guardians of the Galaxy
 http://tvku.live:8888/movie/Arifardianayah/Arif/8974.mkv
-#EXTINF:-1,Finding Dory
-http://tvku.live:8888/movie/Arifardianayah/Arif/8978.mp4
 #EXTINF:-1,Rampage
 http://tvku.live:8888/movie/Arifardianayah/Arif/9003.mp4
 #EXTINF:-1,Quantum of Solace
 http://tvku.live:8888/movie/Arifardianayah/Arif/9004.mkv
-#EXTINF:-1,Mr. Bean's Holiday
-http://tvku.live:8888/movie/Arifardianayah/Arif/9005.mkv
 #EXTINF:-1,Life of Pi
 http://tvku.live:8888/movie/Arifardianayah/Arif/9006.mkv
 #EXTINF:-1,Goal! II: Living the Dream - 2007
 http://tvku.live:8888/movie/Arifardianayah/Arif/9008.mkv
-#EXTINF:-1,Charlie's Angels
-http://tvku.live:8888/movie/Arifardianayah/Arif/9013.mkv
-#EXTINF:-1,Bad Boys
-http://tvku.live:8888/movie/Arifardianayah/Arif/9015.mkv
-#EXTINF:-1,The Dark Knight Rises
-http://tvku.live:8888/movie/Arifardianayah/Arif/9021.mkv
-#EXTINF:-1,Jurassic Park III
-http://tvku.live:8888/movie/Arifardianayah/Arif/9026.mkv
-#EXTINF:-1,Jurassic World
-http://tvku.live:8888/movie/Arifardianayah/Arif/9029.mkv
-#EXTINF:-1,Johnny English
-http://tvku.live:8888/movie/Arifardianayah/Arif/9030.mkv
-#EXTINF:-1,Teenage Mutant Ninja Turtles: Out of the Shadows - 2016
-http://tvku.live:8888/movie/Arifardianayah/Arif/9114.mp4
-#EXTINF:-1,La La Land - 2016
-http://tvku.live:8888/movie/Arifardianayah/Arif/9119.mkv
-#EXTINF:-1,Alvin and the Chipmunks: The Road Chip - 2015
-http://tvku.live:8888/movie/Arifardianayah/Arif/9123.mkv
-#EXTINF:-1,12 Strong - 2018
-http://tvku.live:8888/movie/Arifardianayah/Arif/9130.mkv
-#EXTINF:-1,Nerve - 2016
-http://tvku.live:8888/movie/Arifardianayah/Arif/9131.mp4
-#EXTINF:-1,The Shallows - 2016
-http://tvku.live:8888/movie/Arifardianayah/Arif/9132.mkv
 #EXTINF:-1,Scary Movie 5 - 2013
 http://tvku.live:8888/movie/Arifardianayah/Arif/9137.mkv
 #EXTINF:-1,The Count of Monte Cristo - 2002
 http://tvku.live:8888/movie/Arifardianayah/Arif/9161.mp4
-#EXTINF:-1,Si Doel The Movie - 2018
-http://tvku.live:8888/movie/Arifardianayah/Arif/9163.mp4
 #EXTINF:-1,The Perfect Score - 2004
 http://tvku.live:8888/movie/Arifardianayah/Arif/9227.mp4
-#EXTINF:-1,Negeri van Oranje - 2015
-http://tvku.live:8888/movie/Arifardianayah/Arif/9229.mp4
-#EXTINF:-1,Instant Family - 2018
-http://tvku.live:8888/movie/Arifardianayah/Arif/9231.mkv
 #EXTINF:-1,Dilan 1991 - 2019
 http://tvku.live:8888/movie/Arifardianayah/Arif/9241.mp4
-#EXTINF:-1,127 Hours - 2010
-http://tvku.live:8888/movie/Arifardianayah/Arif/9245.mkv
-#EXTINF:-1,Transformers - 2007
-http://tvku.live:8888/movie/Arifardianayah/Arif/9250.mkv
-#EXTINF:-1,22 Jump Street - 2014
-http://tvku.live:8888/movie/Arifardianayah/Arif/9253.mkv
 #EXTINF:-1,The Rainbow Troops - 2008
 http://tvku.live:8888/movie/Arifardianayah/Arif/9258.mkv
-#EXTINF:-1,Surat Kecil Untuk Tuhan - 2017
-http://tvku.live:8888/movie/Arifardianayah/Arif/9259.mp4
-#EXTINF:-1,Orang Kaya Baru - 2019
-http://tvku.live:8888/movie/Arifardianayah/Arif/9260.mp4
-#EXTINF:-1,Where We Belong - 2019
-http://tvku.live:8888/movie/Arifardianayah/Arif/9262.mkv
-#EXTINF:-1,The Silence - 2019
-http://tvku.live:8888/movie/Arifardianayah/Arif/9263.mkv
-#EXTINF:-1,The Irishman - 2019
-http://tvku.live:8888/movie/Arifardianayah/Arif/9264.mkv
 #EXTINF:-1,Safe - 2012
 http://tvku.live:8888/movie/Arifardianayah/Arif/9266.mkv
-#EXTINF:-1,pirates of the caribbean
-http://tvku.live:8888/movie/Arifardianayah/Arif/9310.mkv
 #EXTINF:-1,Charlie's Angels - 2019
 http://tvku.live:8888/movie/Arifardianayah/Arif/9321.mkv
 #EXTINF:-1,Terminator 2: Judgment Day - 1991
 http://tvku.live:8888/movie/Arifardianayah/Arif/9489.mp4
 #EXTINF:-1,Evan Almighty - 2007
 http://tvku.live:8888/movie/Arifardianayah/Arif/9496.mp4
-#EXTINF:-1,Anchorman: The Legend of Ron Burgundy - 2004
-http://tvku.live:8888/movie/Arifardianayah/Arif/9498.mp4
 #EXTINF:-1,Anchorman 2: The Legend Continues - 2013
 http://tvku.live:8888/movie/Arifardianayah/Arif/9499.mp4
 #EXTINF:-1,King Kong - 2005
 http://tvku.live:8888/movie/Arifardianayah/Arif/9501.mkv
 #EXTINF:-1,A Bad Moms Christmas - 2017
 http://tvku.live:8888/movie/Arifardianayah/Arif/9505.mp4
-#EXTINF:-1,Komedi Gokil 2 - 2016
-http://tvku.live:8888/movie/Arifardianayah/Arif/9515.mp4
-#EXTINF:-1,Get Married 3 - 2011
-http://tvku.live:8888/movie/Arifardianayah/Arif/9520.mp4
 #EXTINF:-1,Middle School: The Worst Years of My Life - 2016
 http://tvku.live:8888/movie/Arifardianayah/Arif/9646.mp4
-#EXTINF:-1,Se7en - 1995
-http://tvku.live:8888/movie/Arifardianayah/Arif/9649.mkv
-#EXTINF:-1,The Usual Suspects - 1995
-http://tvku.live:8888/movie/Arifardianayah/Arif/9650.mkv
-#EXTINF:-1,Justice League - 2017
-http://tvku.live:8888/movie/Arifardianayah/Arif/10755.mkv
 #EXTINF:-1,Dragon Ball Z: Battle of Gods - 2013
 http://tvku.live:8888/movie/Arifardianayah/Arif/10760.mkv
-#EXTINF:-1,Street Fighter: The Legend of Chun-Li - 2009
-http://tvku.live:8888/movie/Arifardianayah/Arif/10773.mp4
 #EXTINF:-1,Pretty Woman - 1990
 http://tvku.live:8888/movie/Arifardianayah/Arif/10782.mp4
-#EXTINF:-1,6 Underground - 2019
-http://tvku.live:8888/movie/Arifardianayah/Arif/10820.mkv
 #EXTINF:-1,Close - 2019
 http://tvku.live:8888/movie/Arifardianayah/Arif/10821.mkv
-#EXTINF:-1,Volcano - 1997
-http://tvku.live:8888/movie/Arifardianayah/Arif/10903.mkv
-#EXTINF:-1,Dragon Ball: Plan to Eradicate the Super Saiyans - 2010
-http://tvku.live:8888/movie/Arifardianayah/Arif/10940.mkv
-#EXTINF:-1,My Hero Academia: Two Heroes - 2018
-http://tvku.live:8888/movie/Arifardianayah/Arif/11037.mkv
-#EXTINF:-1,preston school of indrustry
-http://tvku.live:8888/movie/Arifardianayah/Arif/11368.mp4
-#EXTINF:-1,Slaughterhouse - 2019
-http://tvku.live:8888/movie/Arifardianayah/Arif/11363.mp4
-#EXTINF:-1,Hide And Seek - 2013
-http://tvku.live:8888/movie/Arifardianayah/Arif/11426.mp4
-#EXTINF:-1,Ode to My Father - 2014
-http://tvku.live:8888/movie/Arifardianayah/Arif/11429.mp4
-#EXTINF:-1,Secret Sunshine - 2007
-http://tvku.live:8888/movie/Arifardianayah/Arif/11430.mp4
-#EXTINF:-1,The Spy: Undercover Operation - 2013
-http://tvku.live:8888/movie/Arifardianayah/Arif/11438.mp4
 #EXTINF:-1,Midnight Runners - 2017
 http://tvku.live:8888/movie/Arifardianayah/Arif/11442.mp4
-#EXTINF:-1,The Football Factory - 2004
-http://tvku.live:8888/movie/Arifardianayah/Arif/11457.mp4
-#EXTINF:-1,Empire of Lust - 2015
-http://tvku.live:8888/movie/Arifardianayah/Arif/11462.mp4
 #EXTINF:-1,Two Faces of My Girlfriend - 2007
 http://tvku.live:8888/movie/Arifardianayah/Arif/11481.mp4
 #EXTINF:-1,wrestling
 http://tvku.live:8888/movie/Arifardianayah/Arif/11485.mp4
-#EXTINF:-1,Jumanji: The Next Level - 2019
-http://tvku.live:8888/movie/Arifardianayah/Arif/11768.mp4
 #EXTINF:-1,0.0MHz - 2019
 http://tvku.live:8888/movie/Arifardianayah/Arif/11960.mp4
-#EXTINF:-1,Black and Blue - 2019
-http://tvku.live:8888/movie/Arifardianayah/Arif/11961.mp4
-#EXTINF:-1,The Ghost Who Walks - 2019
-http://tvku.live:8888/movie/Arifardianayah/Arif/11977.mp4
-#EXTINF:-1,The Shed - 2019
-http://tvku.live:8888/movie/Arifardianayah/Arif/11978.mp4
-#EXTINF:-1,Grand Isle - 2019
-http://tvku.live:8888/movie/Arifardianayah/Arif/11981.mp4
 #EXTINF:-1,Dream Girl - 2019
 http://tvku.live:8888/movie/Arifardianayah/Arif/11987.mp4
 #EXTINF:-1,Semper Fi - 2019
 http://tvku.live:8888/movie/Arifardianayah/Arif/11989.mp4
-#EXTINF:-1,Night School - 2018
-http://tvku.live:8888/movie/Arifardianayah/Arif/11999.mp4
-#EXTINF:-1,Samson - 2018
-http://tvku.live:8888/movie/Arifardianayah/Arif/12000.mp4
-#EXTINF:-1,The Night Comes for Us
-http://tvku.live:8888/movie/Arifardianayah/Arif/2980.mkv
-#EXTINF:-1,Digimon Adventure Tri. - Chapter 3: Confession - 2016
-http://tvku.live:8888/movie/Arifardianayah/Arif/14182.mkv
 #EXTINF:-1,Yu-Gi-Oh! The Movie - 2004
 http://tvku.live:8888/movie/Arifardianayah/Arif/14197.mkv
-#EXTINF:-1,Midnight Sun - 2006
-http://tvku.live:8888/movie/Arifardianayah/Arif/14223.mkv
-#EXTINF:-1,The 100th Love with You - 2017
-http://tvku.live:8888/movie/Arifardianayah/Arif/14224.mp4
-#EXTINF:-1,No Longer Heroine - 2015
-http://tvku.live:8888/movie/Arifardianayah/Arif/14236.mkv
 #EXTINF:-1,Blue Spring Ride - 2014
 http://tvku.live:8888/movie/Arifardianayah/Arif/14240.mkv
-#EXTINF:-1,Grimsby - 2016
-http://tvku.live:8888/movie/Arifardianayah/Arif/14242.mkv
 #EXTINF:-1,Star Wars: Episode I - The Phantom Menace - 1999
 http://tvku.live:8888/movie/Arifardianayah/Arif/14549.mp4
-#EXTINF:-1,Star Wars: Episode II - Attack of the Clones - 2002
-http://tvku.live:8888/movie/Arifardianayah/Arif/14550.mp4
 #EXTINF:-1,Star Wars: Episode III - Revenge of the Sith - 2005
 http://tvku.live:8888/movie/Arifardianayah/Arif/14551.mp4
-#EXTINF:-1,Angels Fallen - 2020
-http://tvku.live:8888/movie/Arifardianayah/Arif/14567.mp4
-#EXTINF:-1,Troop Zero - 2019
-http://tvku.live:8888/movie/Arifardianayah/Arif/14609.mp4
-#EXTINF:-1,Whiplash - 2014
-http://tvku.live:8888/movie/Arifardianayah/Arif/14776.mp4
-#EXTINF:-1,The Truman Show - 1998
-http://tvku.live:8888/movie/Arifardianayah/Arif/14786.mp4
 #EXTINF:-1,Inside Job - 2010
 http://tvku.live:8888/movie/Arifardianayah/Arif/14777.mp4
-#EXTINF:-1,Enter the Dragon - 1973
-http://tvku.live:8888/movie/Arifardianayah/Arif/14789.mp4
-#EXTINF:-1,RoboCop - 1987
-http://tvku.live:8888/movie/Arifardianayah/Arif/14791.mp4
 #EXTINF:-1,Waiting for
 http://tvku.live:8888/movie/Arifardianayah/Arif/14792.mp4
-#EXTINF:-1,Kamen Rider Decade: All Riders vs. Dai-Shocker - 2009
-http://tvku.live:8888/movie/Arifardianayah/Arif/14909.mp4
-#EXTINF:-1,Kamen Rider Ex-Aid the Movie: True Ending - 2017
-http://tvku.live:8888/movie/Arifardianayah/Arif/14911.mp4
 #EXTINF:-1,Kamen Rider Heisei Generations: Dr. Pac-Man vs. Ex-Aid & Ghost with Legend Riders - 2016
 http://tvku.live:8888/movie/Arifardianayah/Arif/14926.mp4
-#EXTINF:-1,Kamen Rider × Kamen Rider OOO & W Featuring Skull: Movie War Core - 2010
-http://tvku.live:8888/movie/Arifardianayah/Arif/14933.mp4
 #EXTINF:-1,Kamen Rider W Returns: Kamen Rider Eternal - 2011
 http://tvku.live:8888/movie/Arifardianayah/Arif/14934.mp4
-#EXTINF:-1,Kamen Rider × Kamen Rider Wizard & Fourze: Movie War Ultimatum - 2012
-http://tvku.live:8888/movie/Arifardianayah/Arif/14936.mp4
-#EXTINF:-1,Kamen Rider × Kamen Rider × Kamen Rider The Movie: Chou Den-O Trilogy - Episode Yellow: Treasure de End Pirates - 2010
-http://tvku.live:8888/movie/Arifardianayah/Arif/14941.mp4
 #EXTINF:-1,Tarzan - 1999
 http://tvku.live:8888/movie/Arifardianayah/Arif/14960.mp4
 #EXTINF:-1,NHK General TV
 http://tvku.live:8888/Arifardianayah/Arif/15059
-#EXTINF:-1,Fuji TV
-http://tvku.live:8888/Arifardianayah/Arif/15068
 #EXTINF:-1,BS Nippon Corporation
 http://tvku.live:8888/Arifardianayah/Arif/15072
-#EXTINF:-1,Bayern TV
-http://tvku.live:8888/Arifardianayah/Arif/15084
 #EXTINF:-1,Arena Sport 2 HD
 http://tvku.live:8888/Arifardianayah/Arif/15090
-#EXTINF:-1,Arena Sport 5 HD
-http://tvku.live:8888/Arifardianayah/Arif/15093
-#EXTINF:-1,MY: Nat Geo Wild
-http://tvku.live:8888/Arifardianayah/Arif/15118
-#EXTINF:-1,MY: FOX Sports2
-http://tvku.live:8888/Arifardianayah/Arif/15124
-#EXTINF:-1,MY: France24
-http://tvku.live:8888/Arifardianayah/Arif/15126
-#EXTINF:-1,MY: NHK World Premium
-http://tvku.live:8888/Arifardianayah/Arif/15128
-#EXTINF:-1,MY: Baby TV
-http://tvku.live:8888/Arifardianayah/Arif/15129
-#EXTINF:-1,MY: Star Chinese Channel
-http://tvku.live:8888/Arifardianayah/Arif/15137
-#EXTINF:-1,MY: Travel Channel
-http://tvku.live:8888/Arifardianayah/Arif/15138
-#EXTINF:-1,MY: Hypp Inspirasi
-http://tvku.live:8888/Arifardianayah/Arif/15141
-#EXTINF:-1,MY: Dreamworks
-http://tvku.live:8888/Arifardianayah/Arif/15142
-#EXTINF:-1,MY: Cinema World
-http://tvku.live:8888/Arifardianayah/Arif/15145
-#EXTINF:-1,MY: SETI
-http://tvku.live:8888/Arifardianayah/Arif/15146
-#EXTINF:-1,MY: Hypp Sensasi
-http://tvku.live:8888/Arifardianayah/Arif/15148
-#EXTINF:-1,MY: NTV7
-http://tvku.live:8888/Arifardianayah/Arif/15151
-#EXTINF:-1,MY: LuxeTV
-http://tvku.live:8888/Arifardianayah/Arif/15152
-#EXTINF:-1,MY: Blue_ant_Entertainment
-http://tvku.live:8888/Arifardianayah/Arif/15153
-#EXTINF:-1,MY: Now Jelli
-http://tvku.live:8888/Arifardianayah/Arif/15158
-#EXTINF:-1,MY: BBC Lifestyle
-http://tvku.live:8888/Arifardianayah/Arif/15159
-#EXTINF:-1,MY: Zee Cinema
-http://tvku.live:8888/Arifardianayah/Arif/15161
-#EXTINF:-1,AU: Fox Sports News
-http://tvku.live:8888/Arifardianayah/Arif/15169
-#EXTINF:-1,AU: Fox Sports 501
-http://tvku.live:8888/Arifardianayah/Arif/15170
-#EXTINF:-1,AU: Fox Sports 502
-http://tvku.live:8888/Arifardianayah/Arif/15171
-#EXTINF:-1,AU: Fox Sports 507
-http://tvku.live:8888/Arifardianayah/Arif/15176
-#EXTINF:-1,AU: beIN Sports 2
-http://tvku.live:8888/Arifardianayah/Arif/15178
-#EXTINF:-1,AU: ESPN 1
-http://tvku.live:8888/Arifardianayah/Arif/15180
-#EXTINF:-1,VTV 4 HD
-http://tvku.live:8888/Arifardianayah/Arif/18725
-#EXTINF:-1,FUJI TV ONE
-http://tvku.live:8888/Arifardianayah/Arif/23642
-#EXTINF:-1,Avatar: The Last Airbender S02 E16
-http://tvku.live:8888/series/Arifardianayah/Arif/21698.mp4
 #EXTINF:-1,Avatar: The Last Airbender S02 E17
 http://tvku.live:8888/series/Arifardianayah/Arif/21699.mp4
-#EXTINF:-1,Avatar: The Last Airbender S02 E19
-http://tvku.live:8888/series/Arifardianayah/Arif/21701.mp4
-#EXTINF:-1,Avatar: The Last Airbender S03 E14
-http://tvku.live:8888/series/Arifardianayah/Arif/21738.mp4
-#EXTINF:-1,Kyou Kara Ore Wa!! LIVE ACTION S01 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/14207.mkv
 #EXTINF:-1,My Girlfriend is a Gumiho S01 E12
 http://tvku.live:8888/series/Arifardianayah/Arif/17014.mkv
 #EXTINF:-1,My Girlfriend is a Gumiho S01 E16
 http://tvku.live:8888/series/Arifardianayah/Arif/17018.mkv
-#EXTINF:-1,Orange Marmalade S01 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/16771.mkv
-#EXTINF:-1,Beelzebub S01 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/19647.mp4
-#EXTINF:-1,Beelzebub S01 E17
-http://tvku.live:8888/series/Arifardianayah/Arif/19660.mp4
-#EXTINF:-1,Beelzebub S01 E19
-http://tvku.live:8888/series/Arifardianayah/Arif/19662.mp4
-#EXTINF:-1,Beelzebub S01 E21
-http://tvku.live:8888/series/Arifardianayah/Arif/19664.mp4
-#EXTINF:-1,Beelzebub S01 E23
-http://tvku.live:8888/series/Arifardianayah/Arif/19666.mp4
 #EXTINF:-1,Beelzebub S01 E38
 http://tvku.live:8888/series/Arifardianayah/Arif/19681.mp4
-#EXTINF:-1,Beelzebub S01 E49
-http://tvku.live:8888/series/Arifardianayah/Arif/19692.mp4
-#EXTINF:-1,Beelzebub S01 E50
-http://tvku.live:8888/series/Arifardianayah/Arif/19693.mp4
-#EXTINF:-1,Beelzebub S01 E53
-http://tvku.live:8888/series/Arifardianayah/Arif/19696.mp4
-#EXTINF:-1,Captain Tsubasa S01 E03
-http://tvku.live:8888/series/Arifardianayah/Arif/20766.mkv
-#EXTINF:-1,Captain Tsubasa S01 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/20767.mkv
-#EXTINF:-1,Captain Tsubasa S01 E06
-http://tvku.live:8888/series/Arifardianayah/Arif/20769.mkv
-#EXTINF:-1,Captain Tsubasa S01 E07
-http://tvku.live:8888/series/Arifardianayah/Arif/20770.mkv
-#EXTINF:-1,Captain Tsubasa S01 E20
-http://tvku.live:8888/series/Arifardianayah/Arif/20783.mkv
 #EXTINF:-1,Captain Tsubasa S01 E24
 http://tvku.live:8888/series/Arifardianayah/Arif/20787.mkv
 #EXTINF:-1,Captain Tsubasa S01 E25
 http://tvku.live:8888/series/Arifardianayah/Arif/20788.mkv
-#EXTINF:-1,Captain Tsubasa S01 E35
-http://tvku.live:8888/series/Arifardianayah/Arif/20798.mkv
-#EXTINF:-1,Captain Tsubasa S01 E37
-http://tvku.live:8888/series/Arifardianayah/Arif/20800.mkv
-#EXTINF:-1,Captain Tsubasa S01 E39
-http://tvku.live:8888/series/Arifardianayah/Arif/20802.mkv
-#EXTINF:-1,Captain Tsubasa S01 E41
-http://tvku.live:8888/series/Arifardianayah/Arif/20804.mkv
 #EXTINF:-1,Captain Tsubasa S01 E46
 http://tvku.live:8888/series/Arifardianayah/Arif/20809.mkv
-#EXTINF:-1,Captain Tsubasa S01 E52
-http://tvku.live:8888/series/Arifardianayah/Arif/20815.mkv
 #EXTINF:-1,Digimon Tamers S01 E09
 http://tvku.live:8888/series/Arifardianayah/Arif/19731.mkv
-#EXTINF:-1,Digimon Tamers S01 E17
-http://tvku.live:8888/series/Arifardianayah/Arif/19739.mkv
 #EXTINF:-1,Digimon Tamers S01 E19
 http://tvku.live:8888/series/Arifardianayah/Arif/19741.mkv
-#EXTINF:-1,Digimon Tamers S01 E29
-http://tvku.live:8888/series/Arifardianayah/Arif/19751.mkv
 #EXTINF:-1,Digimon Tamers S01 E33
 http://tvku.live:8888/series/Arifardianayah/Arif/19755.mkv
-#EXTINF:-1,Digimon Tamers S01 E48
-http://tvku.live:8888/series/Arifardianayah/Arif/19770.mkv
 #EXTINF:-1,Digimon Tamers S01 E49
 http://tvku.live:8888/series/Arifardianayah/Arif/19771.mkv
-#EXTINF:-1,Digimon Tamers S01 E50
-http://tvku.live:8888/series/Arifardianayah/Arif/19772.mkv
-#EXTINF:-1,Digimon Tamers S01 E51
-http://tvku.live:8888/series/Arifardianayah/Arif/19773.mkv
 #EXTINF:-1,Digimon Fusion S01 E08
 http://tvku.live:8888/series/Arifardianayah/Arif/21532.mkv
 #EXTINF:-1,Digimon Fusion S01 E10
 http://tvku.live:8888/series/Arifardianayah/Arif/21534.mkv
-#EXTINF:-1,Digimon Fusion S01 E13
-http://tvku.live:8888/series/Arifardianayah/Arif/21537.mkv
-#EXTINF:-1,Digimon Fusion S01 E18
-http://tvku.live:8888/series/Arifardianayah/Arif/21542.mkv
-#EXTINF:-1,Digimon Fusion S01 E24
-http://tvku.live:8888/series/Arifardianayah/Arif/21548.mkv
 #EXTINF:-1,Digimon Fusion S01 E25
 http://tvku.live:8888/series/Arifardianayah/Arif/21549.mkv
 #EXTINF:-1,Digimon Fusion S01 E28
 http://tvku.live:8888/series/Arifardianayah/Arif/21552.mkv
 #EXTINF:-1,Digimon Fusion S01 E30
 http://tvku.live:8888/series/Arifardianayah/Arif/21554.mkv
-#EXTINF:-1,Digimon Fusion S01 E31
-http://tvku.live:8888/series/Arifardianayah/Arif/21555.mkv
-#EXTINF:-1,Digimon Fusion S01 E36
-http://tvku.live:8888/series/Arifardianayah/Arif/21560.mkv
-#EXTINF:-1,Digimon Fusion S01 E40
-http://tvku.live:8888/series/Arifardianayah/Arif/21564.mkv
-#EXTINF:-1,Digimon Fusion S01 E52
-http://tvku.live:8888/series/Arifardianayah/Arif/21576.mkv
 #EXTINF:-1,Digimon Fusion S02 E06
 http://tvku.live:8888/series/Arifardianayah/Arif/21387.mkv
-#EXTINF:-1,Digimon Fusion S02 E13
-http://tvku.live:8888/series/Arifardianayah/Arif/21418.mkv
-#EXTINF:-1,Digimon Fusion S02 E20
-http://tvku.live:8888/series/Arifardianayah/Arif/21425.mkv
-#EXTINF:-1,Digimon Fusion S03 E03
-http://tvku.live:8888/series/Arifardianayah/Arif/21432.mkv
-#EXTINF:-1,Digimon Fusion S03 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/21437.mkv
-#EXTINF:-1,Digimon Fusion S03 E16
-http://tvku.live:8888/series/Arifardianayah/Arif/21445.mkv
 #EXTINF:-1,Digimon Fusion S03 E17
 http://tvku.live:8888/series/Arifardianayah/Arif/21446.mkv
-#EXTINF:-1,Digimon Fusion S03 E18
-http://tvku.live:8888/series/Arifardianayah/Arif/21447.mkv
-#EXTINF:-1,Digimon Fusion S03 E23
-http://tvku.live:8888/series/Arifardianayah/Arif/21452.mkv
 #EXTINF:-1,Digimon: Data Squad S01 E09
 http://tvku.live:8888/series/Arifardianayah/Arif/20848.mkv
-#EXTINF:-1,Digimon: Data Squad S01 E18
-http://tvku.live:8888/series/Arifardianayah/Arif/20857.mkv
 #EXTINF:-1,Digimon: Data Squad S01 E20
 http://tvku.live:8888/series/Arifardianayah/Arif/20859.mkv
-#EXTINF:-1,Digimon: Data Squad S01 E21
-http://tvku.live:8888/series/Arifardianayah/Arif/20860.mkv
-#EXTINF:-1,Digimon: Data Squad S01 E31
-http://tvku.live:8888/series/Arifardianayah/Arif/20870.mkv
-#EXTINF:-1,Digimon: Data Squad S01 E35
-http://tvku.live:8888/series/Arifardianayah/Arif/20874.mkv
-#EXTINF:-1,Digimon Frontier S01 E01
-http://tvku.live:8888/series/Arifardianayah/Arif/19800.mkv
 #EXTINF:-1,Digimon Frontier S01 E03
 http://tvku.live:8888/series/Arifardianayah/Arif/19802.mkv
-#EXTINF:-1,Digimon Frontier S01 E10
-http://tvku.live:8888/series/Arifardianayah/Arif/19809.mkv
-#EXTINF:-1,Digimon Frontier S01 E18
-http://tvku.live:8888/series/Arifardianayah/Arif/19817.mkv
-#EXTINF:-1,Digimon Frontier S01 E28
-http://tvku.live:8888/series/Arifardianayah/Arif/19827.mkv
-#EXTINF:-1,Digimon Frontier S01 E33
-http://tvku.live:8888/series/Arifardianayah/Arif/19832.mkv
-#EXTINF:-1,Digimon Frontier S01 E35
-http://tvku.live:8888/series/Arifardianayah/Arif/19834.mkv
-#EXTINF:-1,Digimon Frontier S01 E36
-http://tvku.live:8888/series/Arifardianayah/Arif/19835.mkv
 #EXTINF:-1,Digimon Frontier S01 E45
 http://tvku.live:8888/series/Arifardianayah/Arif/19844.mkv
-#EXTINF:-1,Dragon Ball GT S01 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/19880.mp4
-#EXTINF:-1,Dragon Ball GT S01 E14
-http://tvku.live:8888/series/Arifardianayah/Arif/19890.mp4
-#EXTINF:-1,Dragon Ball GT S01 E15
-http://tvku.live:8888/series/Arifardianayah/Arif/19891.mp4
-#EXTINF:-1,Dragon Ball GT S01 E28
-http://tvku.live:8888/series/Arifardianayah/Arif/19917.mp4
-#EXTINF:-1,Dragon Ball GT S01 E30
-http://tvku.live:8888/series/Arifardianayah/Arif/19919.mp4
-#EXTINF:-1,Dragon Ball GT S01 E39
-http://tvku.live:8888/series/Arifardianayah/Arif/19928.mp4
-#EXTINF:-1,Dragon Ball GT S01 E40
-http://tvku.live:8888/series/Arifardianayah/Arif/19929.mp4
-#EXTINF:-1,Dragon Ball GT S01 E51
-http://tvku.live:8888/series/Arifardianayah/Arif/19964.mp4
-#EXTINF:-1,Dragon Ball GT S01 E52
-http://tvku.live:8888/series/Arifardianayah/Arif/19965.mp4
-#EXTINF:-1,Dragon Ball GT S01 E53
-http://tvku.live:8888/series/Arifardianayah/Arif/19966.mp4
-#EXTINF:-1,Dragon Ball GT S01 E54
-http://tvku.live:8888/series/Arifardianayah/Arif/19967.mp4
-#EXTINF:-1,Dragon Ball GT S01 E59
-http://tvku.live:8888/series/Arifardianayah/Arif/19972.mp4
 #EXTINF:-1,Dragon Ball GT S01 E63
 http://tvku.live:8888/series/Arifardianayah/Arif/19976.mp4
 #EXTINF:-1,Kamen Rider Zero One S01 E06
 http://tvku.live:8888/series/Arifardianayah/Arif/21818.mp4
-#EXTINF:-1,Kamen Rider Zero One S01 E12
-http://tvku.live:8888/series/Arifardianayah/Arif/19851.mp4
-#EXTINF:-1,Mobile Suit Gundam 00 S01 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/21082.mkv
-#EXTINF:-1,Mobile Suit Gundam 00 S01 E11
-http://tvku.live:8888/series/Arifardianayah/Arif/21084.mkv
 #EXTINF:-1,Mobile Suit Gundam 00 S01 E12
 http://tvku.live:8888/series/Arifardianayah/Arif/21085.mkv
-#EXTINF:-1,Mobile Suit Gundam 00 S01 E25
-http://tvku.live:8888/series/Arifardianayah/Arif/21098.mkv
-#EXTINF:-1,Mobile Suit Gundam 00 S02 E01
-http://tvku.live:8888/series/Arifardianayah/Arif/21124.mkv
-#EXTINF:-1,Mobile Suit Gundam 00 S02 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/21125.mkv
-#EXTINF:-1,Mobile Suit Gundam 00 S02 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/21127.mkv
-#EXTINF:-1,Mobile Suit Gundam 00 S02 E11
-http://tvku.live:8888/series/Arifardianayah/Arif/21137.mkv
 #EXTINF:-1,Mobile Suit Gundam 00 S02 E23
 http://tvku.live:8888/series/Arifardianayah/Arif/21161.mkv
-#EXTINF:-1,Mobile Suit Gundam 00 S02 E25
-http://tvku.live:8888/series/Arifardianayah/Arif/21165.mkv
-#EXTINF:-1,Gundam Build Divers S01 E10
-http://tvku.live:8888/series/Arifardianayah/Arif/20012.mkv
 #EXTINF:-1,Gundam Build Divers S01 E13
 http://tvku.live:8888/series/Arifardianayah/Arif/20015.mkv
-#EXTINF:-1,Gundam Build Divers S01 E14
-http://tvku.live:8888/series/Arifardianayah/Arif/20016.mkv
 #EXTINF:-1,Gundam Build Fighters S01 E02
 http://tvku.live:8888/series/Arifardianayah/Arif/20029.mkv
 #EXTINF:-1,Gundam Build Fighters S01 E03
 http://tvku.live:8888/series/Arifardianayah/Arif/20030.mkv
 #EXTINF:-1,Gundam Build Fighters S01 E09
 http://tvku.live:8888/series/Arifardianayah/Arif/20036.mkv
-#EXTINF:-1,Gundam Build Fighters S01 E12
-http://tvku.live:8888/series/Arifardianayah/Arif/20039.mkv
-#EXTINF:-1,Gundam Build Fighters S01 E14
-http://tvku.live:8888/series/Arifardianayah/Arif/20041.mkv
-#EXTINF:-1,Gundam Build Fighters S01 E23
-http://tvku.live:8888/series/Arifardianayah/Arif/20050.mkv
-#EXTINF:-1,Gundam Build Divers Re:Rise S01 E06
-http://tvku.live:8888/series/Arifardianayah/Arif/20058.mp4
-#EXTINF:-1,Gundam Build Fighters Try S01 E14
-http://tvku.live:8888/series/Arifardianayah/Arif/20066.mkv
-#EXTINF:-1,Gundam Build Fighters Try S01 E15
-http://tvku.live:8888/series/Arifardianayah/Arif/20092.mkv
-#EXTINF:-1,Gundam Build Fighters Try S01 E17
-http://tvku.live:8888/series/Arifardianayah/Arif/20093.mkv
-#EXTINF:-1,Gundam Build Fighters Try S01 E28
-http://tvku.live:8888/series/Arifardianayah/Arif/20098.mkv
-#EXTINF:-1,Gundam Build Fighters Try S01 E29
-http://tvku.live:8888/series/Arifardianayah/Arif/20099.mkv
-#EXTINF:-1,Gundam Build Fighters Try S01 E44
-http://tvku.live:8888/series/Arifardianayah/Arif/20106.mkv
-#EXTINF:-1,One-Punch Man S01 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/21247.mkv
 #EXTINF:-1,One-Punch Man S02 E01
 http://tvku.live:8888/series/Arifardianayah/Arif/21279.mkv
 #EXTINF:-1,One-Punch Man S02 E12
@@ -2006,134 +1110,36 @@ http://tvku.live:8888/series/Arifardianayah/Arif/17650.mp4
 http://tvku.live:8888/series/Arifardianayah/Arif/17651.mp4
 #EXTINF:-1,One-Punch Man S00 E03
 http://tvku.live:8888/series/Arifardianayah/Arif/6010.mkv
-#EXTINF:-1,Moorim School S01 E10
-http://tvku.live:8888/series/Arifardianayah/Arif/17519.mp4
-#EXTINF:-1,Hotel Del Luna S01 E07
-http://tvku.live:8888/series/Arifardianayah/Arif/17431.mkv
 #EXTINF:-1,Boruto: Naruto Next Generations S01 E06
 http://tvku.live:8888/series/Arifardianayah/Arif/20719.mkv
-#EXTINF:-1,Boruto: Naruto Next Generations S01 E22
-http://tvku.live:8888/series/Arifardianayah/Arif/20735.mkv
-#EXTINF:-1,Boruto: Naruto Next Generations S01 E38
-http://tvku.live:8888/series/Arifardianayah/Arif/20751.mkv
-#EXTINF:-1,Boruto: Naruto Next Generations S01 E69
-http://tvku.live:8888/series/Arifardianayah/Arif/20656.mkv
-#EXTINF:-1,Boruto: Naruto Next Generations S01 E81
-http://tvku.live:8888/series/Arifardianayah/Arif/20619.mkv
-#EXTINF:-1,Boruto: Naruto Next Generations S01 E82
-http://tvku.live:8888/series/Arifardianayah/Arif/20620.mkv
-#EXTINF:-1,Boruto: Naruto Next Generations S01 E84
-http://tvku.live:8888/series/Arifardianayah/Arif/20622.mkv
 #EXTINF:-1,Boruto: Naruto Next Generations S01 E90
 http://tvku.live:8888/series/Arifardianayah/Arif/20628.mkv
 #EXTINF:-1,Boruto: Naruto Next Generations S01 E91
 http://tvku.live:8888/series/Arifardianayah/Arif/20629.mkv
 #EXTINF:-1,Boruto: Naruto Next Generations S01 E102
 http://tvku.live:8888/series/Arifardianayah/Arif/20594.mkv
-#EXTINF:-1,Boruto: Naruto Next Generations S01 E105
-http://tvku.live:8888/series/Arifardianayah/Arif/20597.mkv
 #EXTINF:-1,Boruto: Naruto Next Generations S01 E107
 http://tvku.live:8888/series/Arifardianayah/Arif/20599.mkv
-#EXTINF:-1,Boruto: Naruto Next Generations S01 E122
-http://tvku.live:8888/series/Arifardianayah/Arif/20614.mkv
 #EXTINF:-1,Boruto: Naruto Next Generations S01 E123
 http://tvku.live:8888/series/Arifardianayah/Arif/20615.mkv
-#EXTINF:-1,Nurse in Action! S01 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/16311.mp4
-#EXTINF:-1,Nurse in Action! S01 E10
-http://tvku.live:8888/series/Arifardianayah/Arif/16312.mp4
 #EXTINF:-1,Gokusen S01 E01
 http://tvku.live:8888/series/Arifardianayah/Arif/15537.mkv
-#EXTINF:-1,Gokusen S01 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/15527.mkv
-#EXTINF:-1,Gokusen S01 E10
-http://tvku.live:8888/series/Arifardianayah/Arif/15533.mkv
-#EXTINF:-1,GTO S01 E10
-http://tvku.live:8888/series/Arifardianayah/Arif/15521.mp4
-#EXTINF:-1,Gintama Mitsuba hen  S01 E01
-http://tvku.live:8888/series/Arifardianayah/Arif/6380.mp4
-#EXTINF:-1,I'm Not Just Going to do what Kurosaki-kun Says S01 E01
-http://tvku.live:8888/series/Arifardianayah/Arif/6377.mkv
-#EXTINF:-1,Goblin S01 E01
-http://tvku.live:8888/series/Arifardianayah/Arif/17358.mkv
-#EXTINF:-1,Goblin S01 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/17376.mkv
-#EXTINF:-1,Goblin S01 E06
-http://tvku.live:8888/series/Arifardianayah/Arif/17361.mkv
 #EXTINF:-1,The End of the F***ing World S01 E03
 http://tvku.live:8888/series/Arifardianayah/Arif/19863.mp4
-#EXTINF:-1,Krypton S02 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/19602.mp4
-#EXTINF:-1,Doom Patrol S01 E13
-http://tvku.live:8888/series/Arifardianayah/Arif/18872.mp4
 #EXTINF:-1,Doom Patrol S01 E15
 http://tvku.live:8888/series/Arifardianayah/Arif/18874.mp4
-#EXTINF:-1,Future Man S01 E11
-http://tvku.live:8888/series/Arifardianayah/Arif/18857.mp4
-#EXTINF:-1,Ultraman S01 E01
-http://tvku.live:8888/series/Arifardianayah/Arif/19897.mp4
 #EXTINF:-1,Ultraman S01 E02
 http://tvku.live:8888/series/Arifardianayah/Arif/19898.mp4
 #EXTINF:-1,Ultraman S01 E03
 http://tvku.live:8888/series/Arifardianayah/Arif/19899.mp4
 #EXTINF:-1,Ultraman S01 E12
 http://tvku.live:8888/series/Arifardianayah/Arif/19908.mp4
-#EXTINF:-1,Ultraman S01 E13
-http://tvku.live:8888/series/Arifardianayah/Arif/19909.mp4
-#EXTINF:-1,Death Note S01 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/15363.mkv
-#EXTINF:-1,Fullmetal Alchemist: Brotherhood S01 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/20455.mkv
-#EXTINF:-1,Fullmetal Alchemist: Brotherhood S01 E06
-http://tvku.live:8888/series/Arifardianayah/Arif/20459.mkv
-#EXTINF:-1,Fullmetal Alchemist: Brotherhood S01 E23
-http://tvku.live:8888/series/Arifardianayah/Arif/20476.mkv
-#EXTINF:-1,Fullmetal Alchemist: Brotherhood S01 E33
-http://tvku.live:8888/series/Arifardianayah/Arif/20486.mkv
-#EXTINF:-1,Fullmetal Alchemist: Brotherhood S01 E49
-http://tvku.live:8888/series/Arifardianayah/Arif/20502.mkv
-#EXTINF:-1,Fullmetal Alchemist: Brotherhood S01 E55
-http://tvku.live:8888/series/Arifardianayah/Arif/20508.mkv
-#EXTINF:-1,Kamen Rider Kuuga S01 E11
-http://tvku.live:8888/series/Arifardianayah/Arif/20399.mkv
 #EXTINF:-1,Kamen Rider Kuuga S01 E13
 http://tvku.live:8888/series/Arifardianayah/Arif/20401.mkv
-#EXTINF:-1,Kamen Rider Kuuga S01 E27
-http://tvku.live:8888/series/Arifardianayah/Arif/20415.mkv
-#EXTINF:-1,Kamen Rider Kuuga S01 E31
-http://tvku.live:8888/series/Arifardianayah/Arif/20419.mkv
-#EXTINF:-1,Kamen Rider Kuuga S01 E32
-http://tvku.live:8888/series/Arifardianayah/Arif/20420.mkv
-#EXTINF:-1,Kamen Rider Kuuga S01 E40
-http://tvku.live:8888/series/Arifardianayah/Arif/20428.mkv
-#EXTINF:-1,Kamen Rider Kuuga S01 E45
-http://tvku.live:8888/series/Arifardianayah/Arif/20433.mkv
 #EXTINF:-1,Kamen Rider Kuuga S01 E47
 http://tvku.live:8888/series/Arifardianayah/Arif/20435.mkv
-#EXTINF:-1,The Law of Ueki S01 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/20346.mkv
 #EXTINF:-1,The Law of Ueki S01 E17
 http://tvku.live:8888/series/Arifardianayah/Arif/20354.mkv
-#EXTINF:-1,The Law of Ueki S01 E20
-http://tvku.live:8888/series/Arifardianayah/Arif/20357.mkv
-#EXTINF:-1,The Law of Ueki S01 E24
-http://tvku.live:8888/series/Arifardianayah/Arif/20361.mkv
-#EXTINF:-1,The Law of Ueki S01 E26
-http://tvku.live:8888/series/Arifardianayah/Arif/20363.mkv
-#EXTINF:-1,The Law of Ueki S01 E36
-http://tvku.live:8888/series/Arifardianayah/Arif/20373.mkv
-#EXTINF:-1,The Law of Ueki S01 E41
-http://tvku.live:8888/series/Arifardianayah/Arif/20378.mkv
-#EXTINF:-1,The Law of Ueki S01 E43
-http://tvku.live:8888/series/Arifardianayah/Arif/20380.mkv
-#EXTINF:-1,The Law of Ueki S01 E47
-http://tvku.live:8888/series/Arifardianayah/Arif/20384.mkv
-#EXTINF:-1,The Law of Ueki S01 E49
-http://tvku.live:8888/series/Arifardianayah/Arif/20386.mkv
-#EXTINF:-1,The Law of Ueki S01 E51
-http://tvku.live:8888/series/Arifardianayah/Arif/20388.mkv
-#EXTINF:-1,The Mandalorian S01 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/19010.mkv
 #EXTINF:-1,Rurouni Kenshin S01 E04
 http://tvku.live:8888/series/Arifardianayah/Arif/20216.mkv
 #EXTINF:-1,Rurouni Kenshin S01 E06
@@ -2142,30 +1148,8 @@ http://tvku.live:8888/series/Arifardianayah/Arif/20218.mkv
 http://tvku.live:8888/series/Arifardianayah/Arif/20224.mkv
 #EXTINF:-1,Rurouni Kenshin S01 E18
 http://tvku.live:8888/series/Arifardianayah/Arif/20230.mkv
-#EXTINF:-1,Rurouni Kenshin S01 E27
-http://tvku.live:8888/series/Arifardianayah/Arif/20239.mkv
-#EXTINF:-1,Rurouni Kenshin S01 E37
-http://tvku.live:8888/series/Arifardianayah/Arif/20249.mkv
 #EXTINF:-1,Rurouni Kenshin S01 E46
 http://tvku.live:8888/series/Arifardianayah/Arif/20268.mkv
-#EXTINF:-1,Rurouni Kenshin S01 E47
-http://tvku.live:8888/series/Arifardianayah/Arif/20269.mkv
-#EXTINF:-1,Rurouni Kenshin S01 E80
-http://tvku.live:8888/series/Arifardianayah/Arif/20312.mkv
-#EXTINF:-1,Rurouni Kenshin S01 E95
-http://tvku.live:8888/series/Arifardianayah/Arif/20327.mp4
-#EXTINF:-1,Catch The Ghost S01 E03
-http://tvku.live:8888/series/Arifardianayah/Arif/17350.mkv
-#EXTINF:-1,Catch The Ghost S01 E06
-http://tvku.live:8888/series/Arifardianayah/Arif/17353.mkv
-#EXTINF:-1,Catch The Ghost S01 E10
-http://tvku.live:8888/series/Arifardianayah/Arif/17357.mkv
-#EXTINF:-1,Miss Lee S01 E01
-http://tvku.live:8888/series/Arifardianayah/Arif/17282.mkv
-#EXTINF:-1,Miss Lee S01 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/17285.mkv
-#EXTINF:-1,Miss Lee S01 E06
-http://tvku.live:8888/series/Arifardianayah/Arif/17287.mkv
 #EXTINF:-1,Miss Lee S01 E15
 http://tvku.live:8888/series/Arifardianayah/Arif/17296.mkv
 #EXTINF:-1,American Horror Story S01 E07
@@ -2176,186 +1160,58 @@ http://tvku.live:8888/series/Arifardianayah/Arif/18995.mp4
 http://tvku.live:8888/series/Arifardianayah/Arif/18997.mp4
 #EXTINF:-1,American Horror Story S01 E12
 http://tvku.live:8888/series/Arifardianayah/Arif/18998.mp4
-#EXTINF:-1,Marvel's Daredevil S01 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/23736.mp4
-#EXTINF:-1,Marvel's Daredevil S01 E10
-http://tvku.live:8888/series/Arifardianayah/Arif/23744.mp4
 #EXTINF:-1,Majisuka Academy S01 E01
 http://tvku.live:8888/series/Arifardianayah/Arif/16167.mkv
-#EXTINF:-1,Mighty Morphin Power Rangers S01 E01
-http://tvku.live:8888/series/Arifardianayah/Arif/20173.mp4
 #EXTINF:-1,Mighty Morphin Power Rangers S01 E05
 http://tvku.live:8888/series/Arifardianayah/Arif/20177.mp4
-#EXTINF:-1,Mighty Morphin Power Rangers S01 E14
-http://tvku.live:8888/series/Arifardianayah/Arif/20186.mp4
 #EXTINF:-1,Mighty Morphin Power Rangers S01 E17
 http://tvku.live:8888/series/Arifardianayah/Arif/20189.mp4
-#EXTINF:-1,Mighty Morphin Power Rangers S01 E20
-http://tvku.live:8888/series/Arifardianayah/Arif/20192.mp4
-#EXTINF:-1,Mighty Morphin Power Rangers S01 E22
-http://tvku.live:8888/series/Arifardianayah/Arif/20194.mp4
-#EXTINF:-1,Power Rangers in Space S01 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/20134.mp4
-#EXTINF:-1,Power Rangers in Space S01 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/20138.mp4
-#EXTINF:-1,Power Rangers in Space S01 E16
-http://tvku.live:8888/series/Arifardianayah/Arif/20145.mp4
-#EXTINF:-1,Power Rangers in Space S01 E18
-http://tvku.live:8888/series/Arifardianayah/Arif/20147.mp4
 #EXTINF:-1,Power Rangers in Space S01 E21
 http://tvku.live:8888/series/Arifardianayah/Arif/20150.mp4
-#EXTINF:-1,Power Rangers in Space S01 E27
-http://tvku.live:8888/series/Arifardianayah/Arif/20156.mp4
-#EXTINF:-1,Power Rangers in Space S01 E31
-http://tvku.live:8888/series/Arifardianayah/Arif/20160.mp4
 #EXTINF:-1,Power Rangers in Space S01 E39
 http://tvku.live:8888/series/Arifardianayah/Arif/20168.mp4
-#EXTINF:-1,Power Rangers in Space S01 E42
-http://tvku.live:8888/series/Arifardianayah/Arif/20171.mp4
-#EXTINF:-1,Power Rangers in Space S01 E43
-http://tvku.live:8888/series/Arifardianayah/Arif/20172.mp4
-#EXTINF:-1,Power Ranger's Ninja Storm S01 E07
-http://tvku.live:8888/series/Arifardianayah/Arif/19614.mp4
-#EXTINF:-1,Power Ranger's Ninja Storm S01 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/19616.mp4
-#EXTINF:-1,Power Ranger's Ninja Storm S01 E22
-http://tvku.live:8888/series/Arifardianayah/Arif/19629.mp4
-#EXTINF:-1,Power Ranger's Ninja Storm S01 E35
-http://tvku.live:8888/series/Arifardianayah/Arif/19642.mp4
-#EXTINF:-1,Power Rangers Dino Thunder S01 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/19563.mp4
 #EXTINF:-1,Power Rangers Dino Thunder S01 E05
 http://tvku.live:8888/series/Arifardianayah/Arif/19564.mp4
-#EXTINF:-1,Power Rangers Dino Thunder S01 E30
-http://tvku.live:8888/series/Arifardianayah/Arif/19589.mp4
-#EXTINF:-1,Power Rangers Dino Thunder S01 E34
-http://tvku.live:8888/series/Arifardianayah/Arif/19593.mp4
-#EXTINF:-1,Power Rangers Dino Thunder S01 E37
-http://tvku.live:8888/series/Arifardianayah/Arif/19596.mp4
-#EXTINF:-1,Power Rangers Dino Thunder S01 E38
-http://tvku.live:8888/series/Arifardianayah/Arif/19597.mp4
-#EXTINF:-1,Ultraman Geed S01 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/18130.mp4
-#EXTINF:-1,Ultraman Geed S01 E07
-http://tvku.live:8888/series/Arifardianayah/Arif/18132.mp4
 #EXTINF:-1,Ultraman Orb S01 E02
 http://tvku.live:8888/series/Arifardianayah/Arif/18153.mp4
 #EXTINF:-1,Ultraman Orb S01 E08
 http://tvku.live:8888/series/Arifardianayah/Arif/18159.mp4
-#EXTINF:-1,100 days my prince S01 E15
-http://tvku.live:8888/series/Arifardianayah/Arif/7537.mkv
 #EXTINF:-1,Angry Mom S01 E01
 http://tvku.live:8888/series/Arifardianayah/Arif/17152.mkv
 #EXTINF:-1,Angry Mom S01 E09
 http://tvku.live:8888/series/Arifardianayah/Arif/17160.mkv
-#EXTINF:-1,Angry Mom S01 E14
-http://tvku.live:8888/series/Arifardianayah/Arif/17165.mkv
 #EXTINF:-1,City Hunter S01 E01
 http://tvku.live:8888/series/Arifardianayah/Arif/17100.mkv
 #EXTINF:-1,City Hunter S01 E02
 http://tvku.live:8888/series/Arifardianayah/Arif/17103.mkv
-#EXTINF:-1,City Hunter S01 E06
-http://tvku.live:8888/series/Arifardianayah/Arif/17111.mkv
-#EXTINF:-1,City Hunter S01 E12
-http://tvku.live:8888/series/Arifardianayah/Arif/17123.mkv
-#EXTINF:-1,City Hunter S01 E13
-http://tvku.live:8888/series/Arifardianayah/Arif/17125.mkv
-#EXTINF:-1,City Hunter S01 E14
-http://tvku.live:8888/series/Arifardianayah/Arif/17127.mp4
-#EXTINF:-1,City Hunter S01 E19
-http://tvku.live:8888/series/Arifardianayah/Arif/17136.mp4
-#EXTINF:-1,Kamen Rider Gaim S01 E06
-http://tvku.live:8888/series/Arifardianayah/Arif/18182.mp4
-#EXTINF:-1,Kamen Rider Gaim S01 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/18185.mp4
-#EXTINF:-1,Kamen Rider Gaim S01 E10
-http://tvku.live:8888/series/Arifardianayah/Arif/18186.mp4
-#EXTINF:-1,Kamen Rider Gaim S01 E15
-http://tvku.live:8888/series/Arifardianayah/Arif/18191.mp4
-#EXTINF:-1,Kamen Rider Gaim S01 E25
-http://tvku.live:8888/series/Arifardianayah/Arif/18201.mp4
-#EXTINF:-1,Kamen Rider Gaim S01 E26
-http://tvku.live:8888/series/Arifardianayah/Arif/18202.mp4
-#EXTINF:-1,Kamen Rider Gaim S01 E36
-http://tvku.live:8888/series/Arifardianayah/Arif/18212.mp4
-#EXTINF:-1,Kamen Rider Gaim S01 E37
-http://tvku.live:8888/series/Arifardianayah/Arif/18213.mp4
 #EXTINF:-1,Kamen Rider Gaim S01 E42
 http://tvku.live:8888/series/Arifardianayah/Arif/18218.mp4
 #EXTINF:-1,Never Twice S01 E02
 http://tvku.live:8888/series/Arifardianayah/Arif/7587.mp4
-#EXTINF:-1,Tom Clancy's  Jack Ryan S01 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/7596.mp4
 #EXTINF:-1,Tom Clancy's  Jack Ryan S02 E02
 http://tvku.live:8888/series/Arifardianayah/Arif/23728.mp4
 #EXTINF:-1,Tom Clancy's  Jack Ryan S02 E07
 http://tvku.live:8888/series/Arifardianayah/Arif/23733.mp4
-#EXTINF:-1,Witch's Love S01 E01
-http://tvku.live:8888/series/Arifardianayah/Arif/7646.mkv
-#EXTINF:-1,Witch's Love S01 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/7649.mkv
 #EXTINF:-1,Witch's Love S01 E11
 http://tvku.live:8888/series/Arifardianayah/Arif/7656.mkv
 #EXTINF:-1,For You in Full Blossom S01 E02
 http://tvku.live:8888/series/Arifardianayah/Arif/16132.mkv
-#EXTINF:-1,For You in Full Blossom S01 E03
-http://tvku.live:8888/series/Arifardianayah/Arif/16133.mkv
-#EXTINF:-1,Full House S01 E06
-http://tvku.live:8888/series/Arifardianayah/Arif/16623.mkv
-#EXTINF:-1,Full House S01 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/16626.mkv
 #EXTINF:-1, Poor Woman S01 E06
 http://tvku.live:8888/series/Arifardianayah/Arif/15294.mkv
-#EXTINF:-1,Switch Girl!! S01 E03
-http://tvku.live:8888/series/Arifardianayah/Arif/15281.mp4
-#EXTINF:-1,Switch Girl!! S01 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/15283.mkv
-#EXTINF:-1,Zambi S01 E06
-http://tvku.live:8888/series/Arifardianayah/Arif/15274.mp4
-#EXTINF:-1,Zambi S01 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/15276.mp4
-#EXTINF:-1,Zambi S01 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/15277.mp4
-#EXTINF:-1,Marvel's Jessica Jones S01 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/18931.mp4
-#EXTINF:-1,Marvel's Jessica Jones S01 E11
-http://tvku.live:8888/series/Arifardianayah/Arif/18933.mp4
 #EXTINF:-1,Woman with a Suitcase S01 E05
 http://tvku.live:8888/series/Arifardianayah/Arif/7722.mkv
 #EXTINF:-1,Woman with a Suitcase S01 E11
 http://tvku.live:8888/series/Arifardianayah/Arif/7728.mkv
 #EXTINF:-1,When the Devil Calls Your Name S01 E05
 http://tvku.live:8888/series/Arifardianayah/Arif/7738.mkv
-#EXTINF:-1,When Time Stopped S01 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/7754.mkv
-#EXTINF:-1,Producing Nobuta S01 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/15267.mkv
-#EXTINF:-1,Producing Nobuta S01 E10
-http://tvku.live:8888/series/Arifardianayah/Arif/15268.mkv
-#EXTINF:-1,Perfume S01 E03
-http://tvku.live:8888/series/Arifardianayah/Arif/16604.mkv
 #EXTINF:-1,Perfume S01 E05
 http://tvku.live:8888/series/Arifardianayah/Arif/16606.mkv
-#EXTINF:-1,Perfume S01 E07
-http://tvku.live:8888/series/Arifardianayah/Arif/16608.mkv
 #EXTINF:-1,Perfume S01 E11
 http://tvku.live:8888/series/Arifardianayah/Arif/16612.mkv
-#EXTINF:-1,Perfume S01 E15
-http://tvku.live:8888/series/Arifardianayah/Arif/16616.mkv
-#EXTINF:-1,Pocket Monsters S01 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/9677.mp4
-#EXTINF:-1,Hello Monster S01 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/16519.mkv
 #EXTINF:-1,Hello Monster S01 E07
 http://tvku.live:8888/series/Arifardianayah/Arif/16524.mkv
 #EXTINF:-1,The Boss Baby: Back in Business S01 E01
 http://tvku.live:8888/series/Arifardianayah/Arif/9097.mkv
-#EXTINF:-1,The Boss Baby: Back in Business S01 E03
-http://tvku.live:8888/series/Arifardianayah/Arif/9099.mkv
-#EXTINF:-1,The Boss Baby: Back in Business S01 E13
-http://tvku.live:8888/series/Arifardianayah/Arif/9109.mkv
-#EXTINF:-1,SKY Castle S01 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/16448.mkv
 #EXTINF:-1,SKY Castle S01 E04
 http://tvku.live:8888/series/Arifardianayah/Arif/16450.mkv
 #EXTINF:-1,SKY Castle S01 E08
@@ -2364,70 +1220,30 @@ http://tvku.live:8888/series/Arifardianayah/Arif/16454.mkv
 http://tvku.live:8888/series/Arifardianayah/Arif/16464.mkv
 #EXTINF:-1,vagabond S01 E07
 http://tvku.live:8888/series/Arifardianayah/Arif/16437.mkv
-#EXTINF:-1,signal S01 E01
-http://tvku.live:8888/series/Arifardianayah/Arif/16370.mkv
-#EXTINF:-1,signal S01 E11
-http://tvku.live:8888/series/Arifardianayah/Arif/16390.mkv
 #EXTINF:-1,The Fiery Priest S01 E02
 http://tvku.live:8888/series/Arifardianayah/Arif/16346.mkv
-#EXTINF:-1,The Fiery Priest S01 E06
-http://tvku.live:8888/series/Arifardianayah/Arif/16350.mkv
-#EXTINF:-1,The Fiery Priest S01 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/16352.mkv
 #EXTINF:-1,The Fiery Priest S01 E10
 http://tvku.live:8888/series/Arifardianayah/Arif/16354.mkv
-#EXTINF:-1,The Fiery Priest S01 E12
-http://tvku.live:8888/series/Arifardianayah/Arif/16356.mkv
 #EXTINF:-1,The Fiery Priest S01 E15
 http://tvku.live:8888/series/Arifardianayah/Arif/16359.mkv
-#EXTINF:-1,The Fiery Priest S01 E18
-http://tvku.live:8888/series/Arifardianayah/Arif/16362.mkv
 #EXTINF:-1,The Fiery Priest S01 E20
 http://tvku.live:8888/series/Arifardianayah/Arif/16364.mkv
 #EXTINF:-1,Class of Lies S01 E02
 http://tvku.live:8888/series/Arifardianayah/Arif/16330.mkv
-#EXTINF:-1,Class of Lies S01 E03
-http://tvku.live:8888/series/Arifardianayah/Arif/16331.mkv
-#EXTINF:-1,Class of Lies S01 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/16333.mkv
-#EXTINF:-1,Class of Lies S01 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/16336.mkv
 #EXTINF:-1,Class of Lies S01 E09
 http://tvku.live:8888/series/Arifardianayah/Arif/16337.mkv
-#EXTINF:-1,Class of Lies S01 E15
-http://tvku.live:8888/series/Arifardianayah/Arif/16343.mkv
 #EXTINF:-1,Life on Mars S01 E04
 http://tvku.live:8888/series/Arifardianayah/Arif/16290.mkv
-#EXTINF:-1,Life on Mars S01 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/16291.mkv
 #EXTINF:-1,Life on Mars S01 E07
 http://tvku.live:8888/series/Arifardianayah/Arif/16293.mkv
-#EXTINF:-1,Life on Mars S01 E11
-http://tvku.live:8888/series/Arifardianayah/Arif/16297.mkv
-#EXTINF:-1,Life on Mars S01 E12
-http://tvku.live:8888/series/Arifardianayah/Arif/16298.mkv
 #EXTINF:-1,Life on Mars S01 E14
 http://tvku.live:8888/series/Arifardianayah/Arif/16300.mkv
-#EXTINF:-1,The Boys S01 E03
-http://tvku.live:8888/series/Arifardianayah/Arif/18726.mp4
-#EXTINF:-1,Marvel's Runaways S01 E07
-http://tvku.live:8888/series/Arifardianayah/Arif/19019.mkv
-#EXTINF:-1,The Good Doctor S01 E17
-http://tvku.live:8888/series/Arifardianayah/Arif/19448.mkv
-#EXTINF:-1,The Good Doctor S02 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/19454.mkv
 #EXTINF:-1,The Good Doctor S02 E06
 http://tvku.live:8888/series/Arifardianayah/Arif/19455.mkv
 #EXTINF:-1,Marvel's Agents of S.H.I.E.L.D. S01 E03
 http://tvku.live:8888/series/Arifardianayah/Arif/18594.mkv
 #EXTINF:-1,Marvel's Agents of S.H.I.E.L.D. S01 E12
 http://tvku.live:8888/series/Arifardianayah/Arif/18603.mkv
-#EXTINF:-1,Marvel's Agents of S.H.I.E.L.D. S01 E13
-http://tvku.live:8888/series/Arifardianayah/Arif/18604.mkv
-#EXTINF:-1,Swamp Thing S01 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/18615.mkv
-#EXTINF:-1,Swamp Thing S01 E10
-http://tvku.live:8888/series/Arifardianayah/Arif/18623.mkv
 #EXTINF:-1,Titans - 2018 S02 E02
 http://tvku.live:8888/series/Arifardianayah/Arif/19124.mkv
 #EXTINF:-1,Titans - 2018 S02 E04
@@ -2438,10 +1254,6 @@ http://tvku.live:8888/series/Arifardianayah/Arif/19134.mkv
 http://tvku.live:8888/series/Arifardianayah/Arif/10826.mp4
 #EXTINF:-1,Kamen Rider Black  S01 E01
 http://tvku.live:8888/series/Arifardianayah/Arif/18936.mp4
-#EXTINF:-1,Kamen Rider Black  S01 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/18943.mp4
-#EXTINF:-1,Kamen Rider Black  S01 E10
-http://tvku.live:8888/series/Arifardianayah/Arif/18945.mp4
 #EXTINF:-1,Kamen Rider Black  S01 E12
 http://tvku.live:8888/series/Arifardianayah/Arif/18947.mp4
 #EXTINF:-1,Kamen Rider Black  S01 E13
@@ -2450,12 +1262,8 @@ http://tvku.live:8888/series/Arifardianayah/Arif/18948.mp4
 http://tvku.live:8888/series/Arifardianayah/Arif/18954.mp4
 #EXTINF:-1,Kamen Rider Black  S01 E31
 http://tvku.live:8888/series/Arifardianayah/Arif/18966.mp4
-#EXTINF:-1,Kamen Rider Black  S01 E36
-http://tvku.live:8888/series/Arifardianayah/Arif/18971.mp4
 #EXTINF:-1,Kamen Rider Black  S01 E37
 http://tvku.live:8888/series/Arifardianayah/Arif/18972.mp4
-#EXTINF:-1,Kamen Rider Black  S01 E38
-http://tvku.live:8888/series/Arifardianayah/Arif/18973.mp4
 #EXTINF:-1,Kamen Rider Black  S01 E47
 http://tvku.live:8888/series/Arifardianayah/Arif/18982.mp4
 #EXTINF:-1,Perfume S01 E04
@@ -2474,38 +1282,18 @@ http://tvku.live:8888/series/Arifardianayah/Arif/18902.mkv
 http://tvku.live:8888/series/Arifardianayah/Arif/18904.mkv
 #EXTINF:-1,Kamen Rider Black RX S01 E40
 http://tvku.live:8888/series/Arifardianayah/Arif/18913.mkv
-#EXTINF:-1,鳥人戦隊ジェットマン (Chojin Sentai Jetman) S01 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/18802.mp4
-#EXTINF:-1,鳥人戦隊ジェットマン (Chojin Sentai Jetman) S01 E16
-http://tvku.live:8888/series/Arifardianayah/Arif/18809.mp4
-#EXTINF:-1,鳥人戦隊ジェットマン (Chojin Sentai Jetman) S01 E17
-http://tvku.live:8888/series/Arifardianayah/Arif/18810.mp4
-#EXTINF:-1,鳥人戦隊ジェットマン (Chojin Sentai Jetman) S01 E18
-http://tvku.live:8888/series/Arifardianayah/Arif/18811.mp4
-#EXTINF:-1,鳥人戦隊ジェットマン (Chojin Sentai Jetman) S01 E22
-http://tvku.live:8888/series/Arifardianayah/Arif/18815.mp4
 #EXTINF:-1,鳥人戦隊ジェットマン (Chojin Sentai Jetman) S01 E30
 http://tvku.live:8888/series/Arifardianayah/Arif/18823.mp4
-#EXTINF:-1,鳥人戦隊ジェットマン (Chojin Sentai Jetman) S01 E37
-http://tvku.live:8888/series/Arifardianayah/Arif/18830.mp4
 #EXTINF:-1,鳥人戦隊ジェットマン (Chojin Sentai Jetman) S01 E42
 http://tvku.live:8888/series/Arifardianayah/Arif/18835.mp4
 #EXTINF:-1,鳥人戦隊ジェットマン (Chojin Sentai Jetman) S01 E45
 http://tvku.live:8888/series/Arifardianayah/Arif/18838.mp4
-#EXTINF:-1,鳥人戦隊ジェットマン (Chojin Sentai Jetman) S01 E50
-http://tvku.live:8888/series/Arifardianayah/Arif/18843.mp4
-#EXTINF:-1,Kaizoku Sentai Gokaiger S01 E01
-http://tvku.live:8888/series/Arifardianayah/Arif/18742.mp4
-#EXTINF:-1,Kaizoku Sentai Gokaiger S01 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/18746.mp4
 #EXTINF:-1,Kaizoku Sentai Gokaiger S01 E09
 http://tvku.live:8888/series/Arifardianayah/Arif/18750.mp4
 #EXTINF:-1,Kaizoku Sentai Gokaiger S01 E15
 http://tvku.live:8888/series/Arifardianayah/Arif/18756.mp4
 #EXTINF:-1,Kaizoku Sentai Gokaiger S01 E21
 http://tvku.live:8888/series/Arifardianayah/Arif/18762.mp4
-#EXTINF:-1,Kaizoku Sentai Gokaiger S01 E35
-http://tvku.live:8888/series/Arifardianayah/Arif/18776.mp4
 #EXTINF:-1,Kaizoku Sentai Gokaiger S01 E46
 http://tvku.live:8888/series/Arifardianayah/Arif/18787.mp4
 #EXTINF:-1,messias S01 E02
@@ -2518,26 +1306,14 @@ http://tvku.live:8888/series/Arifardianayah/Arif/16203.mkv
 http://tvku.live:8888/series/Arifardianayah/Arif/16212.mkv
 #EXTINF:-1,High School - Love On S01 E16
 http://tvku.live:8888/series/Arifardianayah/Arif/16215.mkv
-#EXTINF:-1,High School - Love On S01 E17
-http://tvku.live:8888/series/Arifardianayah/Arif/16216.mkv
 #EXTINF:-1,High School - Love On S01 E20
 http://tvku.live:8888/series/Arifardianayah/Arif/16219.mkv
-#EXTINF:-1,Monstar S01 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/16144.mkv
-#EXTINF:-1,Monstar S01 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/16151.mkv
-#EXTINF:-1,Last Minute Romance S01 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/16120.mp4
 #EXTINF:-1,Last Minute Romance S01 E09
 http://tvku.live:8888/series/Arifardianayah/Arif/16113.mp4
 #EXTINF:-1,Last Minute Romance S01 E16
 http://tvku.live:8888/series/Arifardianayah/Arif/16127.mp4
 #EXTINF:-1,Last Minute Romance S01 E22
 http://tvku.live:8888/series/Arifardianayah/Arif/16130.mp4
-#EXTINF:-1,Beautiful Mind S01 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/16022.mp4
-#EXTINF:-1,Beautiful Mind S01 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/16023.mp4
 #EXTINF:-1,Beautiful Mind S01 E06
 http://tvku.live:8888/series/Arifardianayah/Arif/16024.mp4
 #EXTINF:-1,Beautiful Mind S01 E07
@@ -2936,8 +1712,6 @@ http://tvku.live:8888/series/Arifardianayah/Arif/18044.mkv
 http://tvku.live:8888/series/Arifardianayah/Arif/18045.mkv
 #EXTINF:-1,Kamen Rider Blade S01 E20
 http://tvku.live:8888/series/Arifardianayah/Arif/18046.mkv
-#EXTINF:-1,Kamen Rider Blade S01 E21
-http://tvku.live:8888/series/Arifardianayah/Arif/18047.mkv
 #EXTINF:-1,Kamen Rider Blade S01 E22
 http://tvku.live:8888/series/Arifardianayah/Arif/18048.mkv
 #EXTINF:-1,Kamen Rider Blade S01 E23
@@ -3012,8 +1786,6 @@ http://tvku.live:8888/series/Arifardianayah/Arif/17999.mkv
 http://tvku.live:8888/series/Arifardianayah/Arif/18000.mkv
 #EXTINF:-1,Kamen Rider Agito S01 E27
 http://tvku.live:8888/series/Arifardianayah/Arif/18001.mkv
-#EXTINF:-1,Kamen Rider Agito S01 E28
-http://tvku.live:8888/series/Arifardianayah/Arif/18002.mkv
 #EXTINF:-1,Kamen Rider Agito S01 E29
 http://tvku.live:8888/series/Arifardianayah/Arif/18003.mkv
 #EXTINF:-1,Kamen Rider Agito S01 E30
@@ -3080,10 +1852,6 @@ http://tvku.live:8888/series/Arifardianayah/Arif/17939.mkv
 http://tvku.live:8888/series/Arifardianayah/Arif/17940.mkv
 #EXTINF:-1,Kamen Rider Kabuto S01 E18
 http://tvku.live:8888/series/Arifardianayah/Arif/17943.mkv
-#EXTINF:-1,Kamen Rider Kabuto S01 E19
-http://tvku.live:8888/series/Arifardianayah/Arif/17944.mkv
-#EXTINF:-1,Kamen Rider Kabuto S01 E20
-http://tvku.live:8888/series/Arifardianayah/Arif/17945.mkv
 #EXTINF:-1,Kamen Rider Kabuto S01 E21
 http://tvku.live:8888/series/Arifardianayah/Arif/17946.mkv
 #EXTINF:-1,Kamen Rider Kabuto S01 E23
@@ -3260,12 +2028,8 @@ http://tvku.live:8888/series/Arifardianayah/Arif/17848.mp4
 http://tvku.live:8888/series/Arifardianayah/Arif/17849.mp4
 #EXTINF:-1,Kamen Rider 555 S01 E36
 http://tvku.live:8888/series/Arifardianayah/Arif/17850.mp4
-#EXTINF:-1,Kamen Rider 555 S01 E37
-http://tvku.live:8888/series/Arifardianayah/Arif/17851.mp4
 #EXTINF:-1,Kamen Rider 555 S01 E38
 http://tvku.live:8888/series/Arifardianayah/Arif/17852.mp4
-#EXTINF:-1,Kamen Rider 555 S01 E40
-http://tvku.live:8888/series/Arifardianayah/Arif/17854.mp4
 #EXTINF:-1,Kamen Rider 555 S01 E41
 http://tvku.live:8888/series/Arifardianayah/Arif/17855.mp4
 #EXTINF:-1,Kamen Rider 555 S01 E43
@@ -3294,12 +2058,8 @@ http://tvku.live:8888/series/Arifardianayah/Arif/17770.mkv
 http://tvku.live:8888/series/Arifardianayah/Arif/17772.mkv
 #EXTINF:-1,Kamen Rider Kiva S01 E08
 http://tvku.live:8888/series/Arifardianayah/Arif/17774.mkv
-#EXTINF:-1,Kamen Rider Kiva S01 E11
-http://tvku.live:8888/series/Arifardianayah/Arif/17777.mkv
 #EXTINF:-1,Kamen Rider Kiva S01 E12
 http://tvku.live:8888/series/Arifardianayah/Arif/17778.mkv
-#EXTINF:-1,Kamen Rider Kiva S01 E14
-http://tvku.live:8888/series/Arifardianayah/Arif/17780.mkv
 #EXTINF:-1,Kamen Rider Kiva S01 E15
 http://tvku.live:8888/series/Arifardianayah/Arif/17781.mkv
 #EXTINF:-1,Kamen Rider Kiva S01 E16
@@ -3334,8 +2094,6 @@ http://tvku.live:8888/series/Arifardianayah/Arif/17801.mkv
 http://tvku.live:8888/series/Arifardianayah/Arif/17802.mkv
 #EXTINF:-1,Kamen Rider Kiva S01 E38
 http://tvku.live:8888/series/Arifardianayah/Arif/17804.mkv
-#EXTINF:-1,Kamen Rider Kiva S01 E39
-http://tvku.live:8888/series/Arifardianayah/Arif/17805.mkv
 #EXTINF:-1,Kamen Rider Kiva S01 E40
 http://tvku.live:8888/series/Arifardianayah/Arif/17806.mkv
 #EXTINF:-1,Kamen Rider Kiva S01 E42
@@ -3364,8 +2122,6 @@ http://tvku.live:8888/series/Arifardianayah/Arif/17715.mp4
 http://tvku.live:8888/series/Arifardianayah/Arif/17716.mp4
 #EXTINF:-1,Kamen Rider Decade S01 E15
 http://tvku.live:8888/series/Arifardianayah/Arif/17718.mp4
-#EXTINF:-1,Kamen Rider Decade S01 E16
-http://tvku.live:8888/series/Arifardianayah/Arif/17719.mp4
 #EXTINF:-1,Kamen Rider Decade S01 E18
 http://tvku.live:8888/series/Arifardianayah/Arif/17721.mp4
 #EXTINF:-1,Kamen Rider Decade S01 E19
@@ -3378,14 +2134,10 @@ http://tvku.live:8888/series/Arifardianayah/Arif/17725.mp4
 http://tvku.live:8888/series/Arifardianayah/Arif/17726.mp4
 #EXTINF:-1,Kamen Rider Decade S01 E25
 http://tvku.live:8888/series/Arifardianayah/Arif/17728.mp4
-#EXTINF:-1,Kamen Rider Decade S01 E27
-http://tvku.live:8888/series/Arifardianayah/Arif/17730.mp4
 #EXTINF:-1,Kamen Rider Decade S01 E28
 http://tvku.live:8888/series/Arifardianayah/Arif/17731.mp4
 #EXTINF:-1,Kamen Rider Decade S01 E31
 http://tvku.live:8888/series/Arifardianayah/Arif/17734.mp4
-#EXTINF:-1,Kamen Rider Den - O S01 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/17658.mp4
 #EXTINF:-1,Kamen Rider Den - O S01 E05
 http://tvku.live:8888/series/Arifardianayah/Arif/17659.mp4
 #EXTINF:-1,Kamen Rider Den - O S01 E06
@@ -3406,8 +2158,6 @@ http://tvku.live:8888/series/Arifardianayah/Arif/17672.mp4
 http://tvku.live:8888/series/Arifardianayah/Arif/17675.mp4
 #EXTINF:-1,Kamen Rider Den - O S01 E25
 http://tvku.live:8888/series/Arifardianayah/Arif/17679.mp4
-#EXTINF:-1,Kamen Rider Den - O S01 E28
-http://tvku.live:8888/series/Arifardianayah/Arif/17682.mp4
 #EXTINF:-1,Kamen Rider Den - O S01 E29
 http://tvku.live:8888/series/Arifardianayah/Arif/17683.mp4
 #EXTINF:-1,Kamen Rider Den - O S01 E32
@@ -3420,14 +2170,10 @@ http://tvku.live:8888/series/Arifardianayah/Arif/17688.mp4
 http://tvku.live:8888/series/Arifardianayah/Arif/17689.mp4
 #EXTINF:-1,Kamen Rider Den - O S01 E38
 http://tvku.live:8888/series/Arifardianayah/Arif/17692.mp4
-#EXTINF:-1,Kamen Rider Den - O S01 E39
-http://tvku.live:8888/series/Arifardianayah/Arif/17693.mp4
 #EXTINF:-1,Kamen Rider Den - O S01 E43
 http://tvku.live:8888/series/Arifardianayah/Arif/17697.mp4
 #EXTINF:-1,Kamen Rider Den - O S01 E44
 http://tvku.live:8888/series/Arifardianayah/Arif/17698.mp4
-#EXTINF:-1,Kamen Rider Hibiki S01 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/17592.mkv
 #EXTINF:-1,Kamen Rider Hibiki S01 E03
 http://tvku.live:8888/series/Arifardianayah/Arif/17593.mkv
 #EXTINF:-1,Kamen Rider Hibiki S01 E05
@@ -3452,14 +2198,10 @@ http://tvku.live:8888/series/Arifardianayah/Arif/17616.mkv
 http://tvku.live:8888/series/Arifardianayah/Arif/17619.mkv
 #EXTINF:-1,Kamen Rider Hibiki S01 E30
 http://tvku.live:8888/series/Arifardianayah/Arif/17620.mkv
-#EXTINF:-1,Kamen Rider Hibiki S01 E33
-http://tvku.live:8888/series/Arifardianayah/Arif/17623.mkv
 #EXTINF:-1,Kamen Rider Hibiki S01 E35
 http://tvku.live:8888/series/Arifardianayah/Arif/17625.mkv
 #EXTINF:-1,Kamen Rider Hibiki S01 E37
 http://tvku.live:8888/series/Arifardianayah/Arif/17627.mkv
-#EXTINF:-1,Kamen Rider Hibiki S01 E40
-http://tvku.live:8888/series/Arifardianayah/Arif/17630.mp4
 #EXTINF:-1,Kamen Rider Hibiki S01 E42
 http://tvku.live:8888/series/Arifardianayah/Arif/17632.mp4
 #EXTINF:-1,Kamen Rider Hibiki S01 E44
@@ -3476,16 +2218,6 @@ http://tvku.live:8888/series/Arifardianayah/Arif/16056.mp4
 http://tvku.live:8888/series/Arifardianayah/Arif/16060.mp4
 #EXTINF:-1,The Gravity of a Rainbow S01 E13
 http://tvku.live:8888/series/Arifardianayah/Arif/16065.mp4
-#EXTINF:-1,The Gravity of a Rainbow S01 E15
-http://tvku.live:8888/series/Arifardianayah/Arif/16067.mp4
-#EXTINF:-1,The Gravity of a Rainbow S01 E19
-http://tvku.live:8888/series/Arifardianayah/Arif/16071.mp4
-#EXTINF:-1,The Gravity of a Rainbow S01 E21
-http://tvku.live:8888/series/Arifardianayah/Arif/16073.mp4
-#EXTINF:-1,The Gravity of a Rainbow S01 E30
-http://tvku.live:8888/series/Arifardianayah/Arif/16082.mp4
-#EXTINF:-1,The Gravity of a Rainbow S01 E31
-http://tvku.live:8888/series/Arifardianayah/Arif/16083.mp4
 #EXTINF:-1,The Gravity of a Rainbow S01 E34
 http://tvku.live:8888/series/Arifardianayah/Arif/16086.mp4
 #EXTINF:-1,The Gravity of a Rainbow S01 E37
@@ -3500,22 +2232,12 @@ http://tvku.live:8888/series/Arifardianayah/Arif/15986.mp4
 http://tvku.live:8888/series/Arifardianayah/Arif/15992.mp4
 #EXTINF:-1,Sandwich Girl's Counterattack S01 E12
 http://tvku.live:8888/series/Arifardianayah/Arif/15996.mp4
-#EXTINF:-1,Sandwich Girl's Counterattack S01 E16
-http://tvku.live:8888/series/Arifardianayah/Arif/16000.mp4
-#EXTINF:-1,River Flows To You S01 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/15888.mp4
-#EXTINF:-1,River Flows To You S01 E07
-http://tvku.live:8888/series/Arifardianayah/Arif/15893.mp4
 #EXTINF:-1,River Flows To You S01 E09
 http://tvku.live:8888/series/Arifardianayah/Arif/15895.mp4
-#EXTINF:-1,River Flows To You S01 E11
-http://tvku.live:8888/series/Arifardianayah/Arif/15897.mp4
 #EXTINF:-1,River Flows To You S01 E15
 http://tvku.live:8888/series/Arifardianayah/Arif/15901.mp4
 #EXTINF:-1,River Flows To You S01 E21
 http://tvku.live:8888/series/Arifardianayah/Arif/15907.mp4
-#EXTINF:-1,River Flows To You S01 E24
-http://tvku.live:8888/series/Arifardianayah/Arif/15910.mp4
 #EXTINF:-1,River Flows To You S01 E25
 http://tvku.live:8888/series/Arifardianayah/Arif/15911.mp4
 #EXTINF:-1,River Flows To You S01 E26
@@ -3524,94 +2246,52 @@ http://tvku.live:8888/series/Arifardianayah/Arif/15912.mp4
 http://tvku.live:8888/series/Arifardianayah/Arif/15914.mp4
 #EXTINF:-1,River Flows To You S01 E34
 http://tvku.live:8888/series/Arifardianayah/Arif/15920.mp4
-#EXTINF:-1,River Flows To You S01 E35
-http://tvku.live:8888/series/Arifardianayah/Arif/15921.mp4
 #EXTINF:-1,River Flows To You S01 E36
 http://tvku.live:8888/series/Arifardianayah/Arif/15922.mp4
 #EXTINF:-1,River Flows To You S01 E41
 http://tvku.live:8888/series/Arifardianayah/Arif/15927.mp4
 #EXTINF:-1,Psychopath Diary S01 E08
 http://tvku.live:8888/series/Arifardianayah/Arif/15413.mkv
-#EXTINF:-1,Psychopath Diary S01 E10
-http://tvku.live:8888/series/Arifardianayah/Arif/15415.mkv
 #EXTINF:-1,Psychopath Diary S01 E11
 http://tvku.live:8888/series/Arifardianayah/Arif/15416.mkv
 #EXTINF:-1,Psychopath Diary S01 E16
 http://tvku.live:8888/series/Arifardianayah/Arif/15421.mkv
 #EXTINF:-1,The Legend of White Snake S01 E03
 http://tvku.live:8888/series/Arifardianayah/Arif/15716.mp4
-#EXTINF:-1,The Legend of White Snake S01 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/15721.mp4
 #EXTINF:-1,The Legend of White Snake S01 E13
 http://tvku.live:8888/series/Arifardianayah/Arif/15726.mp4
 #EXTINF:-1,The Legend of White Snake S01 E15
 http://tvku.live:8888/series/Arifardianayah/Arif/15728.mp4
-#EXTINF:-1,The Legend of White Snake S01 E20
-http://tvku.live:8888/series/Arifardianayah/Arif/15733.mp4
 #EXTINF:-1,The Legend of White Snake S01 E26
 http://tvku.live:8888/series/Arifardianayah/Arif/15739.mp4
-#EXTINF:-1,The Legend of White Snake S01 E31
-http://tvku.live:8888/series/Arifardianayah/Arif/15744.mp4
-#EXTINF:-1,The Legend of White Snake S01 E33
-http://tvku.live:8888/series/Arifardianayah/Arif/15746.mp4
 #EXTINF:-1,The Legend of White Snake S01 E34
 http://tvku.live:8888/series/Arifardianayah/Arif/15747.mp4
 #EXTINF:-1,The Legend of White Snake S01 E36
 http://tvku.live:8888/series/Arifardianayah/Arif/15749.mp4
 #EXTINF:-1,Meteor Garden S01 E01
 http://tvku.live:8888/series/Arifardianayah/Arif/15818.mp4
-#EXTINF:-1,Meteor Garden S01 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/15821.mp4
 #EXTINF:-1,Meteor Garden S01 E05
 http://tvku.live:8888/series/Arifardianayah/Arif/15822.mp4
 #EXTINF:-1,Meteor Garden S01 E09
 http://tvku.live:8888/series/Arifardianayah/Arif/15826.mp4
-#EXTINF:-1,Meteor Garden S01 E17
-http://tvku.live:8888/series/Arifardianayah/Arif/15834.mp4
 #EXTINF:-1,Kamen Rider W S01 E03
 http://tvku.live:8888/series/Arifardianayah/Arif/17544.mp4
-#EXTINF:-1,Kamen Rider W S01 E06
-http://tvku.live:8888/series/Arifardianayah/Arif/17547.mp4
 #EXTINF:-1,Kamen Rider W S01 E07
 http://tvku.live:8888/series/Arifardianayah/Arif/17548.mp4
-#EXTINF:-1,Kamen Rider W S01 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/17550.mp4
-#EXTINF:-1,Kamen Rider W S01 E14
-http://tvku.live:8888/series/Arifardianayah/Arif/17555.mp4
-#EXTINF:-1,Kamen Rider W S01 E20
-http://tvku.live:8888/series/Arifardianayah/Arif/17561.mp4
-#EXTINF:-1,Kamen Rider W S01 E22
-http://tvku.live:8888/series/Arifardianayah/Arif/17563.mp4
 #EXTINF:-1,Kamen Rider W S01 E23
 http://tvku.live:8888/series/Arifardianayah/Arif/17564.mp4
 #EXTINF:-1,Kamen Rider W S01 E28
 http://tvku.live:8888/series/Arifardianayah/Arif/17569.mp4
-#EXTINF:-1,Kamen Rider W S01 E35
-http://tvku.live:8888/series/Arifardianayah/Arif/17576.mp4
-#EXTINF:-1,Kamen Rider W S01 E36
-http://tvku.live:8888/series/Arifardianayah/Arif/17577.mp4
 #EXTINF:-1,Kamen Rider W S01 E42
 http://tvku.live:8888/series/Arifardianayah/Arif/17583.mp4
 #EXTINF:-1,Kamen Rider W S01 E45
 http://tvku.live:8888/series/Arifardianayah/Arif/17586.mp4
-#EXTINF:-1,Kamen Rider W S01 E46
-http://tvku.live:8888/series/Arifardianayah/Arif/17587.mp4
-#EXTINF:-1,Kamen Rider W S01 E48
-http://tvku.live:8888/series/Arifardianayah/Arif/17589.mp4
 #EXTINF:-1,Kamen Rider Wizard S01 E01
 http://tvku.live:8888/series/Arifardianayah/Arif/17457.mp4
 #EXTINF:-1,Kamen Rider Wizard S01 E03
 http://tvku.live:8888/series/Arifardianayah/Arif/17459.mp4
-#EXTINF:-1,Kamen Rider Wizard S01 E11
-http://tvku.live:8888/series/Arifardianayah/Arif/17467.mp4
-#EXTINF:-1,Kamen Rider Wizard S01 E13
-http://tvku.live:8888/series/Arifardianayah/Arif/17469.mp4
-#EXTINF:-1,Kamen Rider Wizard S01 E16
-http://tvku.live:8888/series/Arifardianayah/Arif/17472.mp4
 #EXTINF:-1,Kamen Rider Wizard S01 E17
 http://tvku.live:8888/series/Arifardianayah/Arif/17473.mp4
-#EXTINF:-1,Kamen Rider Wizard S01 E21
-http://tvku.live:8888/series/Arifardianayah/Arif/17477.mp4
 #EXTINF:-1,Kamen Rider Wizard S01 E25
 http://tvku.live:8888/series/Arifardianayah/Arif/17481.mp4
 #EXTINF:-1,Kamen Rider Wizard S01 E26
@@ -3624,24 +2304,12 @@ http://tvku.live:8888/series/Arifardianayah/Arif/17491.mp4
 http://tvku.live:8888/series/Arifardianayah/Arif/17492.mp4
 #EXTINF:-1,Kamen Rider Wizard S01 E39
 http://tvku.live:8888/series/Arifardianayah/Arif/17495.mp4
-#EXTINF:-1,Kamen Rider Wizard S01 E41
-http://tvku.live:8888/series/Arifardianayah/Arif/17497.mp4
 #EXTINF:-1,Kamen Rider Wizard S01 E46
 http://tvku.live:8888/series/Arifardianayah/Arif/17502.mp4
 #EXTINF:-1,Kamen Rider Wizard S01 E53
 http://tvku.live:8888/series/Arifardianayah/Arif/17509.mp4
-#EXTINF:-1,Kamen RIder OOO S01 E01
-http://tvku.live:8888/series/Arifardianayah/Arif/17377.mkv
-#EXTINF:-1,Kamen RIder OOO S01 E03
-http://tvku.live:8888/series/Arifardianayah/Arif/17379.mkv
-#EXTINF:-1,Kamen RIder OOO S01 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/17380.mkv
 #EXTINF:-1,Kamen RIder OOO S01 E05
 http://tvku.live:8888/series/Arifardianayah/Arif/17381.mkv
-#EXTINF:-1,Kamen RIder OOO S01 E15
-http://tvku.live:8888/series/Arifardianayah/Arif/17391.mkv
-#EXTINF:-1,Kamen RIder OOO S01 E17
-http://tvku.live:8888/series/Arifardianayah/Arif/17393.mkv
 #EXTINF:-1,Kamen RIder OOO S01 E22
 http://tvku.live:8888/series/Arifardianayah/Arif/17398.mkv
 #EXTINF:-1,Kamen RIder OOO S01 E23
@@ -3650,22 +2318,12 @@ http://tvku.live:8888/series/Arifardianayah/Arif/17399.mkv
 http://tvku.live:8888/series/Arifardianayah/Arif/17400.mkv
 #EXTINF:-1,Kamen RIder OOO S01 E26
 http://tvku.live:8888/series/Arifardianayah/Arif/17402.mkv
-#EXTINF:-1,Kamen RIder OOO S01 E33
-http://tvku.live:8888/series/Arifardianayah/Arif/17409.mkv
 #EXTINF:-1,Kamen RIder OOO S01 E34
 http://tvku.live:8888/series/Arifardianayah/Arif/17410.mkv
-#EXTINF:-1,Kamen RIder OOO S01 E36
-http://tvku.live:8888/series/Arifardianayah/Arif/17412.mkv
 #EXTINF:-1,Kamen RIder OOO S01 E37
 http://tvku.live:8888/series/Arifardianayah/Arif/17413.mkv
 #EXTINF:-1,Kamen RIder OOO S01 E40
 http://tvku.live:8888/series/Arifardianayah/Arif/17416.mkv
-#EXTINF:-1,Kamen RIder OOO S01 E41
-http://tvku.live:8888/series/Arifardianayah/Arif/17417.mkv
-#EXTINF:-1,Kamen RIder OOO S01 E42
-http://tvku.live:8888/series/Arifardianayah/Arif/17418.mkv
-#EXTINF:-1,Kamen Rider Drive S01 E03
-http://tvku.live:8888/series/Arifardianayah/Arif/17300.mp4
 #EXTINF:-1,Kamen Rider Drive S01 E08
 http://tvku.live:8888/series/Arifardianayah/Arif/17305.mp4
 #EXTINF:-1,Kamen Rider Drive S01 E09
@@ -3678,8 +2336,6 @@ http://tvku.live:8888/series/Arifardianayah/Arif/17310.mp4
 http://tvku.live:8888/series/Arifardianayah/Arif/17315.mp4
 #EXTINF:-1,Kamen Rider Drive S01 E19
 http://tvku.live:8888/series/Arifardianayah/Arif/17316.mp4
-#EXTINF:-1,Kamen Rider Drive S01 E27
-http://tvku.live:8888/series/Arifardianayah/Arif/17324.mp4
 #EXTINF:-1,Kamen Rider Drive S01 E29
 http://tvku.live:8888/series/Arifardianayah/Arif/17326.mp4
 #EXTINF:-1,Kamen Rider Drive S01 E36
@@ -3698,10 +2354,6 @@ http://tvku.live:8888/series/Arifardianayah/Arif/17232.mkv
 http://tvku.live:8888/series/Arifardianayah/Arif/17233.mkv
 #EXTINF:-1,Kamen Rider Fourze S01 E17
 http://tvku.live:8888/series/Arifardianayah/Arif/17234.mkv
-#EXTINF:-1,Kamen Rider Fourze S01 E23
-http://tvku.live:8888/series/Arifardianayah/Arif/17240.mkv
-#EXTINF:-1,Kamen Rider Fourze S01 E31
-http://tvku.live:8888/series/Arifardianayah/Arif/17248.mkv
 #EXTINF:-1,Kamen Rider Fourze S01 E39
 http://tvku.live:8888/series/Arifardianayah/Arif/17256.mkv
 #EXTINF:-1,Kamen Rider Fourze S01 E47
@@ -3710,44 +2362,14 @@ http://tvku.live:8888/series/Arifardianayah/Arif/17264.mkv
 http://tvku.live:8888/series/Arifardianayah/Arif/17169.mkv
 #EXTINF:-1,Kamen Rider Ghost S01 E09
 http://tvku.live:8888/series/Arifardianayah/Arif/17176.mkv
-#EXTINF:-1,Kamen Rider Ghost S01 E15
-http://tvku.live:8888/series/Arifardianayah/Arif/17182.mkv
-#EXTINF:-1,Kamen Rider Ghost S01 E18
-http://tvku.live:8888/series/Arifardianayah/Arif/17185.mkv
 #EXTINF:-1,Kamen Rider Ghost S01 E27
 http://tvku.live:8888/series/Arifardianayah/Arif/17194.mkv
-#EXTINF:-1,Kamen Rider Ghost S01 E33
-http://tvku.live:8888/series/Arifardianayah/Arif/17200.mkv
-#EXTINF:-1,Kamen Rider Ghost S01 E40
-http://tvku.live:8888/series/Arifardianayah/Arif/17207.mkv
-#EXTINF:-1,Kamen Rider Ghost S01 E44
-http://tvku.live:8888/series/Arifardianayah/Arif/17211.mkv
-#EXTINF:-1,Kamen Rider Ghost S01 E50
-http://tvku.live:8888/series/Arifardianayah/Arif/17217.mkv
-#EXTINF:-1,Kamen Rider Ex-Aid S01 E07
-http://tvku.live:8888/series/Arifardianayah/Arif/17093.mp4
-#EXTINF:-1,Kamen Rider Ex-Aid S01 E17
-http://tvku.live:8888/series/Arifardianayah/Arif/17106.mp4
-#EXTINF:-1,Kamen Rider Ex-Aid S01 E22
-http://tvku.live:8888/series/Arifardianayah/Arif/17116.mp4
-#EXTINF:-1,Kamen Rider Ex-Aid S01 E26
-http://tvku.live:8888/series/Arifardianayah/Arif/17124.mp4
-#EXTINF:-1,Kamen Rider Ex-Aid S01 E41
-http://tvku.live:8888/series/Arifardianayah/Arif/17147.mp4
 #EXTINF:-1,Meteor Garden S01 E01
 http://tvku.live:8888/series/Arifardianayah/Arif/15670.mp4
 #EXTINF:-1,Meteor Garden S01 E02
 http://tvku.live:8888/series/Arifardianayah/Arif/15671.mp4
-#EXTINF:-1,Meteor Garden S01 E15
-http://tvku.live:8888/series/Arifardianayah/Arif/15684.mp4
-#EXTINF:-1,Meteor Garden S01 E17
-http://tvku.live:8888/series/Arifardianayah/Arif/15686.mp4
-#EXTINF:-1,Meteor Garden S01 E27
-http://tvku.live:8888/series/Arifardianayah/Arif/15696.mp4
 #EXTINF:-1,Kamen RIder Build S01 E06
 http://tvku.live:8888/series/Arifardianayah/Arif/17033.mkv
-#EXTINF:-1,Kamen RIder Build S01 E07
-http://tvku.live:8888/series/Arifardianayah/Arif/17034.mkv
 #EXTINF:-1,Kamen RIder Build S01 E13
 http://tvku.live:8888/series/Arifardianayah/Arif/17040.mkv
 #EXTINF:-1,Kamen RIder Build S01 E18
@@ -3756,180 +2378,76 @@ http://tvku.live:8888/series/Arifardianayah/Arif/17045.mkv
 http://tvku.live:8888/series/Arifardianayah/Arif/17063.mkv
 #EXTINF:-1,Kamen RIder Build S01 E47
 http://tvku.live:8888/series/Arifardianayah/Arif/17074.mkv
-#EXTINF:-1,Kaitou Sentai Lupinranger VS Keisatsu Sentai Patranger S01 E01
-http://tvku.live:8888/series/Arifardianayah/Arif/16958.mp4
-#EXTINF:-1,Kaitou Sentai Lupinranger VS Keisatsu Sentai Patranger S01 E13
-http://tvku.live:8888/series/Arifardianayah/Arif/16970.mp4
-#EXTINF:-1,Kaitou Sentai Lupinranger VS Keisatsu Sentai Patranger S01 E16
-http://tvku.live:8888/series/Arifardianayah/Arif/16973.mp4
 #EXTINF:-1,Kaitou Sentai Lupinranger VS Keisatsu Sentai Patranger S01 E33
 http://tvku.live:8888/series/Arifardianayah/Arif/16990.mp4
-#EXTINF:-1,Kaitou Sentai Lupinranger VS Keisatsu Sentai Patranger S01 E43
-http://tvku.live:8888/series/Arifardianayah/Arif/17000.mp4
-#EXTINF:-1,Kaitou Sentai Lupinranger VS Keisatsu Sentai Patranger S01 E45
-http://tvku.live:8888/series/Arifardianayah/Arif/17002.mp4
-#EXTINF:-1,Flower Boy Next Door S01 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/15389.mkv
-#EXTINF:-1,Flower Boy Next Door S01 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/15393.mkv
 #EXTINF:-1,Flower Boy Next Door S01 E09
 http://tvku.live:8888/series/Arifardianayah/Arif/15394.mkv
-#EXTINF:-1,Flower Boy Next Door S01 E11
-http://tvku.live:8888/series/Arifardianayah/Arif/15396.mkv
-#EXTINF:-1,The Accidental Couple S01 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/15374.mkv
 #EXTINF:-1,The Accidental Couple S01 E10
 http://tvku.live:8888/series/Arifardianayah/Arif/15376.mkv
-#EXTINF:-1,You're Beautiful S01 E11
-http://tvku.live:8888/series/Arifardianayah/Arif/14060.mkv
-#EXTINF:-1,Remember S01 E01
-http://tvku.live:8888/series/Arifardianayah/Arif/15321.mkv
-#EXTINF:-1,Remember S01 E03
-http://tvku.live:8888/series/Arifardianayah/Arif/15323.mkv
-#EXTINF:-1,Remember S01 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/15325.mkv
-#EXTINF:-1, Heal Me S01 E15
-http://tvku.live:8888/series/Arifardianayah/Arif/15315.mkv
 #EXTINF:-1, Heal Me S01 E16
 http://tvku.live:8888/series/Arifardianayah/Arif/15316.mkv
-#EXTINF:-1,Garo Makai no Hana S01 E06
-http://tvku.live:8888/series/Arifardianayah/Arif/15239.mp4
-#EXTINF:-1,Garo Makai no Hana S01 E07
-http://tvku.live:8888/series/Arifardianayah/Arif/15240.mp4
-#EXTINF:-1,Garo Makai no Hana S01 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/15241.mp4
 #EXTINF:-1,Garo Makai no Hana S01 E17
 http://tvku.live:8888/series/Arifardianayah/Arif/15250.mp4
-#EXTINF:-1,Garo Makai no Hana S01 E18
-http://tvku.live:8888/series/Arifardianayah/Arif/15251.mp4
-#EXTINF:-1,Garo Makai no Hana S01 E19
-http://tvku.live:8888/series/Arifardianayah/Arif/15252.mp4
-#EXTINF:-1,Beck: Mongolian Chop Squad S01 E12
-http://tvku.live:8888/series/Arifardianayah/Arif/16937.mkv
-#EXTINF:-1,Beck: Mongolian Chop Squad S01 E15
-http://tvku.live:8888/series/Arifardianayah/Arif/16940.mkv
 #EXTINF:-1,Ultraman Taiga S01 E19
 http://tvku.live:8888/series/Arifardianayah/Arif/16921.mkv
 #EXTINF:-1,Ultraman Tiga S01 E10
 http://tvku.live:8888/series/Arifardianayah/Arif/16860.mp4
-#EXTINF:-1,Ultraman Tiga S01 E11
-http://tvku.live:8888/series/Arifardianayah/Arif/16861.mp4
 #EXTINF:-1,Ultraman Tiga S01 E12
 http://tvku.live:8888/series/Arifardianayah/Arif/16862.mp4
-#EXTINF:-1,Ultraman Tiga S01 E29
-http://tvku.live:8888/series/Arifardianayah/Arif/16879.mp4
 #EXTINF:-1,Ultraman Tiga S01 E42
 http://tvku.live:8888/series/Arifardianayah/Arif/16892.mp4
 #EXTINF:-1,Yu-Gi-Oh! Zexal S01 E07
 http://tvku.live:8888/series/Arifardianayah/Arif/16782.mkv
-#EXTINF:-1,Yu-Gi-Oh! Zexal S01 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/16783.mkv
 #EXTINF:-1,Yu-Gi-Oh! Zexal S01 E11
 http://tvku.live:8888/series/Arifardianayah/Arif/16786.mkv
-#EXTINF:-1,Yu-Gi-Oh! Zexal S01 E15
-http://tvku.live:8888/series/Arifardianayah/Arif/16790.mkv
 #EXTINF:-1,Yu-Gi-Oh! Zexal S01 E16
 http://tvku.live:8888/series/Arifardianayah/Arif/16791.mkv
 #EXTINF:-1,Yu-Gi-Oh! Zexal S01 E21
 http://tvku.live:8888/series/Arifardianayah/Arif/16796.mkv
-#EXTINF:-1,Yu-Gi-Oh! Zexal S01 E23
-http://tvku.live:8888/series/Arifardianayah/Arif/16798.mkv
-#EXTINF:-1,Yu-Gi-Oh! Zexal S02 E06
-http://tvku.live:8888/series/Arifardianayah/Arif/16807.mkv
-#EXTINF:-1,Yu-Gi-Oh! Zexal S02 E07
-http://tvku.live:8888/series/Arifardianayah/Arif/16808.mkv
-#EXTINF:-1,Yu-Gi-Oh! Zexal S02 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/16810.mkv
 #EXTINF:-1,Yu-Gi-Oh! Zexal S02 E15
 http://tvku.live:8888/series/Arifardianayah/Arif/16816.mkv
 #EXTINF:-1,Yu-Gi-Oh! Zexal S02 E19
 http://tvku.live:8888/series/Arifardianayah/Arif/16821.mkv
-#EXTINF:-1,Yu-Gi-Oh! Zexal S03 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/16828.mkv
 #EXTINF:-1,Yu-Gi-Oh! Zexal S03 E04
 http://tvku.live:8888/series/Arifardianayah/Arif/16830.mkv
 #EXTINF:-1,Yu-Gi-Oh! Zexal S03 E07
 http://tvku.live:8888/series/Arifardianayah/Arif/16833.mkv
 #EXTINF:-1,Yu-Gi-Oh! Zexal S03 E17
 http://tvku.live:8888/series/Arifardianayah/Arif/16843.mkv
-#EXTINF:-1,Yu-Gi-Oh! Zexal S03 E19
-http://tvku.live:8888/series/Arifardianayah/Arif/16845.mkv
-#EXTINF:-1,Yu-Gi-Oh! GX S01 E01
-http://tvku.live:8888/series/Arifardianayah/Arif/16712.mkv
 #EXTINF:-1,Yu-Gi-Oh! GX S01 E09
 http://tvku.live:8888/series/Arifardianayah/Arif/16720.mkv
-#EXTINF:-1,Yu-Gi-Oh! GX S01 E13
-http://tvku.live:8888/series/Arifardianayah/Arif/16724.mkv
 #EXTINF:-1,Yu-Gi-Oh! GX S01 E14
 http://tvku.live:8888/series/Arifardianayah/Arif/16725.mkv
-#EXTINF:-1,Yu-Gi-Oh! GX S01 E21
-http://tvku.live:8888/series/Arifardianayah/Arif/16732.mkv
 #EXTINF:-1,Yu-Gi-Oh! GX S01 E29
 http://tvku.live:8888/series/Arifardianayah/Arif/16740.mkv
-#EXTINF:-1,Yu-Gi-Oh! GX S01 E44
-http://tvku.live:8888/series/Arifardianayah/Arif/16755.mkv
 #EXTINF:-1,Kamen Rider Amazons S01 E03
 http://tvku.live:8888/series/Arifardianayah/Arif/15213.mp4
-#EXTINF:-1,Kamen Rider Amazons S01 E13
-http://tvku.live:8888/series/Arifardianayah/Arif/15223.mp4
 #EXTINF:-1,Beyblade S01 E36
 http://tvku.live:8888/series/Arifardianayah/Arif/16697.mkv
-#EXTINF:-1,Beyblade S01 E37
-http://tvku.live:8888/series/Arifardianayah/Arif/16698.mkv
 #EXTINF:-1,Beyblade S01 E48
 http://tvku.live:8888/series/Arifardianayah/Arif/16709.mkv
-#EXTINF:-1,Case Closed S01 E01
-http://tvku.live:8888/series/Arifardianayah/Arif/16635.mkv
-#EXTINF:-1,Case Closed S01 E07
-http://tvku.live:8888/series/Arifardianayah/Arif/16641.mkv
-#EXTINF:-1,Crush Gear Turbo S01 E17
-http://tvku.live:8888/series/Arifardianayah/Arif/16550.mkv
-#EXTINF:-1,Crush Gear Turbo S01 E30
-http://tvku.live:8888/series/Arifardianayah/Arif/16563.mkv
-#EXTINF:-1,Crush Gear Turbo S01 E45
-http://tvku.live:8888/series/Arifardianayah/Arif/16578.mkv
 #EXTINF:-1,Crush Gear Turbo S01 E50
 http://tvku.live:8888/series/Arifardianayah/Arif/16583.mkv
 #EXTINF:-1,Crush Gear Turbo S01 E51
 http://tvku.live:8888/series/Arifardianayah/Arif/16584.mkv
-#EXTINF:-1,Crush Gear Turbo S01 E62
-http://tvku.live:8888/series/Arifardianayah/Arif/16595.mkv
-#EXTINF:-1,Crush Gear Turbo S01 E68
-http://tvku.live:8888/series/Arifardianayah/Arif/16601.mkv
 #EXTINF:-1,Light Squadron Maskman S01 E06
 http://tvku.live:8888/series/Arifardianayah/Arif/16478.mp4
-#EXTINF:-1,Light Squadron Maskman S01 E12
-http://tvku.live:8888/series/Arifardianayah/Arif/16484.mp4
-#EXTINF:-1,Light Squadron Maskman S01 E13
-http://tvku.live:8888/series/Arifardianayah/Arif/16485.mp4
-#EXTINF:-1,Light Squadron Maskman S01 E14
-http://tvku.live:8888/series/Arifardianayah/Arif/16486.mp4
 #EXTINF:-1,Light Squadron Maskman S01 E31
 http://tvku.live:8888/series/Arifardianayah/Arif/16503.mp4
-#EXTINF:-1,Light Squadron Maskman S01 E46
-http://tvku.live:8888/series/Arifardianayah/Arif/16467.mp4
-#EXTINF:-1,Light Squadron Maskman S01 E47
-http://tvku.live:8888/series/Arifardianayah/Arif/16468.mp4
 #EXTINF:-1,Ninja Olympiad S01 E24
 http://tvku.live:8888/series/Arifardianayah/Arif/16404.mkv
 #EXTINF:-1,Ninja Olympiad S01 E27
 http://tvku.live:8888/series/Arifardianayah/Arif/16407.mkv
-#EXTINF:-1,Ninja Olympiad S01 E28
-http://tvku.live:8888/series/Arifardianayah/Arif/16408.mkv
 #EXTINF:-1,Ninja Olympiad S01 E30
 http://tvku.live:8888/series/Arifardianayah/Arif/16410.mkv
 #EXTINF:-1,Ninja Olympiad S01 E34
 http://tvku.live:8888/series/Arifardianayah/Arif/16414.mkv
 #EXTINF:-1,Ninja Olympiad S01 E35
 http://tvku.live:8888/series/Arifardianayah/Arif/16415.mkv
-#EXTINF:-1,Woman of 9.9 Billion S01 E01
-http://tvku.live:8888/series/Arifardianayah/Arif/15014.mkv
 #EXTINF:-1,Woman of 9.9 Billion S01 E02
 http://tvku.live:8888/series/Arifardianayah/Arif/15015.mkv
 #EXTINF:-1,Woman of 9.9 Billion S01 E13
 http://tvku.live:8888/series/Arifardianayah/Arif/15026.mkv
-#EXTINF:-1,Rise of Empires: Ottoman S01 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/15049.mp4
 #EXTINF:-1,Money Game S01 E01
 http://tvku.live:8888/series/Arifardianayah/Arif/15032.mp4
 #EXTINF:-1,Yu-Gi-Oh! Duel Monsters S01 E08
@@ -3944,358 +2462,128 @@ http://tvku.live:8888/series/Arifardianayah/Arif/18331.mkv
 http://tvku.live:8888/series/Arifardianayah/Arif/18334.mkv
 #EXTINF:-1,Yu-Gi-Oh! Duel Monsters S01 E24
 http://tvku.live:8888/series/Arifardianayah/Arif/18335.mkv
-#EXTINF:-1,Yu-Gi-Oh! Duel Monsters S01 E35
-http://tvku.live:8888/series/Arifardianayah/Arif/18346.mkv
-#EXTINF:-1,Yu-Gi-Oh! Duel Monsters S01 E38
-http://tvku.live:8888/series/Arifardianayah/Arif/18349.mkv
-#EXTINF:-1,Yu-Gi-Oh! Duel Monsters S02 E20
-http://tvku.live:8888/series/Arifardianayah/Arif/18428.mkv
 #EXTINF:-1,Yu-Gi-Oh! Duel Monsters S02 E21
 http://tvku.live:8888/series/Arifardianayah/Arif/18429.mkv
 #EXTINF:-1,Yu-Gi-Oh! Duel Monsters S02 E48
 http://tvku.live:8888/series/Arifardianayah/Arif/18456.mkv
 #EXTINF:-1,Yu-Gi-Oh! Duel Monsters S03 E01
 http://tvku.live:8888/series/Arifardianayah/Arif/18465.mkv
-#EXTINF:-1,Yu-Gi-Oh! Duel Monsters S03 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/18468.mkv
-#EXTINF:-1,Yu-Gi-Oh! Duel Monsters S03 E21
-http://tvku.live:8888/series/Arifardianayah/Arif/18485.mkv
-#EXTINF:-1,Yu-Gi-Oh! Duel Monsters S03 E22
-http://tvku.live:8888/series/Arifardianayah/Arif/18486.mkv
-#EXTINF:-1,Yu-Gi-Oh! Duel Monsters S03 E23
-http://tvku.live:8888/series/Arifardianayah/Arif/18487.mkv
-#EXTINF:-1,Yu-Gi-Oh! Duel Monsters S03 E25
-http://tvku.live:8888/series/Arifardianayah/Arif/18489.mkv
 #EXTINF:-1,Yu-Gi-Oh! Duel Monsters S03 E26
 http://tvku.live:8888/series/Arifardianayah/Arif/18490.mkv
-#EXTINF:-1,Yu-Gi-Oh! Duel Monsters S03 E34
-http://tvku.live:8888/series/Arifardianayah/Arif/18498.mkv
 #EXTINF:-1,Yu-Gi-Oh! Duel Monsters S03 E36
 http://tvku.live:8888/series/Arifardianayah/Arif/18500.mkv
 #EXTINF:-1,Yu-Gi-Oh! Duel Monsters S03 E37
 http://tvku.live:8888/series/Arifardianayah/Arif/18501.mkv
-#EXTINF:-1,Yu-Gi-Oh! Duel Monsters S03 E38
-http://tvku.live:8888/series/Arifardianayah/Arif/18502.mkv
-#EXTINF:-1,Yu-Gi-Oh! Duel Monsters S03 E39
-http://tvku.live:8888/series/Arifardianayah/Arif/18503.mkv
-#EXTINF:-1,Yu-Gi-Oh! Duel Monsters S03 E40
-http://tvku.live:8888/series/Arifardianayah/Arif/18504.mkv
 #EXTINF:-1,Yu-Gi-Oh! Duel Monsters S04 E05
 http://tvku.live:8888/series/Arifardianayah/Arif/18516.mkv
 #EXTINF:-1,Yu-Gi-Oh! Duel Monsters S04 E13
 http://tvku.live:8888/series/Arifardianayah/Arif/18524.mkv
-#EXTINF:-1,Yu-Gi-Oh! Duel Monsters S04 E14
-http://tvku.live:8888/series/Arifardianayah/Arif/18525.mkv
 #EXTINF:-1,Yu-Gi-Oh! Duel Monsters S04 E15
 http://tvku.live:8888/series/Arifardianayah/Arif/18526.mkv
 #EXTINF:-1,Yu-Gi-Oh! Duel Monsters S04 E17
 http://tvku.live:8888/series/Arifardianayah/Arif/18528.mkv
 #EXTINF:-1,Yu-Gi-Oh! Duel Monsters S04 E18
 http://tvku.live:8888/series/Arifardianayah/Arif/18529.mkv
-#EXTINF:-1,Yu-Gi-Oh! Duel Monsters S04 E19
-http://tvku.live:8888/series/Arifardianayah/Arif/18530.mkv
-#EXTINF:-1,Yu-Gi-Oh! Duel Monsters S04 E28
-http://tvku.live:8888/series/Arifardianayah/Arif/18539.mkv
-#EXTINF:-1,Yu-Gi-Oh! Duel Monsters S04 E32
-http://tvku.live:8888/series/Arifardianayah/Arif/18543.mkv
-#EXTINF:-1,Yu-Gi-Oh! Duel Monsters S05 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/18553.mkv
 #EXTINF:-1,Yu-Gi-Oh! Duel Monsters S05 E03
 http://tvku.live:8888/series/Arifardianayah/Arif/18554.mkv
-#EXTINF:-1,Yu-Gi-Oh! Duel Monsters S05 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/18555.mkv
 #EXTINF:-1,Yu-Gi-Oh! Duel Monsters S05 E05
 http://tvku.live:8888/series/Arifardianayah/Arif/18556.mkv
-#EXTINF:-1,Yu-Gi-Oh! Duel Monsters S05 E06
-http://tvku.live:8888/series/Arifardianayah/Arif/18557.mkv
-#EXTINF:-1,Yu-Gi-Oh! Duel Monsters S05 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/18559.mkv
 #EXTINF:-1,Yu-Gi-Oh! Duel Monsters S05 E14
 http://tvku.live:8888/series/Arifardianayah/Arif/18565.mkv
 #EXTINF:-1,Yu-Gi-Oh! Duel Monsters S05 E16
 http://tvku.live:8888/series/Arifardianayah/Arif/18567.mkv
-#EXTINF:-1,Yu-Gi-Oh! Duel Monsters S05 E17
-http://tvku.live:8888/series/Arifardianayah/Arif/18568.mkv
-#EXTINF:-1,Yu-Gi-Oh! Duel Monsters S05 E19
-http://tvku.live:8888/series/Arifardianayah/Arif/18570.mkv
-#EXTINF:-1,Yu-Gi-Oh! Duel Monsters S05 E22
-http://tvku.live:8888/series/Arifardianayah/Arif/18573.mkv
-#EXTINF:-1,Yu-Gi-Oh! Duel Monsters S05 E25
-http://tvku.live:8888/series/Arifardianayah/Arif/18576.mkv
-#EXTINF:-1,Yu-Gi-Oh! Duel Monsters S05 E26
-http://tvku.live:8888/series/Arifardianayah/Arif/18577.mkv
 #EXTINF:-1,Yu-Gi-Oh! Duel Monsters S05 E33
 http://tvku.live:8888/series/Arifardianayah/Arif/18584.mkv
-#EXTINF:-1,Dragon Ball Super S01 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/19030.mkv
-#EXTINF:-1,Dragon Ball Super S01 E12
-http://tvku.live:8888/series/Arifardianayah/Arif/19136.mkv
-#EXTINF:-1,Dragon Ball Super S01 E23
-http://tvku.live:8888/series/Arifardianayah/Arif/19043.mkv
-#EXTINF:-1,Dragon Ball Super S01 E24
-http://tvku.live:8888/series/Arifardianayah/Arif/19044.mkv
-#EXTINF:-1,Dragon Ball Super S01 E25
-http://tvku.live:8888/series/Arifardianayah/Arif/19045.mkv
 #EXTINF:-1,Dragon Ball Super S01 E29
 http://tvku.live:8888/series/Arifardianayah/Arif/19049.mkv
 #EXTINF:-1,Dragon Ball Super S01 E43
 http://tvku.live:8888/series/Arifardianayah/Arif/19063.mkv
-#EXTINF:-1,Dragon Ball Super S01 E58
-http://tvku.live:8888/series/Arifardianayah/Arif/19079.mkv
-#EXTINF:-1,Dragon Ball Super S01 E65
-http://tvku.live:8888/series/Arifardianayah/Arif/19084.mkv
 #EXTINF:-1,Dragon Ball Super S01 E67
 http://tvku.live:8888/series/Arifardianayah/Arif/19085.mkv
-#EXTINF:-1,Dragon Ball Super S01 E72
-http://tvku.live:8888/series/Arifardianayah/Arif/19107.mkv
-#EXTINF:-1,Dragon Ball Super S01 E79
-http://tvku.live:8888/series/Arifardianayah/Arif/19091.mkv
 #EXTINF:-1,Dragon Ball Super S01 E89
 http://tvku.live:8888/series/Arifardianayah/Arif/19100.mkv
-#EXTINF:-1,Dragon Ball Super S01 E96
-http://tvku.live:8888/series/Arifardianayah/Arif/19117.mkv
-#EXTINF:-1,Dragon Ball Super S01 E99
-http://tvku.live:8888/series/Arifardianayah/Arif/19120.mkv
-#EXTINF:-1,Dragon Ball Super S01 E101
-http://tvku.live:8888/series/Arifardianayah/Arif/19122.mkv
-#EXTINF:-1,Dragon Ball Super S01 E102
-http://tvku.live:8888/series/Arifardianayah/Arif/19137.mkv
-#EXTINF:-1,Dragon Ball Super S01 E107
-http://tvku.live:8888/series/Arifardianayah/Arif/19142.mkv
 #EXTINF:-1,Dragon Ball Super S01 E111
 http://tvku.live:8888/series/Arifardianayah/Arif/19146.mkv
-#EXTINF:-1,Dragon Ball Super S01 E114
-http://tvku.live:8888/series/Arifardianayah/Arif/19149.mkv
 #EXTINF:-1,Dragon Ball Super S01 E116
 http://tvku.live:8888/series/Arifardianayah/Arif/19151.mkv
 #EXTINF:-1,Dragon Ball Super S01 E128
 http://tvku.live:8888/series/Arifardianayah/Arif/19172.mkv
-#EXTINF:-1,Dragon Ball Z S01 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/19213.mkv
-#EXTINF:-1,Dragon Ball Z S01 E13
-http://tvku.live:8888/series/Arifardianayah/Arif/19221.mkv
 #EXTINF:-1,Dragon Ball Z S01 E20
 http://tvku.live:8888/series/Arifardianayah/Arif/19228.mkv
-#EXTINF:-1,Dragon Ball Z S01 E26
-http://tvku.live:8888/series/Arifardianayah/Arif/19234.mkv
-#EXTINF:-1,Dragon Ball Z S01 E30
-http://tvku.live:8888/series/Arifardianayah/Arif/19238.mkv
-#EXTINF:-1,Dragon Ball Z S02 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/19255.mkv
-#EXTINF:-1,Dragon Ball Z S02 E15
-http://tvku.live:8888/series/Arifardianayah/Arif/19262.mkv
-#EXTINF:-1,Dragon Ball Z S02 E20
-http://tvku.live:8888/series/Arifardianayah/Arif/19267.mkv
 #EXTINF:-1,Dragon Ball Z S03 E03
 http://tvku.live:8888/series/Arifardianayah/Arif/19287.mkv
 #EXTINF:-1,Dragon Ball Z S03 E08
 http://tvku.live:8888/series/Arifardianayah/Arif/19292.mkv
 #EXTINF:-1,Dragon Ball Z S03 E09
 http://tvku.live:8888/series/Arifardianayah/Arif/19293.mkv
-#EXTINF:-1,Dragon Ball Z S03 E10
-http://tvku.live:8888/series/Arifardianayah/Arif/19294.mkv
 #EXTINF:-1,Dragon Ball Z S03 E13
 http://tvku.live:8888/series/Arifardianayah/Arif/19297.mkv
-#EXTINF:-1,Dragon Ball Z S03 E17
-http://tvku.live:8888/series/Arifardianayah/Arif/19301.mkv
-#EXTINF:-1,Dragon Ball Z S03 E20
-http://tvku.live:8888/series/Arifardianayah/Arif/19304.mkv
-#EXTINF:-1,Dragon Ball Z S03 E24
-http://tvku.live:8888/series/Arifardianayah/Arif/19308.mkv
-#EXTINF:-1,Dragon Ball Z S04 E01
-http://tvku.live:8888/series/Arifardianayah/Arif/19336.mp4
 #EXTINF:-1,Dragon Ball Z S04 E09
 http://tvku.live:8888/series/Arifardianayah/Arif/19344.mp4
-#EXTINF:-1,Dragon Ball Z S04 E13
-http://tvku.live:8888/series/Arifardianayah/Arif/19348.mp4
-#EXTINF:-1,Dragon Ball Z S04 E14
-http://tvku.live:8888/series/Arifardianayah/Arif/19349.mp4
-#EXTINF:-1,Dragon Ball Z S04 E17
-http://tvku.live:8888/series/Arifardianayah/Arif/19352.mp4
-#EXTINF:-1,Dragon Ball Z S04 E24
-http://tvku.live:8888/series/Arifardianayah/Arif/19359.mp4
 #EXTINF:-1,Dragon Ball Z S04 E28
 http://tvku.live:8888/series/Arifardianayah/Arif/19363.mp4
 #EXTINF:-1,Dragon Ball Z S04 E31
 http://tvku.live:8888/series/Arifardianayah/Arif/19366.mp4
-#EXTINF:-1,Dragon Ball Z S04 E32
-http://tvku.live:8888/series/Arifardianayah/Arif/19367.mp4
 #EXTINF:-1,Dragon Ball Z S05 E01
 http://tvku.live:8888/series/Arifardianayah/Arif/19377.mp4
-#EXTINF:-1,Dragon Ball Z S05 E03
-http://tvku.live:8888/series/Arifardianayah/Arif/19379.mp4
 #EXTINF:-1,Dragon Ball Z S05 E07
 http://tvku.live:8888/series/Arifardianayah/Arif/19383.mp4
 #EXTINF:-1,Dragon Ball Z S05 E15
 http://tvku.live:8888/series/Arifardianayah/Arif/19391.mp4
-#EXTINF:-1,Dragon Ball Z S06 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/19410.mp4
 #EXTINF:-1,Dragon Ball Z S06 E03
 http://tvku.live:8888/series/Arifardianayah/Arif/19412.mp4
 #EXTINF:-1,Dragon Ball Z S06 E05
 http://tvku.live:8888/series/Arifardianayah/Arif/19416.mp4
-#EXTINF:-1,Dragon Ball Z S06 E13
-http://tvku.live:8888/series/Arifardianayah/Arif/19424.mp4
-#EXTINF:-1,Dragon Ball Z S06 E14
-http://tvku.live:8888/series/Arifardianayah/Arif/19425.mp4
 #EXTINF:-1,Dragon Ball Z S06 E22
 http://tvku.live:8888/series/Arifardianayah/Arif/19433.mp4
 #EXTINF:-1,Dragon Ball Z S06 E27
 http://tvku.live:8888/series/Arifardianayah/Arif/19438.mp4
 #EXTINF:-1,Dragon Ball Z S06 E29
 http://tvku.live:8888/series/Arifardianayah/Arif/19440.mp4
-#EXTINF:-1,Dragon Ball Z S08 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/19484.mkv
-#EXTINF:-1,Dragon Ball Z S08 E17
-http://tvku.live:8888/series/Arifardianayah/Arif/19499.mkv
 #EXTINF:-1,Dragon Ball Z S08 E19
 http://tvku.live:8888/series/Arifardianayah/Arif/19501.mkv
-#EXTINF:-1,Dragon Ball Z S09 E17
-http://tvku.live:8888/series/Arifardianayah/Arif/19528.mkv
-#EXTINF:-1,Dragon Ball Z S09 E38
-http://tvku.live:8888/series/Arifardianayah/Arif/19549.mkv
-#EXTINF:-1,Friends S01 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/20693.mkv
 #EXTINF:-1,Friends S01 E07
 http://tvku.live:8888/series/Arifardianayah/Arif/20696.mkv
 #EXTINF:-1,Friends S01 E09
 http://tvku.live:8888/series/Arifardianayah/Arif/20698.mkv
-#EXTINF:-1,Friends S01 E22
-http://tvku.live:8888/series/Arifardianayah/Arif/20711.mkv
 #EXTINF:-1,Friends S02 E01
 http://tvku.live:8888/series/Arifardianayah/Arif/20816.mkv
-#EXTINF:-1,Friends S02 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/20819.mkv
 #EXTINF:-1,Friends S02 E09
 http://tvku.live:8888/series/Arifardianayah/Arif/20824.mkv
 #EXTINF:-1,Friends S02 E17
 http://tvku.live:8888/series/Arifardianayah/Arif/20832.mkv
-#EXTINF:-1,Friends S02 E19
-http://tvku.live:8888/series/Arifardianayah/Arif/20834.mkv
 #EXTINF:-1,Friends S03 E11
 http://tvku.live:8888/series/Arifardianayah/Arif/21109.mkv
-#EXTINF:-1,Friends S03 E18
-http://tvku.live:8888/series/Arifardianayah/Arif/21116.mkv
-#EXTINF:-1,Friends S04 E01
-http://tvku.live:8888/series/Arifardianayah/Arif/20887.mkv
-#EXTINF:-1,Friends S04 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/20889.mkv
-#EXTINF:-1,Friends S04 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/20891.mkv
-#EXTINF:-1,Friends S04 E07
-http://tvku.live:8888/series/Arifardianayah/Arif/20894.mkv
-#EXTINF:-1,Friends S04 E16
-http://tvku.live:8888/series/Arifardianayah/Arif/20903.mkv
 #EXTINF:-1,Friends S04 E20
 http://tvku.live:8888/series/Arifardianayah/Arif/20907.mkv
-#EXTINF:-1,Friends S05 E10
-http://tvku.live:8888/series/Arifardianayah/Arif/20921.mkv
 #EXTINF:-1,Friends S05 E17
 http://tvku.live:8888/series/Arifardianayah/Arif/20928.mkv
-#EXTINF:-1,Friends S05 E18
-http://tvku.live:8888/series/Arifardianayah/Arif/20929.mkv
-#EXTINF:-1,Friends S05 E22
-http://tvku.live:8888/series/Arifardianayah/Arif/20933.mkv
 #EXTINF:-1,Friends S05 E24
 http://tvku.live:8888/series/Arifardianayah/Arif/20935.mkv
-#EXTINF:-1,Friends S06 E14
-http://tvku.live:8888/series/Arifardianayah/Arif/20973.mkv
 #EXTINF:-1,Friends S06 E15
 http://tvku.live:8888/series/Arifardianayah/Arif/20974.mkv
 #EXTINF:-1,Friends S06 E16
 http://tvku.live:8888/series/Arifardianayah/Arif/20975.mkv
-#EXTINF:-1,Friends S06 E18
-http://tvku.live:8888/series/Arifardianayah/Arif/20977.mkv
 #EXTINF:-1,Friends S07 E05
 http://tvku.live:8888/series/Arifardianayah/Arif/20990.mkv
 #EXTINF:-1,Friends S07 E19
 http://tvku.live:8888/series/Arifardianayah/Arif/21004.mkv
-#EXTINF:-1,Friends S07 E23
-http://tvku.live:8888/series/Arifardianayah/Arif/21008.mkv
 #EXTINF:-1,Friends S07 E24
 http://tvku.live:8888/series/Arifardianayah/Arif/21009.mkv
-#EXTINF:-1,Friends S08 E07
-http://tvku.live:8888/series/Arifardianayah/Arif/21016.mkv
-#EXTINF:-1,Friends S08 E12
-http://tvku.live:8888/series/Arifardianayah/Arif/21021.mkv
-#EXTINF:-1,Friends S08 E15
-http://tvku.live:8888/series/Arifardianayah/Arif/21024.mkv
-#EXTINF:-1,Friends S08 E21
-http://tvku.live:8888/series/Arifardianayah/Arif/21030.mkv
-#EXTINF:-1,Friends S08 E24
-http://tvku.live:8888/series/Arifardianayah/Arif/21033.mkv
-#EXTINF:-1,Friends S09 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/21038.mkv
-#EXTINF:-1,Friends S09 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/21042.mkv
-#EXTINF:-1,Friends S09 E14
-http://tvku.live:8888/series/Arifardianayah/Arif/21047.mkv
-#EXTINF:-1,Friends S09 E17
-http://tvku.live:8888/series/Arifardianayah/Arif/21050.mkv
-#EXTINF:-1,Friends S09 E18
-http://tvku.live:8888/series/Arifardianayah/Arif/21051.mkv
-#EXTINF:-1,Friends S09 E20
-http://tvku.live:8888/series/Arifardianayah/Arif/21053.mkv
-#EXTINF:-1,Friends S10 E14
-http://tvku.live:8888/series/Arifardianayah/Arif/21070.mkv
 #EXTINF:-1,Friends S10 E16
 http://tvku.live:8888/series/Arifardianayah/Arif/21072.mkv
-#EXTINF:-1,Supergirl S01 E01
-http://tvku.live:8888/series/Arifardianayah/Arif/21131.mp4
-#EXTINF:-1,Supergirl S01 E03
-http://tvku.live:8888/series/Arifardianayah/Arif/21136.mp4
 #EXTINF:-1,Supergirl S01 E05
 http://tvku.live:8888/series/Arifardianayah/Arif/21140.mp4
-#EXTINF:-1,Supergirl S01 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/21146.mp4
-#EXTINF:-1,Supergirl S01 E10
-http://tvku.live:8888/series/Arifardianayah/Arif/21150.mp4
 #EXTINF:-1,Supergirl S02 E17
 http://tvku.live:8888/series/Arifardianayah/Arif/21185.mp4
 #EXTINF:-1,Supergirl S03 E01
 http://tvku.live:8888/series/Arifardianayah/Arif/21191.mp4
-#EXTINF:-1,Supergirl S03 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/21192.mp4
-#EXTINF:-1,Supergirl S03 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/21194.mp4
-#EXTINF:-1,Supergirl S03 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/21198.mp4
-#EXTINF:-1,Supergirl S03 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/21199.mp4
-#EXTINF:-1,Supergirl S03 E12
-http://tvku.live:8888/series/Arifardianayah/Arif/21202.mp4
-#EXTINF:-1,Supergirl S03 E14
-http://tvku.live:8888/series/Arifardianayah/Arif/21204.mp4
-#EXTINF:-1,Supergirl S04 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/21218.mp4
-#EXTINF:-1,Supergirl S04 E06
-http://tvku.live:8888/series/Arifardianayah/Arif/21219.mp4
 #EXTINF:-1,Supergirl S04 E12
 http://tvku.live:8888/series/Arifardianayah/Arif/21225.mp4
-#EXTINF:-1,Supergirl S04 E13
-http://tvku.live:8888/series/Arifardianayah/Arif/21226.mp4
-#EXTINF:-1,Supergirl S04 E17
-http://tvku.live:8888/series/Arifardianayah/Arif/21230.mp4
-#EXTINF:-1,Prison Break S01 E01
-http://tvku.live:8888/series/Arifardianayah/Arif/21257.mp4
-#EXTINF:-1,Prison Break S01 E03
-http://tvku.live:8888/series/Arifardianayah/Arif/21259.mp4
-#EXTINF:-1,Prison Break S01 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/21260.mp4
-#EXTINF:-1,Prison Break S01 E20
-http://tvku.live:8888/series/Arifardianayah/Arif/21276.mp4
 #EXTINF:-1,Prison Break S02 E04
 http://tvku.live:8888/series/Arifardianayah/Arif/21294.mp4
-#EXTINF:-1,Prison Break S02 E15
-http://tvku.live:8888/series/Arifardianayah/Arif/21305.mp4
 #EXTINF:-1,Prison Break S02 E17
 http://tvku.live:8888/series/Arifardianayah/Arif/21307.mp4
-#EXTINF:-1,Prison Break S02 E18
-http://tvku.live:8888/series/Arifardianayah/Arif/21308.mp4
-#EXTINF:-1,Prison Break S03 E07
-http://tvku.live:8888/series/Arifardianayah/Arif/21319.mp4
-#EXTINF:-1,Prison Break S03 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/21320.mp4
 #EXTINF:-1,Prison Break S03 E10
 http://tvku.live:8888/series/Arifardianayah/Arif/21322.mp4
 #EXTINF:-1,Prison Break S03 E11
@@ -4304,404 +2592,128 @@ http://tvku.live:8888/series/Arifardianayah/Arif/21323.mp4
 http://tvku.live:8888/series/Arifardianayah/Arif/21335.mp4
 #EXTINF:-1,Prison Break S04 E14
 http://tvku.live:8888/series/Arifardianayah/Arif/21339.mp4
-#EXTINF:-1,Prison Break S05 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/21349.mp4
 #EXTINF:-1,Prison Break S05 E08
 http://tvku.live:8888/series/Arifardianayah/Arif/21355.mp4
-#EXTINF:-1,The Flash S01 E13
-http://tvku.live:8888/series/Arifardianayah/Arif/21590.mp4
-#EXTINF:-1,The Flash S01 E14
-http://tvku.live:8888/series/Arifardianayah/Arif/21591.mp4
 #EXTINF:-1,The Flash S01 E22
 http://tvku.live:8888/series/Arifardianayah/Arif/21599.mp4
-#EXTINF:-1,The Flash S02 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/21601.mp4
 #EXTINF:-1,The Flash S02 E03
 http://tvku.live:8888/series/Arifardianayah/Arif/21602.mp4
-#EXTINF:-1,The Flash S02 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/21604.mp4
 #EXTINF:-1,The Flash S02 E06
 http://tvku.live:8888/series/Arifardianayah/Arif/21605.mp4
-#EXTINF:-1,The Flash S02 E07
-http://tvku.live:8888/series/Arifardianayah/Arif/21606.mp4
 #EXTINF:-1,The Flash S02 E20
 http://tvku.live:8888/series/Arifardianayah/Arif/21619.mp4
-#EXTINF:-1,The Flash S03 E12
-http://tvku.live:8888/series/Arifardianayah/Arif/21648.mp4
-#EXTINF:-1,The Flash S03 E13
-http://tvku.live:8888/series/Arifardianayah/Arif/21649.mp4
-#EXTINF:-1,The Flash S03 E15
-http://tvku.live:8888/series/Arifardianayah/Arif/21651.mp4
-#EXTINF:-1,The Flash S04 E01
-http://tvku.live:8888/series/Arifardianayah/Arif/21660.mp4
-#EXTINF:-1,The Flash S04 E18
-http://tvku.live:8888/series/Arifardianayah/Arif/21677.mp4
 #EXTINF:-1,The Flash S05 E02
 http://tvku.live:8888/series/Arifardianayah/Arif/21704.mp4
 #EXTINF:-1,The Flash S05 E09
 http://tvku.live:8888/series/Arifardianayah/Arif/21711.mp4
 #EXTINF:-1,The Flash S05 E19
 http://tvku.live:8888/series/Arifardianayah/Arif/21721.mp4
-#EXTINF:-1,The Flash S05 E20
-http://tvku.live:8888/series/Arifardianayah/Arif/21722.mp4
-#EXTINF:-1,The Flash S05 E22
-http://tvku.live:8888/series/Arifardianayah/Arif/21724.mp4
-#EXTINF:-1,Lucifer S01 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/21747.mp4
 #EXTINF:-1,Lucifer S01 E04
 http://tvku.live:8888/series/Arifardianayah/Arif/21749.mp4
-#EXTINF:-1,Lucifer S01 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/21753.mp4
 #EXTINF:-1,Lucifer S01 E13
 http://tvku.live:8888/series/Arifardianayah/Arif/21758.mp4
-#EXTINF:-1,Lucifer S02 E01
-http://tvku.live:8888/series/Arifardianayah/Arif/21759.mp4
-#EXTINF:-1,Lucifer S02 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/21762.mp4
 #EXTINF:-1,Lucifer S02 E05
 http://tvku.live:8888/series/Arifardianayah/Arif/21763.mp4
 #EXTINF:-1,Lucifer S02 E10
 http://tvku.live:8888/series/Arifardianayah/Arif/21768.mp4
-#EXTINF:-1,Lucifer S02 E11
-http://tvku.live:8888/series/Arifardianayah/Arif/21769.mp4
-#EXTINF:-1,Lucifer S02 E14
-http://tvku.live:8888/series/Arifardianayah/Arif/21772.mp4
 #EXTINF:-1,Lucifer S02 E16
 http://tvku.live:8888/series/Arifardianayah/Arif/21774.mp4
 #EXTINF:-1,Lucifer S03 E03
 http://tvku.live:8888/series/Arifardianayah/Arif/21779.mp4
-#EXTINF:-1,Lucifer S03 E10
-http://tvku.live:8888/series/Arifardianayah/Arif/21786.mp4
-#EXTINF:-1,Lucifer S03 E14
-http://tvku.live:8888/series/Arifardianayah/Arif/21790.mp4
-#EXTINF:-1,Lucifer S03 E15
-http://tvku.live:8888/series/Arifardianayah/Arif/21791.mp4
-#EXTINF:-1,Lucifer S03 E18
-http://tvku.live:8888/series/Arifardianayah/Arif/21794.mp4
 #EXTINF:-1,Lucifer S03 E22
 http://tvku.live:8888/series/Arifardianayah/Arif/21798.mp4
-#EXTINF:-1,Lucifer S03 E23
-http://tvku.live:8888/series/Arifardianayah/Arif/21799.mp4
-#EXTINF:-1,Lucifer S03 E26
-http://tvku.live:8888/series/Arifardianayah/Arif/21802.mp4
-#EXTINF:-1,Lucifer S04 E01
-http://tvku.live:8888/series/Arifardianayah/Arif/21803.mp4
 #EXTINF:-1,Lucifer S04 E04
 http://tvku.live:8888/series/Arifardianayah/Arif/21806.mp4
-#EXTINF:-1,Lost S01 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/21361.mp4
-#EXTINF:-1,Lost S01 E10
-http://tvku.live:8888/series/Arifardianayah/Arif/21366.mp4
 #EXTINF:-1,Lost S02 E03
 http://tvku.live:8888/series/Arifardianayah/Arif/21396.mp4
 #EXTINF:-1,Lost S02 E04
 http://tvku.live:8888/series/Arifardianayah/Arif/21397.mp4
-#EXTINF:-1,Lost S02 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/21398.mp4
-#EXTINF:-1,Lost S02 E23
-http://tvku.live:8888/series/Arifardianayah/Arif/21416.mp4
-#EXTINF:-1,Lost S03 E01
-http://tvku.live:8888/series/Arifardianayah/Arif/21455.mp4
-#EXTINF:-1,Lost S03 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/21459.mp4
 #EXTINF:-1,Lost S03 E12
 http://tvku.live:8888/series/Arifardianayah/Arif/21466.mp4
-#EXTINF:-1,Lost S04 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/21479.mp4
-#EXTINF:-1,Lost S04 E03
-http://tvku.live:8888/series/Arifardianayah/Arif/21480.mp4
-#EXTINF:-1,Lost S04 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/21486.mp4
-#EXTINF:-1,Lost S04 E13
-http://tvku.live:8888/series/Arifardianayah/Arif/21490.mp4
-#EXTINF:-1,Lost S04 E14
-http://tvku.live:8888/series/Arifardianayah/Arif/21491.mp4
-#EXTINF:-1,Lost S05 E12
-http://tvku.live:8888/series/Arifardianayah/Arif/21503.mp4
 #EXTINF:-1,Lost S06 E06
 http://tvku.live:8888/series/Arifardianayah/Arif/21514.mp4
-#EXTINF:-1,Lost S06 E07
-http://tvku.live:8888/series/Arifardianayah/Arif/21515.mp4
-#EXTINF:-1,Lost S06 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/21516.mp4
 #EXTINF:-1,Lost S06 E11
 http://tvku.live:8888/series/Arifardianayah/Arif/21519.mp4
-#EXTINF:-1,Lost S06 E13
-http://tvku.live:8888/series/Arifardianayah/Arif/21522.mp4
-#EXTINF:-1,Lost S06 E14
-http://tvku.live:8888/series/Arifardianayah/Arif/21524.mp4
-#EXTINF:-1,Supernatural S01 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/20514.mp4
 #EXTINF:-1,Supernatural S01 E09
 http://tvku.live:8888/series/Arifardianayah/Arif/20519.mp4
-#EXTINF:-1,Supernatural S01 E10
-http://tvku.live:8888/series/Arifardianayah/Arif/20520.mp4
-#EXTINF:-1,Supernatural S01 E15
-http://tvku.live:8888/series/Arifardianayah/Arif/20525.mp4
 #EXTINF:-1,Supernatural S01 E19
 http://tvku.live:8888/series/Arifardianayah/Arif/20529.mp4
 #EXTINF:-1,Supernatural S01 E21
 http://tvku.live:8888/series/Arifardianayah/Arif/20531.mp4
-#EXTINF:-1,Supernatural S02 E11
-http://tvku.live:8888/series/Arifardianayah/Arif/20543.mp4
-#EXTINF:-1,Supernatural S02 E14
-http://tvku.live:8888/series/Arifardianayah/Arif/20546.mp4
-#EXTINF:-1,Supernatural S02 E19
-http://tvku.live:8888/series/Arifardianayah/Arif/20551.mp4
 #EXTINF:-1,Supernatural S03 E03
 http://tvku.live:8888/series/Arifardianayah/Arif/20557.mp4
 #EXTINF:-1,Supernatural S03 E09
 http://tvku.live:8888/series/Arifardianayah/Arif/20563.mp4
-#EXTINF:-1,Supernatural S03 E10
-http://tvku.live:8888/series/Arifardianayah/Arif/20564.mp4
-#EXTINF:-1,Supernatural S03 E14
-http://tvku.live:8888/series/Arifardianayah/Arif/20568.mp4
-#EXTINF:-1,Supernatural S03 E16
-http://tvku.live:8888/series/Arifardianayah/Arif/20570.mp4
-#EXTINF:-1,Supernatural S04 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/20572.mp4
 #EXTINF:-1,Supernatural S04 E08
 http://tvku.live:8888/series/Arifardianayah/Arif/20578.mp4
-#EXTINF:-1,Supernatural S04 E17
-http://tvku.live:8888/series/Arifardianayah/Arif/20587.mp4
-#EXTINF:-1,Supernatural S04 E18
-http://tvku.live:8888/series/Arifardianayah/Arif/20588.mp4
-#EXTINF:-1,Supernatural S05 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/20669.mp4
-#EXTINF:-1,Supernatural S05 E07
-http://tvku.live:8888/series/Arifardianayah/Arif/20674.mp4
-#EXTINF:-1,Supernatural S05 E12
-http://tvku.live:8888/series/Arifardianayah/Arif/20679.mp4
 #EXTINF:-1,Supernatural S05 E13
 http://tvku.live:8888/series/Arifardianayah/Arif/20680.mp4
-#EXTINF:-1,Supernatural S05 E15
-http://tvku.live:8888/series/Arifardianayah/Arif/20682.mp4
-#EXTINF:-1,Supernatural S05 E20
-http://tvku.live:8888/series/Arifardianayah/Arif/20687.mp4
-#EXTINF:-1,Game of Thrones S06 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/20335.mkv
 #EXTINF:-1,Game of Thrones S07 E05
 http://tvku.live:8888/series/Arifardianayah/Arif/20445.mkv
 #EXTINF:-1,Game of Thrones S08 E04
 http://tvku.live:8888/series/Arifardianayah/Arif/20451.mkv
 #EXTINF:-1,Game of Thrones S08 E05
 http://tvku.live:8888/series/Arifardianayah/Arif/20452.mkv
-#EXTINF:-1,Digimon Adventure S01 E01
-http://tvku.live:8888/series/Arifardianayah/Arif/23557.mkv
 #EXTINF:-1,Digimon Adventure S01 E15
 http://tvku.live:8888/series/Arifardianayah/Arif/23571.mkv
 #EXTINF:-1,Digimon Adventure S01 E16
 http://tvku.live:8888/series/Arifardianayah/Arif/23572.mkv
 #EXTINF:-1,Digimon Adventure S01 E18
 http://tvku.live:8888/series/Arifardianayah/Arif/23574.mkv
-#EXTINF:-1,Digimon Adventure S01 E19
-http://tvku.live:8888/series/Arifardianayah/Arif/23575.mkv
-#EXTINF:-1,Digimon Adventure S01 E22
-http://tvku.live:8888/series/Arifardianayah/Arif/23578.mkv
 #EXTINF:-1,Digimon Adventure S01 E32
 http://tvku.live:8888/series/Arifardianayah/Arif/23588.mkv
-#EXTINF:-1,Digimon Adventure S01 E34
-http://tvku.live:8888/series/Arifardianayah/Arif/23590.mkv
-#EXTINF:-1,Digimon Adventure S01 E39
-http://tvku.live:8888/series/Arifardianayah/Arif/23595.mkv
 #EXTINF:-1,Digimon Adventure S01 E44
 http://tvku.live:8888/series/Arifardianayah/Arif/23600.mkv
-#EXTINF:-1,Digimon Adventure S01 E50
-http://tvku.live:8888/series/Arifardianayah/Arif/23606.mkv
-#EXTINF:-1,Digimon Adventure S01 E53
-http://tvku.live:8888/series/Arifardianayah/Arif/23609.mkv
-#EXTINF:-1,Digimon Adventure S01 E54
-http://tvku.live:8888/series/Arifardianayah/Arif/23610.mkv
-#EXTINF:-1,Digimon Adventure S02 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/21822.mkv
-#EXTINF:-1,Digimon Adventure S02 E06
-http://tvku.live:8888/series/Arifardianayah/Arif/21826.mkv
-#EXTINF:-1,Digimon Adventure S02 E12
-http://tvku.live:8888/series/Arifardianayah/Arif/21832.mkv
-#EXTINF:-1,Digimon Adventure S02 E29
-http://tvku.live:8888/series/Arifardianayah/Arif/21849.mkv
-#EXTINF:-1,Digimon Adventure S02 E38
-http://tvku.live:8888/series/Arifardianayah/Arif/21858.mkv
-#EXTINF:-1,Digimon Adventure S02 E46
-http://tvku.live:8888/series/Arifardianayah/Arif/21866.mkv
-#EXTINF:-1,Digimon Adventure S02 E47
-http://tvku.live:8888/series/Arifardianayah/Arif/21867.mkv
-#EXTINF:-1,Digimon Adventure S02 E49
-http://tvku.live:8888/series/Arifardianayah/Arif/21869.mkv
-#EXTINF:-1,One Piece S01 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/22028.mkv
 #EXTINF:-1,One Piece S01 E15
 http://tvku.live:8888/series/Arifardianayah/Arif/22038.mkv
 #EXTINF:-1,One Piece S01 E30
 http://tvku.live:8888/series/Arifardianayah/Arif/22053.mp4
-#EXTINF:-1,One Piece S01 E31
-http://tvku.live:8888/series/Arifardianayah/Arif/22054.mp4
 #EXTINF:-1,One Piece S01 E38
 http://tvku.live:8888/series/Arifardianayah/Arif/22061.mp4
-#EXTINF:-1,One Piece S01 E40
-http://tvku.live:8888/series/Arifardianayah/Arif/22063.mp4
-#EXTINF:-1,One Piece S01 E41
-http://tvku.live:8888/series/Arifardianayah/Arif/22064.mp4
-#EXTINF:-1,One Piece S01 E45
-http://tvku.live:8888/series/Arifardianayah/Arif/22068.mp4
 #EXTINF:-1,One Piece S02 E04
 http://tvku.live:8888/series/Arifardianayah/Arif/22088.mkv
-#EXTINF:-1,One Piece S02 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/22089.mkv
-#EXTINF:-1,One Piece S02 E07
-http://tvku.live:8888/series/Arifardianayah/Arif/22091.mkv
-#EXTINF:-1,One Piece S02 E16
-http://tvku.live:8888/series/Arifardianayah/Arif/22098.mkv
 #EXTINF:-1,One Piece S03 E02
 http://tvku.live:8888/series/Arifardianayah/Arif/22102.mkv
 #EXTINF:-1,One Piece S04 E05
 http://tvku.live:8888/series/Arifardianayah/Arif/22120.mkv
-#EXTINF:-1,One Piece S04 E06
-http://tvku.live:8888/series/Arifardianayah/Arif/22121.mkv
-#EXTINF:-1,One Piece S04 E17
-http://tvku.live:8888/series/Arifardianayah/Arif/22132.mkv
-#EXTINF:-1,One Piece S04 E23
-http://tvku.live:8888/series/Arifardianayah/Arif/22138.mkv
-#EXTINF:-1,One Piece S04 E37
-http://tvku.live:8888/series/Arifardianayah/Arif/22152.mkv
-#EXTINF:-1,One Piece S05 E12
-http://tvku.live:8888/series/Arifardianayah/Arif/22159.mkv
-#EXTINF:-1,One Piece S16 E25
-http://tvku.live:8888/series/Arifardianayah/Arif/22625.mkv
-#EXTINF:-1,One Piece S16 E35
-http://tvku.live:8888/series/Arifardianayah/Arif/22635.mkv
-#EXTINF:-1,One Piece S16 E37
-http://tvku.live:8888/series/Arifardianayah/Arif/22637.mkv
-#EXTINF:-1,One Piece S17 E60
-http://tvku.live:8888/series/Arifardianayah/Arif/22709.mkv
 #EXTINF:-1,One Piece S17 E65
 http://tvku.live:8888/series/Arifardianayah/Arif/22714.mkv
 #EXTINF:-1,One Piece S17 E95
 http://tvku.live:8888/series/Arifardianayah/Arif/22744.mkv
-#EXTINF:-1,One Piece S17 E96
-http://tvku.live:8888/series/Arifardianayah/Arif/22745.mkv
 #EXTINF:-1,One Piece S17 E98
 http://tvku.live:8888/series/Arifardianayah/Arif/22747.mkv
-#EXTINF:-1,One Piece S17 E100
-http://tvku.live:8888/series/Arifardianayah/Arif/22749.mkv
 #EXTINF:-1,One Piece S17 E115
 http://tvku.live:8888/series/Arifardianayah/Arif/22764.mkv
-#EXTINF:-1,One Piece S18 E12
-http://tvku.live:8888/series/Arifardianayah/Arif/22779.mkv
 #EXTINF:-1,One Piece S18 E16
 http://tvku.live:8888/series/Arifardianayah/Arif/22783.mkv
-#EXTINF:-1,One Piece S19 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/22807.mkv
-#EXTINF:-1,One Piece S19 E12
-http://tvku.live:8888/series/Arifardianayah/Arif/22815.mkv
-#EXTINF:-1,One Piece S19 E20
-http://tvku.live:8888/series/Arifardianayah/Arif/22823.mkv
-#EXTINF:-1,One Piece S19 E22
-http://tvku.live:8888/series/Arifardianayah/Arif/22825.mkv
 #EXTINF:-1,One Piece S19 E23
 http://tvku.live:8888/series/Arifardianayah/Arif/22826.mkv
 #EXTINF:-1,One Piece S19 E39
 http://tvku.live:8888/series/Arifardianayah/Arif/22842.mkv
-#EXTINF:-1,One Piece S19 E42
-http://tvku.live:8888/series/Arifardianayah/Arif/22845.mkv
-#EXTINF:-1,One Piece S19 E51
-http://tvku.live:8888/series/Arifardianayah/Arif/22854.mkv
-#EXTINF:-1,One Piece S19 E67
-http://tvku.live:8888/series/Arifardianayah/Arif/22870.mkv
-#EXTINF:-1,One Piece S19 E69
-http://tvku.live:8888/series/Arifardianayah/Arif/22872.mkv
-#EXTINF:-1,One Piece S19 E87
-http://tvku.live:8888/series/Arifardianayah/Arif/22890.mkv
 #EXTINF:-1,One Piece S19 E89
 http://tvku.live:8888/series/Arifardianayah/Arif/22892.mkv
-#EXTINF:-1,One Piece S19 E98
-http://tvku.live:8888/series/Arifardianayah/Arif/22901.mkv
-#EXTINF:-1,One Piece S19 E101
-http://tvku.live:8888/series/Arifardianayah/Arif/22904.mkv
-#EXTINF:-1,One Piece S20 E20
-http://tvku.live:8888/series/Arifardianayah/Arif/22923.mp4
-#EXTINF:-1,One Piece S20 E21
-http://tvku.live:8888/series/Arifardianayah/Arif/22924.mkv
-#EXTINF:-1,One Piece S20 E22
-http://tvku.live:8888/series/Arifardianayah/Arif/22925.mkv
-#EXTINF:-1,Naruto Shippūden S01 E13
-http://tvku.live:8888/series/Arifardianayah/Arif/22949.mkv
-#EXTINF:-1,Naruto Shippūden S01 E29
-http://tvku.live:8888/series/Arifardianayah/Arif/22965.mkv
-#EXTINF:-1,Naruto Shippūden S02 E12
-http://tvku.live:8888/series/Arifardianayah/Arif/22980.mkv
-#EXTINF:-1,Naruto Shippūden S03 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/23412.mkv
 #EXTINF:-1,Naruto Shippūden S03 E04
 http://tvku.live:8888/series/Arifardianayah/Arif/23414.mkv
-#EXTINF:-1,Naruto Shippūden S03 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/23415.mkv
-#EXTINF:-1,Naruto Shippūden S03 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/23418.mkv
 #EXTINF:-1,Naruto Shippūden S05 E07
 http://tvku.live:8888/series/Arifardianayah/Arif/23010.mkv
 #EXTINF:-1,Naruto Shippūden S05 E17
 http://tvku.live:8888/series/Arifardianayah/Arif/23020.mkv
-#EXTINF:-1,The Walking Dead S01 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/23509.mkv
-#EXTINF:-1,The Walking Dead S01 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/23510.mkv
-#EXTINF:-1,The Walking Dead S02 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/23513.mkv
-#EXTINF:-1,The Walking Dead S02 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/23515.mkv
-#EXTINF:-1,The Walking Dead S02 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/23516.mkv
 #EXTINF:-1,The Walking Dead S03 E06
 http://tvku.live:8888/series/Arifardianayah/Arif/23530.mkv
 #EXTINF:-1,The Walking Dead S04 E05
 http://tvku.live:8888/series/Arifardianayah/Arif/23494.mp4
-#EXTINF:-1,The Walking Dead S04 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/23497.mp4
-#EXTINF:-1,The Walking Dead S04 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/23498.mp4
-#EXTINF:-1,The Walking Dead S05 E01
-http://tvku.live:8888/series/Arifardianayah/Arif/23474.mp4
-#EXTINF:-1,The Walking Dead S05 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/23475.mp4
-#EXTINF:-1,The Walking Dead S05 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/23477.mp4
 #EXTINF:-1,The Walking Dead S05 E05
 http://tvku.live:8888/series/Arifardianayah/Arif/23478.mp4
 #EXTINF:-1,The Walking Dead S05 E06
 http://tvku.live:8888/series/Arifardianayah/Arif/23479.mp4
-#EXTINF:-1,The Walking Dead S05 E07
-http://tvku.live:8888/series/Arifardianayah/Arif/23480.mp4
-#EXTINF:-1,The Walking Dead S05 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/23481.mp4
-#EXTINF:-1,The Walking Dead S05 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/23482.mp4
 #EXTINF:-1,The Walking Dead S08 E01
 http://tvku.live:8888/series/Arifardianayah/Arif/23426.mp4
-#EXTINF:-1,The Walking Dead S08 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/23427.mp4
-#EXTINF:-1,The Walking Dead S08 E03
-http://tvku.live:8888/series/Arifardianayah/Arif/23428.mp4
 #EXTINF:-1,The Walking Dead S08 E04
 http://tvku.live:8888/series/Arifardianayah/Arif/23429.mp4
 #EXTINF:-1,The Walking Dead S08 E05
 http://tvku.live:8888/series/Arifardianayah/Arif/23430.mp4
 #EXTINF:-1,The Walking Dead S08 E07
 http://tvku.live:8888/series/Arifardianayah/Arif/23432.mp4
-#EXTINF:-1,The Walking Dead S08 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/23433.mp4
-#EXTINF:-1,The Walking Dead S08 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/23434.mp4
-#EXTINF:-1,The Walking Dead S08 E10
-http://tvku.live:8888/series/Arifardianayah/Arif/23435.mp4
-#EXTINF:-1,The Walking Dead S08 E11
-http://tvku.live:8888/series/Arifardianayah/Arif/23436.mp4
-#EXTINF:-1,The Walking Dead S09 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/23545.mkv
-#EXTINF:-1,The Walking Dead S09 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/23549.mkv
-#EXTINF:-1,The Walking Dead S09 E10
-http://tvku.live:8888/series/Arifardianayah/Arif/23550.mkv
 #EXTINF:-1,The Walking Dead S09 E11
 http://tvku.live:8888/series/Arifardianayah/Arif/23551.mkv
 #EXTINF:-1,Digimon Universe: Appli Monsters S01 E05
@@ -4712,8 +2724,6 @@ http://tvku.live:8888/series/Arifardianayah/Arif/23658.mkv
 http://tvku.live:8888/series/Arifardianayah/Arif/23659.mkv
 #EXTINF:-1,Digimon Universe: Appli Monsters S01 E11
 http://tvku.live:8888/series/Arifardianayah/Arif/23660.mkv
-#EXTINF:-1,Digimon Universe: Appli Monsters S01 E12
-http://tvku.live:8888/series/Arifardianayah/Arif/23661.mkv
 #EXTINF:-1,Digimon Universe: Appli Monsters S01 E13
 http://tvku.live:8888/series/Arifardianayah/Arif/23662.mkv
 #EXTINF:-1,Digimon Universe: Appli Monsters S01 E14
@@ -4722,10 +2732,6 @@ http://tvku.live:8888/series/Arifardianayah/Arif/23663.mkv
 http://tvku.live:8888/series/Arifardianayah/Arif/23664.mkv
 #EXTINF:-1,Digimon Universe: Appli Monsters S01 E27
 http://tvku.live:8888/series/Arifardianayah/Arif/23676.mkv
-#EXTINF:-1,Digimon Universe: Appli Monsters S01 E43
-http://tvku.live:8888/series/Arifardianayah/Arif/23692.mkv
-#EXTINF:-1,Digimon Universe: Appli Monsters S01 E45
-http://tvku.live:8888/series/Arifardianayah/Arif/23694.mkv
 #EXTINF:-1,Digimon Universe: Appli Monsters S01 E46
 http://tvku.live:8888/series/Arifardianayah/Arif/23695.mkv
 #EXTINF:-1,Digimon Universe: Appli Monsters S01 E47
@@ -4736,10 +2742,6 @@ http://tvku.live:8888/series/Arifardianayah/Arif/23749.mp4
 http://tvku.live:8888/series/Arifardianayah/Arif/23752.mp4
 #EXTINF:-1,Lucifer S01 E06
 http://tvku.live:8888/series/Arifardianayah/Arif/23753.mp4
-#EXTINF:-1,Lucifer S01 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/23755.mp4
-#EXTINF:-1,Lucifer S02 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/23775.mp4
 #EXTINF:-1,Lucifer S02 E06
 http://tvku.live:8888/series/Arifardianayah/Arif/23776.mp4
 #EXTINF:-1,Lucifer S02 E09
@@ -4750,186 +2752,52 @@ http://tvku.live:8888/series/Arifardianayah/Arif/23781.mp4
 http://tvku.live:8888/series/Arifardianayah/Arif/23806.mp4
 #EXTINF:-1,Lucifer S03 E06
 http://tvku.live:8888/series/Arifardianayah/Arif/23809.mp4
-#EXTINF:-1,Lucifer S03 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/23812.mp4
-#EXTINF:-1,Lucifer S03 E10
-http://tvku.live:8888/series/Arifardianayah/Arif/23813.mp4
-#EXTINF:-1,Lucifer S03 E11
-http://tvku.live:8888/series/Arifardianayah/Arif/23814.mp4
-#EXTINF:-1,Lucifer S03 E13
-http://tvku.live:8888/series/Arifardianayah/Arif/23790.mp4
-#EXTINF:-1,Lucifer S03 E21
-http://tvku.live:8888/series/Arifardianayah/Arif/23798.mp4
-#EXTINF:-1,Lucifer S03 E22
-http://tvku.live:8888/series/Arifardianayah/Arif/23799.mp4
-#EXTINF:-1,Lucifer S03 E23
-http://tvku.live:8888/series/Arifardianayah/Arif/23800.mp4
-#EXTINF:-1,Lucifer S03 E25
-http://tvku.live:8888/series/Arifardianayah/Arif/23802.mp4
 #EXTINF:-1,Lucifer S03 E26
 http://tvku.live:8888/series/Arifardianayah/Arif/23803.mp4
-#EXTINF:-1,Lucifer S04 E01
-http://tvku.live:8888/series/Arifardianayah/Arif/23761.mp4
-#EXTINF:-1,Lucifer S04 E03
-http://tvku.live:8888/series/Arifardianayah/Arif/23763.mp4
-#EXTINF:-1,Lucifer S04 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/23768.mp4
-#EXTINF:-1,Violet Evergarden S01 E07
-http://tvku.live:8888/series/Arifardianayah/Arif/23840.mkv
-#EXTINF:-1,Violet Evergarden S01 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/23842.mkv
-#EXTINF:-1,Violet Evergarden S01 E13
-http://tvku.live:8888/series/Arifardianayah/Arif/23846.mkv
-#EXTINF:-1,Money Heist S01 E07
-http://tvku.live:8888/series/Arifardianayah/Arif/23854.mkv
-#EXTINF:-1,Money Heist S01 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/23855.mkv
 #EXTINF:-1,Money Heist S01 E09
 http://tvku.live:8888/series/Arifardianayah/Arif/23856.mkv
 #EXTINF:-1,Money Heist S01 E10
 http://tvku.live:8888/series/Arifardianayah/Arif/23857.mkv
-#EXTINF:-1,Money Heist S01 E11
-http://tvku.live:8888/series/Arifardianayah/Arif/23858.mkv
-#EXTINF:-1,Money Heist S02 E03
-http://tvku.live:8888/series/Arifardianayah/Arif/23863.mkv
-#EXTINF:-1,Money Heist S02 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/23864.mkv
 #EXTINF:-1,Money Heist S02 E07
 http://tvku.live:8888/series/Arifardianayah/Arif/23867.mkv
-#EXTINF:-1,Money Heist S02 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/23869.mkv
-#EXTINF:-1,Money Heist S03 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/23871.mkv
-#EXTINF:-1,Money Heist S03 E03
-http://tvku.live:8888/series/Arifardianayah/Arif/23872.mkv
-#EXTINF:-1,Money Heist S03 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/23873.mkv
-#EXTINF:-1,Money Heist S03 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/23874.mkv
-#EXTINF:-1,Money Heist S03 E07
-http://tvku.live:8888/series/Arifardianayah/Arif/23876.mkv
-#EXTINF:-1,Money Heist S03 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/23877.mkv
 #EXTINF:-1,Riverdale S01 E04
 http://tvku.live:8888/series/Arifardianayah/Arif/23881.mkv
-#EXTINF:-1,Riverdale S01 E06
-http://tvku.live:8888/series/Arifardianayah/Arif/23883.mkv
-#EXTINF:-1,Riverdale S01 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/23885.mkv
-#EXTINF:-1,Riverdale S01 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/23886.mkv
 #EXTINF:-1,Riverdale S01 E11
 http://tvku.live:8888/series/Arifardianayah/Arif/23888.mkv
 #EXTINF:-1,Riverdale S01 E12
 http://tvku.live:8888/series/Arifardianayah/Arif/23889.mkv
-#EXTINF:-1,Riverdale S01 E13
-http://tvku.live:8888/series/Arifardianayah/Arif/23890.mkv
-#EXTINF:-1,Riverdale S02 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/23898.mkv
-#EXTINF:-1,Riverdale S02 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/23899.mkv
 #EXTINF:-1,Riverdale S02 E10
 http://tvku.live:8888/series/Arifardianayah/Arif/23900.mkv
 #EXTINF:-1,Riverdale S02 E11
 http://tvku.live:8888/series/Arifardianayah/Arif/23901.mkv
-#EXTINF:-1,Riverdale S02 E12
-http://tvku.live:8888/series/Arifardianayah/Arif/23902.mkv
 #EXTINF:-1,Riverdale S02 E13
 http://tvku.live:8888/series/Arifardianayah/Arif/23903.mkv
 #EXTINF:-1,Riverdale S02 E14
 http://tvku.live:8888/series/Arifardianayah/Arif/23904.mkv
-#EXTINF:-1,Riverdale S02 E15
-http://tvku.live:8888/series/Arifardianayah/Arif/23905.mkv
-#EXTINF:-1,Riverdale S02 E16
-http://tvku.live:8888/series/Arifardianayah/Arif/23906.mkv
 #EXTINF:-1,Coffee Prince S01 E01
 http://tvku.live:8888/series/Arifardianayah/Arif/23913.mkv
-#EXTINF:-1,Coffee Prince S01 E03
-http://tvku.live:8888/series/Arifardianayah/Arif/23915.mkv
-#EXTINF:-1,Coffee Prince S01 E06
-http://tvku.live:8888/series/Arifardianayah/Arif/23918.mkv
-#EXTINF:-1,Coffee Prince S01 E07
-http://tvku.live:8888/series/Arifardianayah/Arif/23919.mkv
-#EXTINF:-1,Coffee Prince S01 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/23921.mkv
-#EXTINF:-1,Coffee Prince S01 E10
-http://tvku.live:8888/series/Arifardianayah/Arif/23922.mkv
-#EXTINF:-1,Coffee Prince S01 E17
-http://tvku.live:8888/series/Arifardianayah/Arif/23929.mkv
-#EXTINF:-1,The Light in Your Eyes S01 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/23933.mkv
-#EXTINF:-1,The Light in Your Eyes S01 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/23934.mkv
 #EXTINF:-1,The Light in Your Eyes S01 E06
 http://tvku.live:8888/series/Arifardianayah/Arif/23935.mkv
 #EXTINF:-1,The Light in Your Eyes S01 E07
 http://tvku.live:8888/series/Arifardianayah/Arif/23936.mkv
 #EXTINF:-1,The Light in Your Eyes S01 E08
 http://tvku.live:8888/series/Arifardianayah/Arif/23937.mkv
-#EXTINF:-1,The Light in Your Eyes S01 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/23938.mkv
-#EXTINF:-1,The Light in Your Eyes S01 E11
-http://tvku.live:8888/series/Arifardianayah/Arif/23940.mkv
-#EXTINF:-1,the greatest love S01 E03
-http://tvku.live:8888/series/Arifardianayah/Arif/23944.mkv
 #EXTINF:-1,the greatest love S01 E04
 http://tvku.live:8888/series/Arifardianayah/Arif/23945.mkv
-#EXTINF:-1,the greatest love S01 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/23949.mkv
-#EXTINF:-1,the greatest love S01 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/23950.mkv
 #EXTINF:-1,the greatest love S01 E10
 http://tvku.live:8888/series/Arifardianayah/Arif/23951.mkv
-#EXTINF:-1,the greatest love S01 E11
-http://tvku.live:8888/series/Arifardianayah/Arif/23952.mkv
 #EXTINF:-1,the greatest love S01 E12
 http://tvku.live:8888/series/Arifardianayah/Arif/23953.mkv
-#EXTINF:-1,the greatest love S01 E13
-http://tvku.live:8888/series/Arifardianayah/Arif/23954.mkv
-#EXTINF:-1,the greatest love S01 E15
-http://tvku.live:8888/series/Arifardianayah/Arif/23956.mkv
-#EXTINF:-1,chocolate S01 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/23959.mkv
-#EXTINF:-1,chocolate S01 E03
-http://tvku.live:8888/series/Arifardianayah/Arif/23960.mkv
-#EXTINF:-1,chocolate S01 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/23962.mkv
-#EXTINF:-1,chocolate S01 E06
-http://tvku.live:8888/series/Arifardianayah/Arif/23963.mkv
-#EXTINF:-1,chocolate S01 E07
-http://tvku.live:8888/series/Arifardianayah/Arif/23964.mkv
-#EXTINF:-1,chocolate S01 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/23965.mkv
-#EXTINF:-1,chocolate S01 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/23966.mkv
-#EXTINF:-1,chocolate S01 E10
-http://tvku.live:8888/series/Arifardianayah/Arif/23967.mkv
-#EXTINF:-1,chocolate S01 E11
-http://tvku.live:8888/series/Arifardianayah/Arif/23968.mkv
 #EXTINF:-1,chocolate S01 E12
 http://tvku.live:8888/series/Arifardianayah/Arif/23969.mkv
 #EXTINF:-1,chocolate S01 E13
 http://tvku.live:8888/series/Arifardianayah/Arif/23970.mkv
-#EXTINF:-1,Cunning Single Lady S01 E03
-http://tvku.live:8888/series/Arifardianayah/Arif/23983.mkv
-#EXTINF:-1,Cunning Single Lady S01 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/23985.mkv
 #EXTINF:-1,Cunning Single Lady S01 E06
 http://tvku.live:8888/series/Arifardianayah/Arif/23986.mkv
-#EXTINF:-1,Cunning Single Lady S01 E07
-http://tvku.live:8888/series/Arifardianayah/Arif/23987.mkv
-#EXTINF:-1,Cunning Single Lady S01 E10
-http://tvku.live:8888/series/Arifardianayah/Arif/23990.mkv
 #EXTINF:-1,Cunning Single Lady S01 E11
 http://tvku.live:8888/series/Arifardianayah/Arif/23991.mkv
-#EXTINF:-1,Stranger Things S01 E01
-http://tvku.live:8888/series/Arifardianayah/Arif/23997.mkv
 #EXTINF:-1,Stranger Things S01 E04
 http://tvku.live:8888/series/Arifardianayah/Arif/24000.mkv
-#EXTINF:-1,Stranger Things S01 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/24001.mkv
-#EXTINF:-1,Stranger Things S01 E06
-http://tvku.live:8888/series/Arifardianayah/Arif/24002.mkv
 #EXTINF:-1,Stranger Things S01 E07
 http://tvku.live:8888/series/Arifardianayah/Arif/24003.mkv
 #EXTINF:-1,Stranger Things S02 E04
@@ -4940,66 +2808,22 @@ http://tvku.live:8888/series/Arifardianayah/Arif/24012.mkv
 http://tvku.live:8888/series/Arifardianayah/Arif/24013.mkv
 #EXTINF:-1,Chilling Adventures of Sabrina S01 E01
 http://tvku.live:8888/series/Arifardianayah/Arif/24022.mp4
-#EXTINF:-1,Chilling Adventures of Sabrina S01 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/24026.mp4
-#EXTINF:-1,Chilling Adventures of Sabrina S01 E07
-http://tvku.live:8888/series/Arifardianayah/Arif/24028.mp4
 #EXTINF:-1,Chilling Adventures of Sabrina S01 E10
 http://tvku.live:8888/series/Arifardianayah/Arif/24031.mp4
 #EXTINF:-1,Chilling Adventures of Sabrina S02 E02
 http://tvku.live:8888/series/Arifardianayah/Arif/24033.mp4
-#EXTINF:-1,Chilling Adventures of Sabrina S02 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/24035.mp4
 #EXTINF:-1,Black Mirror S01 E03
 http://tvku.live:8888/series/Arifardianayah/Arif/24043.mkv
-#EXTINF:-1,Black Mirror S02 E01
-http://tvku.live:8888/series/Arifardianayah/Arif/24044.mkv
-#EXTINF:-1,The Return of the Condor Heroes S01 E01
-http://tvku.live:8888/series/Arifardianayah/Arif/24048.mp4
-#EXTINF:-1,The Return of the Condor Heroes S01 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/24049.mp4
 #EXTINF:-1,The Return of the Condor Heroes S01 E03
 http://tvku.live:8888/series/Arifardianayah/Arif/24050.mp4
-#EXTINF:-1,The Return of the Condor Heroes S01 E04
-http://tvku.live:8888/series/Arifardianayah/Arif/24051.mp4
-#EXTINF:-1,The Return of the Condor Heroes S01 E05
-http://tvku.live:8888/series/Arifardianayah/Arif/24052.mp4
-#EXTINF:-1,The Return of the Condor Heroes S01 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/24056.mp4
-#EXTINF:-1,The Return of the Condor Heroes S01 E10
-http://tvku.live:8888/series/Arifardianayah/Arif/24057.mp4
 #EXTINF:-1,The Return of the Condor Heroes S01 E11
 http://tvku.live:8888/series/Arifardianayah/Arif/24058.mp4
 #EXTINF:-1,The Return of the Condor Heroes S01 E12
 http://tvku.live:8888/series/Arifardianayah/Arif/24059.mp4
 #EXTINF:-1,The Return of the Condor Heroes S01 E13
 http://tvku.live:8888/series/Arifardianayah/Arif/24060.mp4
-#EXTINF:-1,The Return of the Condor Heroes S01 E14
-http://tvku.live:8888/series/Arifardianayah/Arif/24061.mp4
-#EXTINF:-1,The Return of the Condor Heroes S01 E15
-http://tvku.live:8888/series/Arifardianayah/Arif/24062.mp4
-#EXTINF:-1,The Return of the Condor Heroes S01 E16
-http://tvku.live:8888/series/Arifardianayah/Arif/24063.mp4
-#EXTINF:-1,The Return of the Condor Heroes S01 E17
-http://tvku.live:8888/series/Arifardianayah/Arif/24064.mp4
-#EXTINF:-1,The Return of the Condor Heroes S01 E18
-http://tvku.live:8888/series/Arifardianayah/Arif/24065.mp4
-#EXTINF:-1,The Return of the Condor Heroes S01 E19
-http://tvku.live:8888/series/Arifardianayah/Arif/24066.mp4
-#EXTINF:-1,The Return of the Condor Heroes S01 E20
-http://tvku.live:8888/series/Arifardianayah/Arif/24067.mp4
-#EXTINF:-1,The Return of the Condor Heroes S01 E21
-http://tvku.live:8888/series/Arifardianayah/Arif/24068.mp4
-#EXTINF:-1,The Return of the Condor Heroes S01 E24
-http://tvku.live:8888/series/Arifardianayah/Arif/24071.mp4
-#EXTINF:-1,The Return of the Condor Heroes S01 E25
-http://tvku.live:8888/series/Arifardianayah/Arif/24072.mp4
 #EXTINF:-1,The Return of the Condor Heroes S01 E32
 http://tvku.live:8888/series/Arifardianayah/Arif/24079.mp4
-#EXTINF:-1,The Return of the Condor Heroes S01 E36
-http://tvku.live:8888/series/Arifardianayah/Arif/24083.mp4
-#EXTINF:-1,The Return of the Condor Heroes S01 E40
-http://tvku.live:8888/series/Arifardianayah/Arif/24087.mp4
 #EXTINF:-1,The Return of the Condor Heroes S01 E41
 http://tvku.live:8888/series/Arifardianayah/Arif/24088.mp4
 #EXTINF:-1,The Return of the Condor Heroes S01 E49
@@ -5008,56 +2832,16 @@ http://tvku.live:8888/series/Arifardianayah/Arif/24096.mp4
 http://tvku.live:8888/series/Arifardianayah/Arif/24097.mp4
 #EXTINF:-1,Yu-Gi-Oh! S01 E01
 http://tvku.live:8888/series/Arifardianayah/Arif/24114.mp4
-#EXTINF:-1,Yu-Gi-Oh! S01 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/24115.mp4
-#EXTINF:-1,Yu-Gi-Oh! S01 E03
-http://tvku.live:8888/series/Arifardianayah/Arif/24116.mp4
-#EXTINF:-1,Yu-Gi-Oh! S01 E06
-http://tvku.live:8888/series/Arifardianayah/Arif/24119.mp4
-#EXTINF:-1,Yu-Gi-Oh! S01 E07
-http://tvku.live:8888/series/Arifardianayah/Arif/24120.mp4
-#EXTINF:-1,Yu-Gi-Oh! S01 E08
-http://tvku.live:8888/series/Arifardianayah/Arif/24121.mp4
-#EXTINF:-1,Yu-Gi-Oh! S01 E09
-http://tvku.live:8888/series/Arifardianayah/Arif/24122.mp4
-#EXTINF:-1,Yu-Gi-Oh! S01 E10
-http://tvku.live:8888/series/Arifardianayah/Arif/24123.mp4
-#EXTINF:-1,Yu-Gi-Oh! S01 E13
-http://tvku.live:8888/series/Arifardianayah/Arif/24126.mp4
-#EXTINF:-1,Yu-Gi-Oh! S01 E14
-http://tvku.live:8888/series/Arifardianayah/Arif/24127.mp4
-#EXTINF:-1,Yu-Gi-Oh! S01 E15
-http://tvku.live:8888/series/Arifardianayah/Arif/24128.mp4
 #EXTINF:-1,Pokemon XY&Z S01 E01
 http://tvku.live:8888/series/Arifardianayah/Arif/24129.mp4
-#EXTINF:-1,Pokemon XY&Z S01 E02
-http://tvku.live:8888/series/Arifardianayah/Arif/24130.mp4
 #EXTINF:-1,Pokemon XY&Z S01 E03
 http://tvku.live:8888/series/Arifardianayah/Arif/24131.mp4
 #EXTINF:-1,Pokemon XY&Z S01 E04
 http://tvku.live:8888/series/Arifardianayah/Arif/24132.mp4
-#EXTINF:-1,Pokemon XY&Z S01 E13
-http://tvku.live:8888/series/Arifardianayah/Arif/24141.mp4
-#EXTINF:-1,Pokemon XY&Z S01 E17
-http://tvku.live:8888/series/Arifardianayah/Arif/24145.mp4
 #EXTINF:-1,Pokemon XY&Z S01 E18
 http://tvku.live:8888/series/Arifardianayah/Arif/24146.mp4
-#EXTINF:-1,Pokemon XY&Z S01 E19
-http://tvku.live:8888/series/Arifardianayah/Arif/24147.mp4
-#EXTINF:-1,Pokemon XY&Z S01 E20
-http://tvku.live:8888/series/Arifardianayah/Arif/24148.mp4
-#EXTINF:-1,Pokemon XY&Z S01 E23
-http://tvku.live:8888/series/Arifardianayah/Arif/24151.mp4
 #EXTINF:-1,Pokemon XY&Z S01 E24
 http://tvku.live:8888/series/Arifardianayah/Arif/24152.mp4
-#EXTINF:-1,Pokemon XY&Z S01 E25
-http://tvku.live:8888/series/Arifardianayah/Arif/24153.mp4
-#EXTINF:-1,Pokemon XY&Z S01 E26
-http://tvku.live:8888/series/Arifardianayah/Arif/24154.mp4
-#EXTINF:-1,Pokemon XY&Z S01 E27
-http://tvku.live:8888/series/Arifardianayah/Arif/24155.mp4
-#EXTINF:-1,Pokemon XY&Z S01 E28
-http://tvku.live:8888/series/Arifardianayah/Arif/24156.mp4
 #EXTINF:-1,Pokemon XY&Z S01 E32
 http://tvku.live:8888/series/Arifardianayah/Arif/24160.mp4
 #EXTINF:-1,Pokemon XY&Z S01 E34
@@ -5066,19 +2850,5 @@ http://tvku.live:8888/series/Arifardianayah/Arif/24162.mp4
 http://tvku.live:8888/series/Arifardianayah/Arif/24163.mp4
 #EXTINF:-1,Pokemon XY&Z S01 E37
 http://tvku.live:8888/series/Arifardianayah/Arif/24165.mp4
-#EXTINF:-1,Pokemon XY&Z S01 E38
-http://tvku.live:8888/series/Arifardianayah/Arif/24166.mp4
-#EXTINF:-1,Pokemon XY&Z S01 E39
-http://tvku.live:8888/series/Arifardianayah/Arif/24167.mp4
-#EXTINF:-1,Pokemon XY&Z S01 E40
-http://tvku.live:8888/series/Arifardianayah/Arif/24168.mp4
-#EXTINF:-1,Pokemon XY&Z S01 E41
-http://tvku.live:8888/series/Arifardianayah/Arif/24169.mp4
 #EXTINF:-1,Pokemon XY&Z S01 E44
 http://tvku.live:8888/series/Arifardianayah/Arif/24172.mkv
-#EXTINF:-1,Pokemon XY&Z S01 E45
-http://tvku.live:8888/series/Arifardianayah/Arif/24173.mkv
-#EXTINF:-1,Pokemon XY&Z S01 E46
-http://tvku.live:8888/series/Arifardianayah/Arif/24174.mkv
-#EXTINF:-1,Pokemon XY&Z S01 E47
-http://tvku.live:8888/series/Arifardianayah/Arif/24175.mkv
