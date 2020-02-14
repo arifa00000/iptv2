@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1,Rai 1
 http://93.46.122.186:9981/stream/channelid/945910611?profile=pass
 #EXTINF:-1,Rai 4
@@ -94,3 +95,23 @@ http://eu.tvguzel.com:2086/live/beyaz0784/pVeckcklP8/7957.m3u8
 http://eu.tvguzel.com:2086/live/beyaz0784/pVeckcklP8/7958.m3u8
 #EXTINF:-1,AR:BEIN SPORTS 4 HD
 http://eu.tvguzel.com:2086/live/beyaz0784/pVeckcklP8/7959.m3u8
+#EXTINF:-1,AR:BEIN SPORT 1 HD
+http://eu.tvguzel.com:2086/live/beyaz0784/pVeckcklP8/7956.m3u8
+#EXTINF:-1,AR:Bein Sports 2 HD
+http://eu.tvguzel.com:2086/live/beyaz0784/pVeckcklP8/7957.m3u8
+#EXTINF:-1,AR:BEIN SPORTS 3 HD
+http://eu.tvguzel.com:2086/live/beyaz0784/pVeckcklP8/7958.m3u8
+#EXTINF:-1,AR:BEIN SPORTS 4 HD
+http://eu.tvguzel.com:2086/live/beyaz0784/pVeckcklP8/7959.m3u8
+#EXTINF:-1,AR:BEIN SPORTS 5 HD
+http://eu.tvguzel.com:2086/live/beyaz0784/pVeckcklP8/7960.m3u8
+#EXTINF:-1,AR:BEIN SPORTS 6 HD
+http://eu.tvguzel.com:2086/live/beyaz0784/pVeckcklP8/7961.m3u8
+#EXTINF:-1,AR:BEIN SPORTS 7 HD
+http://eu.tvguzel.com:2086/live/beyaz0784/pVeckcklP8/7962.m3u8
+#EXTINF:-1,AR:BEIN SPORTS 8 HD
+http://eu.tvguzel.com:2086/live/beyaz0784/pVeckcklP8/7963.m3u8
+#EXTINF:-1,AR:BEIN SPORTS 9 HD
+http://eu.tvguzel.com:2086/live/beyaz0784/pVeckcklP8/7964.m3u8
+#EXTINF:-1,AR:BEIN SPORTS 10 HD
+http://eu.tvguzel.com:2086/live/beyaz0784/pVeckcklP8/8952.m3u8
