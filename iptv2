@@ -1,418 +1,71 @@
 #EXTM3U
-#EXTINF:0 tvg-id="FOXSports1.us" group-title="Channels",FOX SPORTS 1
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/1367
-#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Channels",FOX SPORTS 2
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/38483
-#EXTINF:0 tvg-id="FOXSoccerPlus.us" group-title="Channels",FOX SOCCER PLUS
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/33472
-#EXTINF:0 tvg-id="CBSSportsNetwork.us" group-title="Channels",CBS SPORTS HQ
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/99477
-#EXTINF:0 tvg-id="NFLNetwork.mx" group-title="Channels",NFL NETWORK
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/1402
-#EXTINF:0 tvg-id="NBA.blt" group-title="Channels",NBA TV
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/29485
-#EXTINF:0 tvg-id="MLBNetwork.us" group-title="Channels",MLB NETWORK
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/1389
-#EXTINF:0 tvg-id="NHLNetwork.us" group-title="Channels",NHL NETWORK
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/1612
-#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Channels",ELEVEN SPORTS
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/86505
-#EXTINF:0 tvg-id="ext" group-title="Channels",FREESPORTS | VIP
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/98772
-#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIER SPORTS 1 | VIP
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/98771
-#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIER SPORTS 2 | VIP
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/98770
-#EXTINF:0 tvg-id="FreeSports.uk" group-title="Channels",FREESPORTS
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/96973
-#EXTINF:0 tvg-id="PremierSports1.uk" group-title="Channels",PREMIER SPORTS 1
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/96972
-#EXTINF:0 tvg-id="PremierSports2.uk" group-title="Channels",PREMIER SPORTS 2
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/96971
-#EXTINF:0 tvg-id="ext" group-title="Channels",UFC TV
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/33843
-#EXTINF:0 tvg-id="ext" group-title="Channels",UFC FIGHT PASS 1
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/102578
-#EXTINF:0 tvg-id="ext" group-title="Channels",UFC FIGHT PASS 2
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/96165
-#EXTINF:0 tvg-id="ext" group-title="Channels",UFC FIGHT PASS 3
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/96166
-#EXTINF:0 tvg-id="ext" group-title="Channels",UFC FIGHT PASS 4
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/96167
-#EXTINF:0 tvg-id="ext" group-title="Channels",UFC FIGHT PASS 5
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/102579
-#EXTINF:0 tvg-id="WWE.ca" group-title="Channels",WWE
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/36372
-#EXTINF:0 tvg-id="Golf.fr" group-title="Channels",GOLF CHANNEL
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/1479
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS ARIZONA
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/33761
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS ASIA 1 (HK | THAI)
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/97685
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS ASIA 1 (PHIL)
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/97684
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS ASIA 1 (SING)
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/97683
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS ASIA 2
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/97682
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS ASIA 3
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/97681
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS RACING | VIP
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/99601
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS DETROIT
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/33759
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS FLORIDA
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/33758
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS MIDWEST
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/33756
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS NORTH
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/33755
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS OHIO
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/33754
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS OKLAHOMA
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/89131
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS PRIME TICKET
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/36570
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS SAN DIEGO
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/36279
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS SOUTH
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/33751
-#EXTINF:0 tvg-id="FoxSportsSoutheast.us" group-title="Channels",FOX SPORTS SOUTHEAST
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/33750
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS SOUTHWEST
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/33749
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS SOUTHWEST
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/36277
-#EXTINF:0 tvg-id="FoxSportsSun.us" group-title="Channels",FOX SPORTS SUN
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/33748
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS WEST
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/33746
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORTS YES NETWORK
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/33762
-#EXTINF:0 tvg-id="FoxSports.ar" group-title="Channels",FOX DEPORTES
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/36267
-#EXTINF:0 tvg-id="Fightnetwork.gr" group-title="Channels",FIGHT NETWORK
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/29193
-#EXTINF:0 tvg-id="BoxNation.uk" group-title="Channels",BOX NATION
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/1380
-#EXTINF:0 tvg-id="ext" group-title="Channels",BT SPORTS 1 | VIP
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/89214
-#EXTINF:0 tvg-id="ext" group-title="Channels",BT SPORTS 2 | VIP
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/89213
-#EXTINF:0 tvg-id="ext" group-title="Channels",BT SPORTS 3 | VIP
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/89212
-#EXTINF:0 tvg-id="ext" group-title="Channels",BT SPORTS EPSN
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/89211
-#EXTINF:0 tvg-id="ext" group-title="Channels",BT SPORTS EXTRA 1 | VIP
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/100702
-#EXTINF:0 tvg-id="ext" group-title="Channels",BT SPORTS EXTRA 2 | VIP
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/100703
-#EXTINF:0 tvg-id="ext" group-title="Channels",BT SPORTS EXTRA 3 | VIP
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/100704
-#EXTINF:0 tvg-id="ext" group-title="Channels",BT SPORTS EXTRA 4 | VIP
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/100705
-#EXTINF:0 tvg-id="ext" group-title="Channels",BT SPORTS EXTRA 5 | VIP
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/100706
-#EXTINF:0 tvg-id="ext" group-title="Channels",BT SPORTS EXTRA 6 | VIP
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/100707
-#EXTINF:0 tvg-id="ext" group-title="Channels",BT SPORTS EXTRA 7 | VIP
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/100708
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORTS ACTION | VIP
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/98789
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORTS ARENA | VIP
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/98787
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORTS CRICKET | VIP
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/98785
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORTS F1 | VIP
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/98783
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORTS FOOTBALL | VIP
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/98781
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORTS GOLF | VIP
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/98779
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORTS MAIN EVENT | VIP
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/98777
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORTS MIX | VIP
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/98857
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORTS NEWS | VIP
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/98801
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORTS PREMIER LEAGUE | VIP
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/98775
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORTS RACING | VIP
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/98773
-#EXTINF:0 tvg-id="esp-int" group-title="Channels",EUROSPORT 1
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/31459
-#EXTINF:0 tvg-id="esp2-int" group-title="Channels",EUROSPORT 2
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/31460
-#EXTINF:0 tvg-id="TSN1.ca" group-title="Channels",TSN 1
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/1621
-#EXTINF:0 tvg-id="TSN2.ca" group-title="Channels",TSN 2
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/1622
-#EXTINF:0 tvg-id="TSN3.ca" group-title="Channels",TSN 3
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/1623
-#EXTINF:0 tvg-id="TSN4.ca" group-title="Channels",TSN 4
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/1624
-#EXTINF:0 tvg-id="TSN5.ca" group-title="Channels",TSN 5
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/1625
-#EXTINF:0 tvg-id="SportsnetWorld.ca" group-title="Channels",SPORTSNET WORLD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/1619
-#EXTINF:0 tvg-id="SportsNetOntario.ca" group-title="Channels",SPORTSNET ONTARIO
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/25999
-#EXTINF:0 tvg-id="SportsNetNewYork.us" group-title="Channels",SPORTSNET 360
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/26000
-#EXTINF:0 tvg-id="SportsNetOne.ca" group-title="Channels",SPORTSNET ONE
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/26001
-#EXTINF:0 tvg-id="SportsNetPacifique.ca" group-title="Channels",SPORTSNET PACIFIC
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/26002
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS esp
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/36412
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="Channels",BEIN SPORTS USA
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/1501
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS ESP (US)
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/27685
-#EXTINF:0 tvg-id="BeINLaLiga.es" group-title="Channels",BEIN SPORTS LA LIGA
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/28014
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN CONNECT 4
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/38455
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN CONNECT 5
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/38456
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN CONNECT 6
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/38457
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN CONNECT 7
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/38458
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN CONNECT 8
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/38459
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bee n Sport 1
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/89210
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bee n Sport 2
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/89209
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bee N Sport 3
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/89208
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bee N Sport 4
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/89207
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bee n Sport 5
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/89206
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bee n Sport 6
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/89205
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bee n Sport 7
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/89204
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bee N Sport 8
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/89203
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bee N Sport 9
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/89202
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bee N Sport 10
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/89201
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bee N Sport 11
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/89200
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bee n Sport 12
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/89199
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bee N Sport 13
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/100633
-#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKEYE SPORTS BUNDESLIGA 1 | FHD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/88860
-#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKEYE SPORTS BUNDESLIGA 2 | HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/88859
-#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKEYE SPORTS BUNDESLIGA 3 | FHD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/88858
-#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKEYE SPORTS BUNDESLIGA 4 | HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/88857
-#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKEYE SPORTS BUNDESLIGA 5 | HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/88856
-#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKEYE SPORTS BUNDESLIGA 6 | HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/88855
-#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKEYE SPORTS BUNDESLIGA 7 | HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/88854
-#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKEYE SPORTS BUNDESLIGA 8 | HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/88853
-#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKEYE SPORTS BUNDESLIGA 9 | HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/88852
-#EXTINF:0 tvg-id="ext" group-title="Channels",DE: SKEYE SPORTS BUNDESLIGA 10 | HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/88851
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 1 (FR)
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/77967
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 2 (FR)
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/77966
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 3 (FR)
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/77965
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 1 (PL)
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/77961
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 2 (PL)
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/77960
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 3 (PL)
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/77959
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 4 (PL)
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/77958
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 1 (NL)
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/77964
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 2 (NL)
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/77963
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 3 (NL)
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/77962
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 5 (PL)
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/77957
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 6 (PL)
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/77956
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Fox Sports Local
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/73857
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Fox Sports 2
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/73856
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Fox Sports 3 Local
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/73855
-#EXTINF:0 tvg-id="ext" group-title="Channels",CAR: SPORTSMAX
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/96883
-#EXTINF:0 tvg-id="ext" group-title="Channels",CAR: SPORTSMAX 2
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/96882
-#EXTINF:0 tvg-id="ext" group-title="Channels",CAR: SPORTSMAX 2 OPT2
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/96851
-#EXTINF:0 tvg-id="ext" group-title="Channels",CAR: SPORTSMAX 2 OPT3
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/96850
-#EXTINF:0 tvg-id="ext" group-title="Channels",CAR: SPORTSMAX CRICKET
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/96881
-#EXTINF:0 tvg-id="ext" group-title="Channels",CAR: SPORTSMAX CRICKET (OPT2)
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/96799
-#EXTINF:0 tvg-id="ext" group-title="Channels",CAR: SPORTSMAX OPT2
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/96853
-#EXTINF:0 tvg-id="ext" group-title="Channels",CAR: SPORTSMAX OPT3
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/96852
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: Sport TV 4 HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/100394
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: Sport TV 3 HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/100395
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: Sport TV 2 HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/100396
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: Sport TV 1 HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/100397
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 6 HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/100449
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 5 HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/100450
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 4 HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/100451
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 3 HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/100452
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 2 HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/100453
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 1 HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/100454
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: Dazn Sport 1 HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/101899
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: Dazn Sport 2 HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/101900
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: Dazn Sport 3 HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/101901
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: Dazn Sport 4 HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/101902
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: Dazn Sport 5 HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/101903
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: Dazn Sport 6 HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/101904
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: Dazn Sport 7 HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/101905
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: Dazn Sport 8 HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/101906
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: Dazn Sport 9 Full HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/101907
-#EXTINF:0 tvg-id="SkySportUno.it" group-title="Channels",IT: SKY SPORT 1 FULL HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/102060
-#EXTINF:0 tvg-id="SKYSport24.it" group-title="Channels",IT: SKY SPORT 24 FULL HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/102061
-#EXTINF:0 tvg-id="SKYSport24.it" group-title="Channels",IT: SKY SPORT 24 HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/102062
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: SKY Sport 251 FULL HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/102063
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: SKY Sport 251 HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/102064
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: SKY SPORT ARENA FULL HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/102065
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: SKY SPORT ARENA HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/102066
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: SKY SPORT COLLECTION FULL HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/102067
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: SKY SPORT COLLECTION HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/102068
-#EXTINF:0 tvg-id="SkySportF1.it" group-title="Channels",IT: SKY SPORT F1 HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/102069
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: SKY SPORT FOOTBALL FULL HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/102070
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: SKY SPORT FOOTBALL HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/102071
-#EXTINF:0 tvg-id="SkySportMotoGP.it" group-title="Channels",IT: SKY SPORT MOTO GP HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/102072
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: SKY Sport NBA full
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/102073
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: SKY SPORT NBA HD
-http://primestreams.tv:826/polarisx3/Qw76j61Bib/102074
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: SKY SPORT SERIE A FULL HD
+#EXTINF:-1,IT: ITA - Milan Channel
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/101941
+#EXTINF:-1,IT: Ita - Roma Channel
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/101943
+#EXTINF:-1,IT: SKY SPORT SERIE A FULL HD
 http://primestreams.tv:826/polarisx3/Qw76j61Bib/102075
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: SKY SPORT SERIE A HD
+#EXTINF:-1,IT: SKY SPORT SERIE A HD
 http://primestreams.tv:826/polarisx3/Qw76j61Bib/102076
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: SKY SPORT UNO HD
+#EXTINF:-1,IT: SKY SPORT UNO HD
 http://primestreams.tv:826/polarisx3/Qw76j61Bib/102077
-
-#EXTM3U
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/400.png",Bein Sport
-http://nvkdn.redi-vo.com/iptv/ch400?code=1701273726237058&key=38799
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 1 HD
-http://nvkdn.redi-vo.com/iptv/ch111?code=1701273726237058&key=32592
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8111.png",BeInSport 1 SD
-http://nvkdn.redi-vo.com/iptv/ch8111?code=1701273726237058&key=10916
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInSport 2 HD
-http://nvkdn.redi-vo.com/iptv/ch112?code=1701273726237058&key=10230
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8112.png",BeInSport 2 SD
-http://nvkdn.redi-vo.com/iptv/ch8112?code=1701273726237058&key=33383
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/113.png",BeInSport 3 HD
-http://nvkdn.redi-vo.com/iptv/ch113?code=1701273726237058&key=33509
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8113.png",BeInSport 3 SD
-http://nvkdn.redi-vo.com/iptv/ch8113?code=1701273726237058&key=18186
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/114.png",BeInSport 4 HD
-http://nvkdn.redi-vo.com/iptv/ch114?code=1701273726237058&key=13908
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8114.png",BeInSport 4 SD
-http://nvkdn.redi-vo.com/iptv/ch8114?code=1701273726237058&key=45296
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/115.png",BeInSport 5 HD
-http://nvkdn.redi-vo.com/iptv/ch115?code=1701273726237058&key=13355
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8115.png",BeInSport 5 SD
-http://nvkdn.redi-vo.com/iptv/ch8115?code=1701273726237058&key=44845
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/116.png",BeInSport 6 HD
-http://nvkdn.redi-vo.com/iptv/ch116?code=1701273726237058&key=28702
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8116.png",BeInSport 6 SD
-http://nvkdn.redi-vo.com/iptv/ch8116?code=1701273726237058&key=25374
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/117.png",BeInSport 7 HD
-http://nvkdn.redi-vo.com/iptv/ch117?code=1701273726237058&key=12664
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8117.png",BeInSport 7 SD
-http://nvkdn.redi-vo.com/iptv/ch8117?code=1701273726237058&key=19805
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/118.png",BeInSport 8 HD
-http://nvkdn.redi-vo.com/iptv/ch118?code=1701273726237058&key=49953
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8118.png",BeInSport 8 SD
-http://nvkdn.redi-vo.com/iptv/ch8118?code=1701273726237058&key=24731
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/510.png",BeInSport 9 HD
-http://nvkdn.redi-vo.com/iptv/ch510?code=1701273726237058&key=17596
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8510.png",BeInSport 9 SD
-http://nvkdn.redi-vo.com/iptv/ch8510?code=1701273726237058&key=31498
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/511.png",BeInSport 10 HD
-http://nvkdn.redi-vo.com/iptv/ch511?code=1701273726237058&key=44170
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8511.png",BeInSport 10 SD
-http://nvkdn.redi-vo.com/iptv/ch8511?code=1701273726237058&key=30449
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/512.png",BeInSport 11 HD
-http://nvkdn.redi-vo.com/iptv/ch512?code=1701273726237058&key=26990
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/c8h512.png",BeInSport 11 SD
-http://nvkdn.redi-vo.com/iptv/c8h512?code=1701273726237058&key=38418
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport 12 HD
-http://nvkdn.redi-vo.com/iptv/ch513?code=1701273726237058&key=64447
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8513.png",BeInSport 12 SD
-http://nvkdn.redi-vo.com/iptv/ch8513?code=1701273726237058&key=59451
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/514.png",BeInSport 13 HD
-http://nvkdn.redi-vo.com/iptv/ch514?code=1701273726237058&key=13675
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8514.png",BeInSport 13 SD
-http://nvkdn.redi-vo.com/iptv/ch8514?code=1701273726237058&key=43329
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/515.png",BeInSport 14 HD
-http://nvkdn.redi-vo.com/iptv/ch515?code=1701273726237058&key=36029
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8515.png",BeInSport 14 SD
-http://nvkdn.redi-vo.com/iptv/ch8515?code=1701273726237058&key=13052
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/516.png",BeInSport 15 HD
-http://nvkdn.redi-vo.com/iptv/ch516?code=1701273726237058&key=49264
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8516.png",BeInSport 15 SD
-http://nvkdn.redi-vo.com/iptv/ch8516?code=1701273726237058&key=61545
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/517.png",BeInSport 16 HD 
-http://nvkdn.redi-vo.com/iptv/ch517?code=1701273726237058&key=38569
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8517.png",BeInSport 16 SD 
-http://nvkdn.redi-vo.com/iptv/ch8517?code=1701273726237058&key=64210
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/522.png",BeInSport NBA HD 
+#EXTINF:-1,IT: SKY TG 24 HD
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/102078
+#EXTINF:-1,IT: SKY UNO  1 FHD
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/102079
+#EXTINF:-1,IT: SKY UNO  1 HD
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/102080
+#EXTINF:-1,IT: SKY UNO FULL HD
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/102081
+#EXTINF:-1,IT: SKY UNO HD
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/102082
+#EXTINF:-1,IT: SKY SPORT 1 FULL HD
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/102060
+#EXTINF:-1,IT: SKY SPORT 24 FULL HD
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/102061
+#EXTINF:-1,IT: SKY SPORT 24 HD
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/102062
+#EXTINF:-1,IT: SKY Sport 251 FULL HD
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/102063
+#EXTINF:-1,IT: SKY Sport 251 HD
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/102064
+#EXTINF:-1,IT: SKY SPORT ARENA FULL HD
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/102065
+#EXTINF:-1,IT: SKY SPORT ARENA HD
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/102066
+#EXTINF:-1,IT: SKY SPORT COLLECTION FULL HD
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/102067
+#EXTINF:-1,IT: SKY SPORT COLLECTION HD
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/102068
+#EXTINF:-1,IT: SKY SPORT FOOTBALL FULL HD
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/102070
+#EXTINF:-1,IT: SKY SPORT FOOTBALL HD
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/102071
+#EXTINF:-1,IT: SKY Calcio 3 FHD
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/102010
+#EXTINF:-1,IT: SKY CALCIO 4 HD
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/102011
+#EXTINF:-1,IT: SKY CALCIO 5 FHD
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/102012
+#EXTINF:-1,IT: SKY CALCIO 5 HD
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/102013
+#EXTINF:-1,IT: SKY CALCIO 6 HD
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/102014
+#EXTINF:-1,IT: Dazn Sport 1 HD
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/101899
+#EXTINF:-1,IT: Dazn Sport 2 HD
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/101900
+#EXTINF:-1,IT: Dazn Sport 3 HD
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/101901
+#EXTINF:-1,IT: Dazn Sport 4 HD
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/101902
+#EXTINF:-1,IT: Dazn Sport 5 HD
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/101903
+#EXTINF:-1,IT: Dazn Sport 6 HD
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/101904
+#EXTINF:-1,IT: Dazn Sport 7 HD
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/101905
+#EXTINF:-1,IT: Dazn Sport 8 HD
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/101906
+#EXTINF:-1,IT: Dazn Sport 9 Full HD
+http://primestreams.tv:826/polarisx3/Qw76j61Bib/101907
