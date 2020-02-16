@@ -505,3 +505,12 @@ http://skdn.redi-vo.com/iptv/ch1355?code=103131497823984&key=20046
 
 #EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1355.png",Smart Sport 1
 http://skdn.redi-vo.com/iptv/ch1355?code=8601338691674826&key=20046
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 1 HD Malaysia 50fps" tvg-logo="" group-title="Sports",FOX Sports 1 HD Malaysia 50fps
+http://tvku.live:8888/Arifardianayah/Arif/6004
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 HD Malaysia 50fps" tvg-logo="" group-title="Sports",FOX Sports 2 HD Malaysia 50fps
+http://tvku.live:8888/Arifardianayah/Arif/6005
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3 HD Malaysia 50fps" tvg-logo="" group-title="Sports",FOX Sports 3 HD Malaysia 50fps
+http://tvku.live:8888/Arifardianayah/Arif/6006
