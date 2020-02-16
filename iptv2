@@ -502,3 +502,6 @@ http://skdn.redi-vo.com/iptv/ch1356?code=103131497823984&key=18724
  
 #EXTINF:-1,Smart Sport 1
 http://skdn.redi-vo.com/iptv/ch1355?code=103131497823984&key=20046
+
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1355.png",Smart Sport 1
+http://skdn.redi-vo.com/iptv/ch1355?code=8601338691674826&key=20046
