@@ -425,3 +425,17 @@ http://skdn.redi-vo.com/iptv/ch1532?code=1701273726237058&key=31381
 http://skdn.redi-vo.com/iptv/ch747?code=1701273726237058&key=20096
 #EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/841.png",Al Iraqya Sport
 http://skdn.redi-vo.com/iptv/ch841?code=1701273726237058&key=64008
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zWqFBfj.png" group-title="UK",Sky Sports Action (Opt-1)
+http://cstream9.com/hls/skysportsaction.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zWqFBfj.png" group-title="UK",Sky Sports Action (Opt-2)
+http://cstream8.com/hls/skysportsaction.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PVj0gnh.png" group-title="UK",Sky Sports Arena
+http://cstream9.com/hls/skysportsarena.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/88SnVWu.png" group-title="UK",Sky Sports Cricket
+http://cstream9.com/hls/skysports5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zTTsvvJ.png" group-title="UK",Sky Sports Golf
+https://cstream9.com/hls/skysportsgolf.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J9YlewU.png" group-title="UK",Sky Sports Main Event
+http://cstream9.com/hls/skysports1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8rO1T4s.png" group-title="UK",Sky Sports Premier League (Opt-1)
+http://cstream9.com/hls/skysports3.m3u8
