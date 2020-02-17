@@ -425,17 +425,15 @@ http://skdn.redi-vo.com/iptv/ch1532?code=1701273726237058&key=31381
 http://skdn.redi-vo.com/iptv/ch747?code=1701273726237058&key=20096
 #EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/841.png",Al Iraqya Sport
 http://skdn.redi-vo.com/iptv/ch841?code=1701273726237058&key=64008
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zWqFBfj.png" group-title="UK",Sky Sports Action (Opt-1)
-http://cstream9.com/hls/skysportsaction.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zWqFBfj.png" group-title="UK",Sky Sports Action (Opt-2)
-http://cstream8.com/hls/skysportsaction.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PVj0gnh.png" group-title="UK",Sky Sports Arena
-http://cstream9.com/hls/skysportsarena.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/88SnVWu.png" group-title="UK",Sky Sports Cricket
-http://cstream9.com/hls/skysports5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zTTsvvJ.png" group-title="UK",Sky Sports Golf
-https://cstream9.com/hls/skysportsgolf.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J9YlewU.png" group-title="UK",Sky Sports Main Event
-http://cstream9.com/hls/skysports1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8rO1T4s.png" group-title="UK",Sky Sports Premier League (Opt-1)
-http://cstream9.com/hls/skysports3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LEy2nVy.png" group-title="ICELAND",Sport TV 1
+https://5-226-137-173.netvarp.is/beint/sporttv1/tracks-v2a1/mono.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LEy2nVy.png" group-title="ICELAND",Sport TV 2
+https://5-226-137-173.netvarp.is/beint/sporttv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LEy2nVy.png" group-title="ICELAND",Sport TV 3
+https://213-167-154-115.netvarp.is/beint/sporttv3/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LEy2nVy.png" group-title="ICELAND",Sport TV 4
+https://213-167-154-115.netvarp.is/beint/sporttv4/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LEy2nVy.png" group-title="ICELAND",Sport TV 5
+https://213-167-154-115.netvarp.is/beint/sporttv5/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LEy2nVy.png" group-title="ICELAND",Sport TV 6
+https://213-167-154-115.netvarp.is/beint/sporttv6/mono.m3u8
